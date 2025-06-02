@@ -1,3 +1,4 @@
+# SQL FILES
 The sql_files folder contains the follwoing files for their respective purpose:
 
 - Create_tables: This contains codes for creating the transcation, customer and product tables in MySQL database
