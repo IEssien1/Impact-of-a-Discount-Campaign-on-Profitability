@@ -1,0 +1,1333 @@
+﻿CustomerID,Name,Gender,Email,DateOfRegistration,ShippingAddress,PreferredPaymentMethod,PreferredCategories,LoyaltyPoints,PhoneVerified,EmailVerified
+CUST_001,Angela Rodriguez,Female,enichols@yahoo.com,2022-09-06,"5488 Duarte Loaf Suite 980
+Port Karenfort, NJ 76568",Credit Card,Fashion,3176,Yes,Yes
+CUST_002,Mark Davus,Male,unknown,2024-06-28,"76790 Middleton Roads Suite 299
+Mccoyfort, ID 35694",Bank Transfer,Home Appliances,4475,No,Yes
+CUST_003,Sheryl Lee,Male,santiagowalter@perez.biz,2022-06-29,"2671 Gregory Branch Apt. 227
+Paulborough, ND 19225",Credit Card,Groceries,0,No,Yes
+CUST_004,Jennifer Watson,Male,marshalldavid@hotmail.com,2021-09-22,"1907 Jeffrey Corners Suite 646
+Taylorfort, NE 43994",Mobile Payment,Groceries,2841,Yes,No
+CUST_005,Richard Peterson,Male,ithomas@yahoo.com,2020-06-17,"263 Walker Knoll Suite 048
+Barbaraview, RI 69220",Bank Transfer,Groceries,4000,Yes,No
+CUST_006,Thompson Frederick,Male,thompsonfrederick@reynolds-montoya.com,2021-04-10,"809 Horton Skyway Suite 782
+West Kristin, WY 14827",Credit Card,Electronics,4704,Yes,No
+CUST_007,Mark Singleton,Male,victorleblanc@gmail.com,2020-03-01,"3853 Timothy Pass Suite 816
+Lake Laurastad, ND 17010",Credit Card,Fashion,220,No,Yes
+CUST_008,Rebecca Webb,Male,baldwingrant@ramos-evans.com,2025-01-03,"5037 Hernandez Islands
+Bryanborough, AL 66217",PayPal,Groceries,1916,Yes,No
+CUST_009,Rebecca Huang,Male,unknown,2024-09-11,"USNV Ortiz
+FPO AE 76783",Pay,Home Appliances,4985,No,No
+CUST_010,Sarah59,Male,sarah59@salazar.com,2020-04-18,"0514 Daniel Ferry Apt. 970
+Jasonport, GA 32053",Bank Transfer,Groceries,1459,Yes,No
+CUST_012,Kenneth Harrison,Male,harterik@hughes.info,2024-01-16,"64614 Jason Hills Suite 376
+West Williamside, ND 46520",Bank Transfer,Groceries,3073,Yes,Yes
+CUST_013,Scott Gibson,Female,ythompson@camacho.com,2022-05-01,"PSC 1402, Box 7203
+APO AA 12398",Credit Card,Fashion,3067,No,Yes
+CUST_014,Diane34,Male,diane34@powell.com,2024-02-14,"71894 Steven Pass Apt. 913
+Larryville, VT 71622",Credit Card,Electronics,2684,Yes,No
+CUST_015,Mr. John Walker,Male,antonio23@martinez-marshall.com,2021-08-09,"822 Adam Throughway
+North Amyland, NM 76382",Bank,Fashion,4107,No,Yes
+CUST_016,Joshua Rogers,Male,rodney61@gmail.com,2023-07-11,"683 Cynthia Shore
+Lloydport, NE 57613",PayPal,Books,13,No,Yes
+CUST_017,Kimberly,Female,kimberly45@yahoo.com,2022-08-12,"38013 Anthony Valley Suite 451
+Heathermouth, IL 60258",Mobile Payment,Home Appliances,4908,No,No
+CUST_018,Lisa Tuckers,Female,nbutler@hotmail.com,2020-08-06,"USNV Woods
+FPO AA 66200",PayPal,Books,3311,Yes,No
+CUST_019,Angelica,Female,angelica42@gmail.com,2024-12-13,"56047 Kelly Gardens
+Michaelborough, MT 29067",Mobile Payment,Books,632,No,Yes
+CUST_020,Nathaniel Ruiz,Male,iclayton@yahoo.com,2021-09-01,"438 Norton Divide
+Lake David, WA 61209",Bank Transfer,Home Appliances,1884,No,Yes
+CUST_021,Frica Cortez,Male,greenashley@wiluox-smith.com,2024-10-29,"PSC 8510, Box 9719
+APO AE 08731",Bank Transfer,Home Appliances,1131,Yes,No
+CUST_022,Crystal Torres,Male,ellislisa@yahoo.com,2020-11-07,"24271 Atkins Loop Suite 185
+South Johnmouth, MS 21553",Bank Transfer,Home Appliances,4095,Yes,Yes
+CUST_023,Jennifer Arnold,Male,brandon14@bennett.org,2020-11-08,"89947 Price Glens Apt. 763
+Lake Yolanda, MI 42079",Credit Card,Fashion,1539,Yes,No
+CUST_024,Aaron Glenn,Female,rikhardsonsonya@gmail.com,2022-10-25,"900 Martinez Lock
+South Pamelatown, VT 56617",Bank Transfer,Groceries,362,Yes,No
+CUST_025,Sheila Green,Female,jeffery29@gmail.com,2021-03-06,"3880 Bradley Lights Apt. 050
+Millerview, AZ 13977",Mobile Payment,Home Appliances,1730,No,Yes
+CUST_027,John Hall,Female,ohunter@diaz-rocha.com,2023-12-16,"3223 Jason Points Apt. 931
+East Matthew, KY 53566",Mobile Payment,Groceries,3666,No,No
+CUST_028,Gene Pearson,Female,derdk40@hotmail.com,2021-08-30,unknown,Credit Card,Home Appliances,760,No,Yes
+CUST_029,John Smith,Female,seanlyons@kim.com,2025-01-22,"953 Christopher Flats Apt. 049
+North Zachary, OK 70254",Credit Card,Home Appliances,2781,No,Yes
+CUST_030,Renee Robicson,Female,debrajohnson@hotmail.com,2020-12-09,"421 Eric Forest
+Ashleyton, DE 12330",Mobile Payment,Groceries,3046,No,Yes
+CUST_031,Bass Rhonda,Male,bassrhonda@yahoo.com,2023-09-03,"37562 Michele Mount Suite 204
+North James, MS 23083",PayPal,Electronics,1373,Yes,Yes
+CUST_032,Annette Pierce,Male,pagejacob@hbtmail.com,2021-01-19,"826 Lane Views Suite 123
+Lake Albertview, NE 69909",Cred,Fashion,3587,No,Yes
+CUST_033,Alex Medino,Female,patriciaharris@yahoo.com,2023-02-11,unknown,Credit Card,Home Appliances,1234,No,Yes
+CUST_034,Joannz Wood,Female,williamssusan@gomez.org,2022-01-06,"USNS Little
+FPO AA 21558",PayPal,Electronics,2334,Yes,No
+CUST_035,Allen Rachel,Male,allenrachel@hotmail.com,2024-06-06,"2215 Cruz Plains Apt. 797
+Lake Loretta, AR 06332",Crdit Card,Home Appliances,2598,No,No
+CUST_036,Eric Davis,Female,xweaver@hotmail.com,2023-08-26,"456 Ronald Meadows Suite 367
+North Brandonmouth, NJ 20410",PayPal,Home Appliances,3068,Yes,Yes
+CUST_037,Tara Hunt,Female,sahah20@kim.info,2023-11-25,unknown,Credit Card,Fashion,3937,No,Yes
+CUST_038,Manuel Tucker,Female,loweryan@gmail.com,2022-12-21,"PSC 7719, Box 0948
+APO AA 31866",Pay,Books,285,Yes,No
+CUST_040,Cory Murphy,Male,xjohnson@kaiser-lowe.biz,2021-01-19,unknown,Mobile Payment,Books,3454,No,Yes
+CUST_042,Anna Garrett,Female,tiffany60@brocn.com,2021-08-01,"773 Stephanie Meadow
+Gabrielside, AZ 23094",PayPal,Fashion,1339,Yes,No
+CUST_043,Christina Hartman,Male,diana86@yahoo.com,2020-11-07,"182 Ferguson Ranch Suite 094
+West Julie, VT 10326",BankTrans,Books,3212,Yes,Yes
+CUST_044,Sandra Cole,Male,sherryross@hart-smith.net,2022-04-23,"23579 James Fords Apt. 756
+Davidland, NC 58385",PayPal,Fashion,4238,Yes,Yes
+CUST_045,Danny Lowe,Female,bonniereese@moore.com,2024-01-28,"910 Eric Oval
+Lisaborough, NY 91332",PayPal,Groceries,871,No,Yes
+CUST_046,Lauranzuniga,Female,pricemegan@gmail.com,2021-06-01,"508 Andrea Plain Suite 843
+Lake Pedroborough, KS 59294",Bank Transfer,Books,3808,No,No
+CUST_047,Nicjle Smith,Female,travis51@gmail.com,2024-03-12,"02267 Harris Circle Apt. 806
+West Marissa, PA 43730",Crdit Card,Books,676,Yes,No
+CUST_048,Felicia Fowlrr,Female,dominicduffy@yahoo.com,2021-05-22,"3625 Brandi Well Suite 253
+Kristenfurt, AK 96332",Credit Card,Fashion,2836,Yes,No
+CUST_049,Mr. Kyle Brooks,Male,amanda86@gmail.com,2022-02-25,"91675 Woodward Via Suite 975
+Burnsport, TX 99789",Bank Transfer,Groceries,830,No,Yes
+CUST_050,Ashley Flores,Male,janetclark@traa.org,2023-01-30,"660 Laura Avenue
+Garyland, OK 45707",PayPal,Fashion,3213,No,No
+CUST_051,Jay Reyes,Female,reedkelly@morrison.com,2020-01-31,"498 Jean Mall
+Juanland, ND 16910",Bank Transfer,Fashion,100,Yes,No
+CUST_052,Rachel Taylor,Female,joannchristensen@patrick.com,2021-02-01,"368 Kayla Light
+West Andrew, NM 79689",PayPal,Groceries,1317,No,Yes
+CUST_053,Ryqn Diaz,Male,scottcolleen@rack-salazar.com,2023-02-02,"671 Rebecca Cape Apt. 009
+Riosville, OR 48529",Bank Transfer,Groceries,2663,Yes,No
+CUST_054,Nicholas Stokes,Male,kimclaston@stevenson-powell.com,2022-06-13,"860 Brown Mall
+Jasmineland, IN 82678",Mobile Payment,Electronics,1154,No,Yes
+CUST_055,Briin Weeks,Male,unknown,2021-10-18,"77413 Wells Brook
+East Christophermouth, DE 96242",PayPal,Groceries,4707,No,No
+CUST_056,Cathy Mcfarlhnd,Female,ndoylejross.info,2021-12-31,"USS Jones
+FPO AE 86408",PayPal,Fashion,4153,Yes,Yes
+CUST_057,Justin Rivera,Female,blake53@gmail.com,2022-06-06,"85883 Kimberly Village
+Port Patrick, MA 78289",Bank Transfer,Groceries,3145,Yes,Yes
+CUST_059,Roberh Rose,Female,shawjerry@baird-ingram.org,2021-08-22,"6985 Mercado Estates Apt. 458
+East Stephen, DC 27140",PayPal,Fashion,94,No,Yes
+CUST_060,Brookegduffy,Female,zacharyreynolds@howard.info,2023-06-07,"22439 Wiggins Center Suite 797
+Coxfurt, ID 77629",Bank Transfer,Fashion,3982,Yes,No
+CUST_061,Adrianx Lopez,Female,ocruz@olsensnet,2020-06-08,"40751 John Inlet
+Timothyland, NE 68365",Bank Transfer,Home Appliances,3290,No,No
+CUST_062,George Coleman,Male,unknown,2023-01-19,"12490 Brown Track
+New Josephstad, HI 24840",Mobile Payment,Electronics,3460,Yes,No
+CUST_063,Corey Thomas,Female,qparsons@hotmail.com,2023-10-24,"902 Reilly Street
+Williamberg, MS 32053",Bank Transfer,Fashion,546,Yes,No
+CUST_064,James Sanders,Female,wardsarah@white-reid.com,2022-03-05,"203 Cheryl Parks
+Kimberlyburgh, ID 09310",Credit Card,Fashion,2481,No,Yes
+CUST_065,Paul Tucker,Male,ryan42@wooley.com,2020-04-14,"7397 Julie Road
+East Markside, FL 08820",Mobile Payment,Fashion,3431,Yes,Yes
+CUST_066,Michael Lynn,Female,unknown,2021-04-09,"902 Elizabeth Crescent
+Joelmouth, IL 26131",Bank,Groceries,2218,No,Yes
+CUST_067,David Perez,Female,danielsjean@perez.com,2021-07-03,"29414 Jonathan Crest Apt. 834
+North Crystal, MT 44342",Bank Transfer,Groceries,949,Yes,No
+CUST_068,Jonathay Larson,Female,wgillespie@yahoo.com,2021-01-03,"370 Joseph Knolls
+Port Lisamouth, CA 81838",Bank Transfer,Electronics,5044,No,No
+CUST_070,Althony Perry,Male,uan93@hotmail.com,2022-12-28,"5453 Sharp Haven
+Harrisonchester, MO 65207",Pay,Fashion,4162,Yes,No
+CUST_071,Bob Singleton,Male,jocelynyoung@hotmail.com,2024-09-28,"Unit 5464 Box 0286
+DPO AA 30983",Credit,Fashion,3054,Yes,No
+CUST_072,Dzniel Branch,Female,unknown,2022-08-05,"PSC 8894, Box 0463
+APO AA 29942",Mobile Payment,Home Appliances,3879,Yes,Yes
+CUST_073,Adam Gardner,Female,unknown,2021-09-26,"52015 Wong Brook
+Stewartberg, IA 04793",PayPal,Electronics,2844,No,No
+CUST_074,Ashley Mack,Male,ngutierrez@gmail.com,2022-12-19,"0203 Vasquez Plain Suite 224
+Mackburgh, SC 49599",Crdit Card,Fashion,4382,No,No
+CUST_075,Brenda Joyce,Male,unknown,2024-03-22,"4992 Olsen Fall Apt. 200
+Davidshire, MN 94263",Mobile Payment,Fashion,2988,No,Yes
+CUST_076,Scott Wall,Female,imurphyogmail.com,2022-05-01,"452 Allen Course
+Nathanstad, NV 84905",Bank Transfer,Books,914,Yes,No
+CUST_077,Samantha Humphrey,Female,devinstone@harrds.com,2022-05-02,unknown,PayPal,Groceries,1465,Yes,No
+CUST_078,Martin Sandoval,Female,unknown,2022-04-11,"6595 Cross Common Apt. 105
+Hoodside, OH 81690",PayPal,Electronics,3423,Yes,No
+CUST_079,Crysial Beck,Male,vcardenas@yahoo.com,2022-04-12,"54466 Scott Lake Suite 950
+South Davidbury, MA 07023",Bank Transfer,Home Appliances,4355,Yes,Yes
+CUST_080,John Jordan,Female,qwolfe@miller.com,2023-10-24,"8937 Fisher Cove Apt. 397
+North Timothy, WV 54860",Bank Transfer,Home Appliances,3141,No,Yes
+CUST_081,Christopher Williams,Male,julierodriguez@hotmail.com,2024-08-21,"PSC 4174, Box 4239
+APO AA 12982",PayPal,Home Appliances,655,Yes,No
+CUST_082,Kenneth Jordan,Male,zwilliams@booth.com,2020-02-08,"3854 Sergio Canyon Suite 627
+East Laurashire, MS 07161",Pay,Electronics,1231,Yes,Yes
+CUST_083,Nicole Obrien,Female,shannonshaun@brown.info,2021-09-24,"8561 Tammy Lodge
+Millerville, AZ 18445",Bank Transfer,Fashion,56,Yes,Yes
+CUST_084,Meagan Greer,Male,kaitlynnguyen@hotmail.com,2021-05-08,"5661 Darius Grove
+East Jasonview, AZ 42559",PayPal,Books,2761,No,Yes
+CUST_085,Travis Scott,Male,ifrench@wong-alvarez.com,2022-12-24,"07956 Sarah Forks
+Port Jenniferfort, IL 98281",Mobile Payment,Home Appliances,4834,Yes,No
+CUST_086,Paul Gutierrez,Male,gberry@callahan.com,2022-12-03,"60304 Harmon Station Apt. 461
+South Lisa, FL 45694",Bank Transfer,Fashion,2112,Yes,Yes
+CUST_088,Robyn Kelly,Female,thernandez@stevens.net,2021-10-24,"USNV Hughes
+FPO AE 07238",Credit,Home Appliances,4268,No,No
+CUST_089,Lindsey Martinez,Female,steven17@ramos-bishop.com,2022-04-30,"2389 William Mountains Apt. 752
+Schroedershire, SD 54224",PayPal,Home Appliances,3727,Yes,Yes
+CUST_090,Danielle Roberts,Male,molinajames@gmail.com,2024-03-28,unknown,PayPal,Fashion,3562,No,Yes
+CUST_091,Brittany Thompson,Male,ucolon@yahoo.com,2020-02-26,"99314 James Estate Apt. 857
+Annamouth, IL 27771",PayPal,Electronics,397,Yes,Yes
+CUST_092,Jamts Gardner,Female,breanna25@gmail.com,2022-02-27,"18144 Stout Tunnel
+Jacquelinebury, FL 95949",Mobile Payment,Home Appliances,3807,No,No
+CUST_093,Brian Banks,Male,mitchellcharles@lane.biz,2020-02-28,unknown,Bank Transfer,Fashion,2257,Yes,No
+CUST_094,Pone,Female,joelbaker@gmail.com,2024-08-21,"USNS Mays
+FPO AA 63966",Bank Transfer,Groceries,426,No,Yes
+CUST_095,Julie Goodman,Male,xlongfhotmail.com,2024-08-22,"52887 Amanda Stravenue
+Mannburgh, ID 49632",PayPal,Fashion,895,No,Yes
+CUST_096,Emily Bishop,Male,ckelly@thomas.biz,2020-01-26,"16713 Julie Parkways
+Jasonview, IA 74286",Cred,Home Appliances,4010,Yes,No
+CUST_097,Stuart Elizabeth,Male,stuartelizabxth@wolf-castro.org,2021-12-12,"87489 Carter Common Suite 031
+Walkershire, AR 67948",Bank Transfer,Groceries,3770,No,Yes
+CUST_098,Htephen Gregory,Male,upril17@chandler-jordan.com,2021-07-18,"18712 Sanchez Turnpike
+Jamesstad, MO 98862",Bank Transfer,Groceries,3007,Yes,Yes
+CUST_099,Ricardo Hansen,Female,sdunn@hotmail.com,2022-10-18,"7308 Julie Branch Apt. 255
+Melodymouth, AZ 14179",Bank Transfer,Home Appliances,360,No,Yes
+CUST_100,Jesse Watkins Iii,Female,gregozy90@dixon.com,2020-05-19,"908 Jennifer Lock
+Cameronport, CO 31820",Credit Card,Books,449,Yes,Yes
+CUST_101,Joanna Hunter,Female,joannahunter@outlook.com,2025-01-21,Unit 7525 Box 6346 DPO AE 88862,Mobile Payment,Home Appliances,4385,Yes,Yes
+CUST_102,Benjamin Fisher,Male,benjaminfisher@aol.com,2025-01-30,"0959 Michele Rest Carlsonport, MH 74174",Credit Card,Electronics,1152,No,Yes
+CUST_103,Vicki Pierce,Female,vickipierce@gmail.com,2025-01-21,"998 Cox Station Kleinside, TX 05367",PayPal,Books,1970,Yes,No
+CUST_104,Sandra Wells,Female,sandrawells@outlook.com,2025-01-18,"64964 Webb Valley Apt. 748 Nicholashaven, DE 95805",Credit Card,Home Appliances,388,No,No
+CUST_105,Donald Hall,Male,donaldhall@yahoo.com,2025-01-17,"562 Russo Mountain Port Mariah, NV 49444",PayPal,Groceries,3229,No,No
+CUST_106,Daniel Hill,Male,danielhill@hotmail.com,2025-01-06,"6914 Sarah Trace Jonathonchester, MO 66424",PayPal,Groceries,4198,Yes,Yes
+CUST_107,Danielle Miller,Female,daniellemiller@aol.com,2025-01-20,"7943 Yolanda Mills North Barbara, MN 36702",Credit Card,Electronics,1259,Yes,No
+CUST_108,Briana Frederick,Female,brianafrederick@hotmail.com,2025-01-14,"2529 Cooper Passage North Anthony, VT 66308",Mobile Payment,Groceries,3263,Yes,No
+CUST_109,Travis Torres,Male,travistorres@live.com,2025-01-07,"20053 Bonnie Street Port Lisa, IA 17386",PayPal,Electronics,3399,Yes,Yes
+CUST_110,Ricky Potts,Male,rickypotts@gmail.com,2025-01-22,USNV Rocha FPO AA 69026,Bank,Fashion,2798,Yes,No
+CUST_111,Danielle Wilson,Female,daniellewilson@outlook.com,2025-01-02,USNS Greene FPO AP 73765,Mobile Payment,Electronics,966,No,No
+CUST_112,Justin Gomez,Male,justingomez@live.com,2025-01-13,"5377 Megan Grove Suite 278 Stephaniemouth, DE 72008",PayPal,Groceries,4550,No,No
+CUST_113,Mark Rhodes,Male,markrhodes@outlook.com,2025-01-21,"451 Collins Wells Apt. 512 Cabreraville, AR 78572",PayPal,Books,4916,Yes,No
+CUST_114,Leslie Benton,Female,unknown,2025-01-15,"58946 Arthur Islands Matthewfort, IN 44077",BankTrans,Books,2726,No,Yes
+CUST_115,Paul Bryant,Male,paulbryant@gmail.com,2025-01-10,"69409 Jenna Plain South Shannon, VA 71669",Credit Card,Fashion,4406,Yes,No
+CUST_116,David Cole,Male,unknown,2025-01-21,"812 Rachel Inlet Apt. 087 West James, IN 95914",PayPal,Groceries,3566,Yes,Yes
+CUST_117,John Middleton,Male,johnmiddleton@aol.com,2025-01-03,"54704 Frank Mountain Apt. 445 South Julie, IA 39369",Bank,Groceries,277,Yes,No
+CUST_118,Charles Brooks,Male,charlesbrooks@yahoo.com,2025-01-28,"1364 Zimmerman Manors Suite 155 Robertton, MO 81460",Bank,Electronics,4116,Yes,No
+CUST_119,Jaime Peterson,Male,jaimepeterson@yahoo.com,2025-01-06,"11873 Cristina Inlet Apt. 678 Peterside, OH 51621",Mobile Payment,Groceries,4337,No,Yes
+CUST_120,Stephen David,Male,stephendavid@outlook.com,2025-01-12,"07165 Lopez Villages Suite 774 Lake Sean, OK 94309",Bank,Electronics,4253,Yes,Yes
+CUST_121,Sarah Davidson,Female,sarahdavidson@hotmail.com,2025-01-13,"84627 Malik Mountain East Christy, PA 89972",Bank Transfer,Books,3413,No,Yes
+CUST_122,Seth Greer,Male,sethgreer@yahoo.com,2025-01-07,"87855 Sandoval Underpass Apt. 971 Jeffreyhaven, TX 16579",Bank,Fashion,4322,No,Yes
+CUST_123,Jennifer Lane,Female,jenniferlane@hotmail.com,2025-01-21,"39776 Taylor Station East Johnny, MD 82068",Credit Card,Electronics,1680,No,Yes
+CUST_124,Kayla Logan,Female,kaylalogan@hotmail.com,2025-01-16,"43504 Sheri Dale Apt. 738 Sheilamouth, CT 05868",Credit Card,Books,3236,Yes,No
+CUST_125,Jennifer Kennedy,Female,jenniferkennedy@gmail.com,2025-01-15,"17560 Travis Estate Jenningshaven, AL 79289",Bank Transfer,Fashion,1405,Yes,No
+CUST_126,Alejandro Hoffman,Male,unknown,2025-01-01,"1297 Felicia Prairie Apt. 743 Lake Cassandrastad, TX 04830",Credit Card,Fashion,2492,No,Yes
+CUST_127,Christopher Martinez,Male,christophermartinez@aol.com,2025-01-21,"4836 Davis Field Woodside, WA 04683",PayPal,Books,3525,No,Yes
+CUST_128,Karen Hart,Female,karenhart@yahoo.com,2025-01-12,"73485 Landry Orchard Suite 233 Robertberg, MT 99876",Credit Card,Home Appliances,1593,Yes,No
+CUST_129,Teresa Smith,Female,teresasmith@outlook.com,2025-01-15,USNV Ruiz FPO AE 19734,PayPal,Fashion,3737,Yes,Yes
+CUST_130,Tara Kline,Female,tarakline@live.com,2025-01-17,"778 Lopez Garden South Veronica, OH 25366",Pay,Electronics,2575,No,No
+CUST_131,Michael Parker,Male,michaelparker@aol.com,2025-01-03,"038 Janice Plains Apt. 289 Lauramouth, MI 13994",Cred,Fashion,4960,No,No
+CUST_132,Cynthia Gentry,Female,cynthiagentry@hotmail.com,2025-01-26,"6011 Russell Tunnel Lisamouth, DE 33787",PayPal,Electronics,4279,No,No
+CUST_133,Samuel Hall,Male,samuelhall@outlook.com,2025-01-11,"49528 Ana Ramp Apt. 515 New Samanthaview, AK 19889",Bank Transfer,Home Appliances,3248,No,Yes
+CUST_134,Samuel Schwartz,Male,samuelschwartz@live.com,2025-01-12,"0147 Davies Stravenue South Lindsayville, ID 49254",PayPal,Groceries,3965,No,Yes
+CUST_135,Steven Davis,Male,stevendavis@live.com,2025-01-09,"073 Jason Loaf Suite 981 South Jonathon, WA 99016",BankTrans,Books,3218,No,No
+CUST_136,Tracy Whitaker,Female,tracywhitaker@yahoo.com,2025-01-02,"09659 Clark Landing Michaelview, MN 94231",Bank Transfer,Books,346,No,Yes
+CUST_137,Patrick Wyatt,Male,patrickwyatt@aol.com,2025-01-11,"37092 Alvarez Hollow Michaeltown, NH 24456",Credit Card,Home Appliances,3422,Yes,No
+CUST_138,Jeremy Gregory,Male,jeremygregory@gmail.com,2025-01-22,USNV Thompson FPO AE 74389,Mobile Payment,Electronics,2078,Yes,Yes
+CUST_139,Amy Myers,Female,amymyers@hotmail.com,2025-01-27,"850 Jessica Summit Suite 924 Garrettland, VA 06846",Bank Transfer,Books,16,No,No
+CUST_140,Taylor Campos,Female,taylorcampos@yahoo.com,2025-01-16,"2285 Mark Hollow Lake Jeffrey, WY 38013",Credit Card,Books,2973,No,Yes
+CUST_141,Eddie Baker,Male,eddiebaker@gmail.com,2025-01-11,"04251 Laura Union Samanthastad, NJ 49645",Mobile Payment,Groceries,3328,No,Yes
+CUST_142,Randall Smith,Male,randallsmith@hotmail.com,2025-01-07,"3520 Stevens Mews Apt. 494 West Barbarahaven, VA 08337",Bank Transfer,Electronics,4945,No,No
+CUST_143,Steven Murphy,Male,stevenmurphy@aol.com,2025-01-14,"325 Melissa Stravenue Hernandezville, TX 23643",Mobile Payment,Home Appliances,527,Yes,No
+CUST_144,Cassandra Bowen,Female,cassandrabowen@yahoo.com,2025-01-24,"7303 Rodriguez Lodge Richardsonton, CA 89902",PayPal,Electronics,127,Yes,No
+CUST_145,Jackie Baker,Female,jackiebaker@hotmail.com,2025-01-18,"59920 May Ways Apt. 450 West Josephtown, VI 46414",Mobile Payment,Fashion,1614,No,No
+CUST_146,Melissa Garcia,Female,melissagarcia@gmail.com,2025-01-21,"770 Courtney Crest Mckeeside, AS 53715",PayPal,Books,2083,No,No
+CUST_147,Bruce Wood,Male,brucewood@hotmail.com,2025-01-11,"774 John Shores Suite 513 North Thomashaven, HI 24200",Cred,Home Appliances,3828,No,No
+CUST_148,Eric Herring,Male,ericherring@gmail.com,2025-01-05,Unit 9939 Box 2130 DPO AA 28867,Bank Transfer,Home Appliances,4030,Yes,Yes
+CUST_149,Jorge Hall,Male,jorgehall@outlook.com,2025-01-12,"816 Delgado Turnpike Apt. 288 Kristaburgh, ID 98938",Bank Transfer,Groceries,4345,No,No
+CUST_150,Briana Huffman,Female,brianahuffman@aol.com,2025-01-22,"58706 Zamora Extension Apt. 266 Wangbury, MA 20287",PayPal,Home Appliances,990,No,Yes
+CUST_151,Marilyn Strong,Female,marilynstrong@live.com,2025-01-13,"30853 Martinez Ville Levineborough, VA 82103",Credit Card,Electronics,2545,Yes,No
+CUST_152,Maurice Sullivan,Male,mauricesullivan@hotmail.com,2025-01-13,"3455 Linda Road Apt. 102 Manuelton, WV 96674",PayPal,Groceries,2090,Yes,No
+CUST_153,Tina Fischer,Female,tinafischer@aol.com,2025-01-20,"7986 Rebecca Square Apt. 367 South Blake, NM 43045",Cred,Books,817,No,Yes
+CUST_154,Christopher Morris,Male,christophermorris@gmail.com,2025-01-04,Unit 9011 Box 4612 DPO AA 98858,Mobile Payment,Groceries,3838,No,Yes
+CUST_155,Jeremy Rodriguez,Male,jeremyrodriguez@live.com,2025-01-12,"9168 Hale Highway Harristown, NV 29750",BankTrans,Electronics,2159,Yes,Yes
+CUST_156,Ana James,Female,anajames@aol.com,2025-01-11,"5090 Toni Underpass Apt. 001 East Thomas, TN 52611",Credit Card,Groceries,1722,No,No
+CUST_157,Heather Shea,Female,heathershea@gmail.com,2025-01-19,"6379 Roth Green Suite 583 Port Allison, MN 15032",Mobile Payment,Books,1354,Yes,Yes
+CUST_158,Joseph Rodriguez,Male,josephrodriguez@aol.com,2025-01-16,"528 Jenkins Divide Suite 275 Lake Nicholas, KY 14283",Bank Transfer,Home Appliances,1315,No,No
+CUST_159,David Fuller,Male,unknown,2025-01-10,Unit 7520 Box 0086 DPO AP 61995,PayPal,Electronics,2151,No,No
+CUST_160,Tina Brown,Female,unknown,2025-01-07,"2790 Graham Station Strongstad, MT 54438",Mobile Payment,Home Appliances,2081,Yes,No
+CUST_161,Lori Bryant,Female,loribryant@live.com,2025-01-24,"856 John Walks Mitchellland, VI 38902",PayPal,Books,932,Yes,Yes
+CUST_162,Arthur Mills,Male,unknown,2025-01-30,"PSC 2977, Box 0052 APO AP 26252",Pay,Electronics,3701,Yes,No
+CUST_163,Jennifer Price,Female,jenniferprice@live.com,2025-01-22,"431 Pacheco Plains Gregoryhaven, FM 31321",Bank Transfer,Home Appliances,245,No,No
+CUST_164,Paul Cummings,Male,paulcummings@hotmail.com,2025-01-09,"914 Morgan Divide Port David, MP 36826",Mobile Payment,Groceries,4828,No,No
+CUST_165,Cindy Hudson,Female,cindyhudson@aol.com,2025-01-15,"724 Amanda Lodge Lake Elizabethton, PA 88046",Cred,Groceries,3206,Yes,Yes
+CUST_166,Nathan Long,Male,nathanlong@hotmail.com,2025-01-06,"818 Veronica Burgs Apt. 736 Jenkinsburgh, IL 33030",Bank Transfer,Books,4148,No,No
+CUST_167,Diane Vaughan,Female,dianevaughan@aol.com,2025-01-02,"2007 Anita Ports Gomezfort, MP 69084",PayPal,Fashion,4939,No,Yes
+CUST_168,Elizabeth Alvarez,Female,elizabethalvarez@hotmail.com,2025-01-29,"68485 Krystal Parks Suite 182 Port Briana, NM 46863",Crdit Card,Groceries,2788,No,Yes
+CUST_169,Hannah Smith,Female,hannahsmith@outlook.com,2025-01-17,"27053 Saunders Junctions Suite 808 Port Leahberg, TN 42923",PayPal,Electronics,3580,Yes,No
+CUST_170,Stephanie Orr,Female,stephanieorr@gmail.com,2025-01-09,"03073 Wright Garden Conleyville, CT 41984",Bank,Home Appliances,3370,Yes,No
+CUST_171,Mark Chavez,Male,markchavez@yahoo.com,2025-01-07,"3082 Estrada Islands South Neil, MP 99410",PayPal,Books,215,No,Yes
+CUST_172,Kathy Walters,Female,kathywalters@gmail.com,2025-01-13,USNS Daniel FPO AE 23713,Credit Card,Electronics,3479,No,Yes
+CUST_173,Kelly Wade,Female,kellywade@outlook.com,2025-01-17,"29327 Perez Way Suite 881 Susantown, KY 03479",Credit Card,Groceries,3944,Yes,Yes
+CUST_174,David Park,Male,davidpark@gmail.com,2025-01-15,"6201 Jessica Circles Suite 694 Yoderport, MO 94971",Mobile Payment,Fashion,3896,No,No
+CUST_175,Patricia Walton,Female,patriciawalton@aol.com,2025-01-10,"40521 Baker Expressway Jacquelinefurt, SD 04004",Bank Transfer,Groceries,791,No,No
+CUST_176,Sharon Holmes,Female,sharonholmes@gmail.com,2025-01-06,"7061 Samantha Turnpike Apt. 083 Lake Spencer, FL 78378",Mobile Payment,Books,1425,Yes,Yes
+CUST_177,Christopher Rivas,Male,christopherrivas@yahoo.com,2025-01-16,"5903 Bill Roads Apt. 448 East Dale, MN 23521",Pay,Fashion,3880,Yes,Yes
+CUST_178,Erin Johnston,Female,erinjohnston@yahoo.com,2025-01-07,"951 Parsons Light Suite 872 Donaldport, AZ 17036",Bank Transfer,Books,304,Yes,Yes
+CUST_179,Christopher Hancock,Male,christopherhancock@live.com,2025-01-08,"1405 Gregory Club Calvinbury, ME 28521",Pay,Fashion,2751,No,No
+CUST_180,Amy Jones,Female,amyjones@outlook.com,2025-01-08,"33132 Paul Port Jacobview, VA 76429",Bank Transfer,Groceries,850,No,Yes
+CUST_181,Eric Bright,Male,ericbright@yahoo.com,2025-01-12,"07897 Ramirez Union Suite 203 Port Rebeccamouth, MI 38236",PayPal,Electronics,2931,No,Yes
+CUST_182,Sharon Garrett,Female,sharongarrett@yahoo.com,2025-01-02,"62877 Marc Fields Suite 658 Lake Mark, WI 99827",Bank Transfer,Books,4512,Yes,No
+CUST_183,Joshua Stevenson,Male,joshuastevenson@hotmail.com,2025-01-13,"198 Barrett Mount Suite 064 Jamesberg, VI 32043",Mobile Payment,Books,269,Yes,Yes
+CUST_184,Michelle Garrett,Female,michellegarrett@yahoo.com,2025-01-18,"14988 Rivers Ramp South Sarah, KY 12675",Credit Card,Fashion,872,No,Yes
+CUST_185,Leslie Robinson,Male,leslierobinson@gmail.com,2025-01-08,"161 Steven Turnpike Apt. 077 Kathleenmouth, IL 38290",Credit Card,Fashion,4308,No,Yes
+CUST_186,Jordan Ortiz,Female,jordanortiz@live.com,2025-01-07,"712 Candice Trafficway Stewartstad, AS 97954",BankTrans,Home Appliances,4646,Yes,No
+CUST_187,Michael Johnson,Male,unknown,2025-01-04,"595 Ellison Lakes Simpsonbury, FL 79977",PayPal,Groceries,2605,Yes,No
+CUST_188,Kristen Carter,Female,kristencarter@outlook.com,2025-01-03,"961 Morgan Loop West Teresaview, NC 23677",Crdit Card,Groceries,3612,Yes,No
+CUST_189,Jeremy Maldonado,Male,jeremymaldonado@live.com,2025-01-02,"57488 Golden Forge Port Heather, NE 87957",Bank Transfer,Groceries,4902,Yes,Yes
+CUST_190,John Fuentes,Male,unknown,2025-01-07,"86414 Rodriguez Rue New Geraldberg, IA 85776",Credit Card,Home Appliances,1746,No,Yes
+CUST_191,Gina Brown,Female,ginabrown@live.com,2025-01-21,"PSC 9900, Box 6410 APO AP 82069",Bank Transfer,Fashion,2372,No,No
+CUST_192,Evan Collins,Male,evancollins@yahoo.com,2025-01-10,"69106 Neal Loop Suite 160 West Sharonview, NJ 21622",PayPal,Books,3243,No,Yes
+CUST_193,Ryan Rodriguez,Male,ryanrodriguez@yahoo.com,2025-01-21,"556 Brian Junction Apt. 074 Kellymouth, MH 59440",Credit,Books,2506,No,Yes
+CUST_194,Nicole Morris,Female,nicolemorris@outlook.com,2025-01-05,"085 Stephanie Station Suite 358 New Kelseyshire, MD 27796",Mobile Payment,Home Appliances,2529,No,No
+CUST_195,Jasmine Phillips,Female,jasminephillips@live.com,2025-01-18,Unit 8274 Box 7274 DPO AE 20176,Pay,Electronics,276,No,Yes
+CUST_196,Sara Salas,Female,sarasalas@hotmail.com,2025-01-13,"473 Booth Lock Suite 844 New Daleview, FM 87538",Pay,Fashion,1749,No,No
+CUST_197,Lisa Carr,Female,lisacarr@live.com,2025-01-20,"4247 Marshall Manor Apt. 628 Jaclynburgh, ID 38248",Bank Transfer,Books,200,Yes,No
+CUST_198,Thomas Mendoza,Male,thomasmendoza@aol.com,2025-01-08,"95395 Schultz Bridge West Thomas, NY 68418",PayPal,Electronics,3809,No,No
+CUST_199,Larry Johnson,Male,larryjohnson@yahoo.com,2025-01-17,"33916 Candace Crossing Suite 897 Martinezfort, DC 29010",PayPal,Electronics,1630,No,Yes
+CUST_200,Jeanne Robertson,Female,unknown,2025-01-11,"991 Bradley Mountains Andrewview, AZ 42649",Credit Card,Electronics,1292,Yes,No
+CUST_201,Gregory Rivera,Male,gregoryrivera@hotmail.com,2025-01-28,"0396 Sophia Island Apt. 423 Michelleside, CO 45175",Bank Transfer,Groceries,3964,Yes,Yes
+CUST_202,Kimberly White,Female,kimberlywhite@aol.com,2025-01-24,"90028 Lopez Forge Freemanfurt, WY 25722",Credit Card,Fashion,3857,Yes,Yes
+CUST_203,Kathleen Ross,Female,kathleenross@hotmail.com,2025-01-26,"621 Fields Wells Apt. 489 Michaelside, MO 49405",Crdit Card,Groceries,1738,No,No
+CUST_204,Marie Carlson,Female,mariecarlson@outlook.com,2025-01-23,"043 Combs Garden North Samantha, IL 95897",Mobile Payment,Home Appliances,3751,No,Yes
+CUST_205,Deborah Kim,Female,unknown,2025-01-11,"706 Hensley Highway Jessicaland, NE 64022",BankTrans,Fashion,207,Yes,Yes
+CUST_206,Laurie Ramirez,Female,unknown,2025-01-06,"33705 Shelby Tunnel Bergerfort, RI 80051",Mobile Payment,Groceries,410,Yes,Yes
+CUST_207,Stephanie Price,Female,stephanieprice@outlook.com,2025-01-23,"2315 Erica Extension West Oscar, UT 60103",Credit Card,Electronics,2621,No,No
+CUST_208,Roberto George,Male,robertogeorge@outlook.com,2025-01-11,"3153 Kara Underpass Port Nicholasside, MA 92282",Crdit Card,Electronics,4026,No,No
+CUST_209,Mary Berry,Female,maryberry@hotmail.com,2025-01-09,"4727 Nicole Fork Edwardstad, AK 01230",Bank Transfer,Books,4193,No,No
+CUST_210,Heidi Silva,Female,unknown,2025-01-18,"457 Palmer Camp Suite 053 New Matthew, AR 03392",Mobile Payment,Books,2285,Yes,No
+CUST_211,Judith Campbell,Female,judithcampbell@outlook.com,2025-01-27,"8925 Lance Mount Kendraberg, IL 57347",PayPal,Groceries,862,No,No
+CUST_212,Justin Garcia,Male,unknown,2025-01-22,"1249 Watson Bridge Lake Robinmouth, OK 48527",Credit Card,Fashion,3030,No,No
+CUST_213,Stephanie Edwards,Female,stephanieedwards@gmail.com,2025-01-28,USNV Riley FPO AP 24181,Bank Transfer,Electronics,451,Yes,No
+CUST_214,Alexander Brooks,Male,alexanderbrooks@hotmail.com,2025-01-04,"797 Ellen Flat Lake Lauren, FL 75232",Bank Transfer,Electronics,3501,Yes,Yes
+CUST_215,Todd Medina,Male,toddmedina@hotmail.com,2025-01-04,"92349 Barker Shoals Carrillofurt, MA 54559",Credit Card,Books,4343,No,Yes
+CUST_216,Rhonda Jenkins,Female,rhondajenkins@yahoo.com,2025-01-16,"47447 Jody Coves South Kellymouth, VT 06815",Bank Transfer,Electronics,2188,Yes,No
+CUST_217,Devon Gonzalez,Male,devongonzalez@yahoo.com,2025-01-28,"6915 Amanda Roads East Robertburgh, ME 49338",Mobile Payment,Books,293,Yes,Yes
+CUST_218,Nicholas Hunt,Male,nicholashunt@outlook.com,2025-01-18,Unit 9069 Box 2033 DPO AP 14600,BankTrans,Groceries,286,No,Yes
+CUST_219,Ryan Reyes,Male,ryanreyes@live.com,2025-01-18,"8394 Thomas Well Apt. 743 Markmouth, VA 19239",PayPal,Groceries,2696,Yes,No
+CUST_220,Barry Logan,Male,unknown,2025-01-19,"04973 Adriana Via Dudleyton, HI 33693",PayPal,Home Appliances,3304,No,Yes
+CUST_221,Joseph Snyder,Male,josephsnyder@outlook.com,2025-01-13,"9035 Howard Neck Apt. 939 Port Sarah, MH 96736",Pay,Groceries,1340,Yes,Yes
+CUST_222,Don Hughes,Male,donhughes@outlook.com,2025-01-15,"2351 Bonilla Crossing Apt. 310 South Martin, SC 01629",Bank Transfer,Books,4956,No,No
+CUST_223,Erik Saunders,Male,eriksaunders@hotmail.com,2025-01-04,"8257 Cindy Brooks Lake Edwardland, NV 82943",Crdit Card,Electronics,3835,Yes,Yes
+CUST_224,Joy Andrews,Female,joyandrews@outlook.com,2025-01-23,"664 Melissa Ferry North Nicoleland, OK 16130",PayPal,Home Appliances,1698,No,Yes
+CUST_225,Leslie Scott,Female,lesliescott@live.com,2025-01-03,"30343 Davis Motorway Apt. 122 West Robert, HI 24311",Credit,Home Appliances,3143,Yes,Yes
+CUST_226,Joseph Esparza,Male,josephesparza@hotmail.com,2025-01-13,"09119 Bowers Islands Cookland, UT 07351",PayPal,Books,996,No,Yes
+CUST_227,Jesus Shelton,Male,jesusshelton@aol.com,2025-01-21,"00586 Ramirez Trail Apt. 975 Collinshaven, ID 72870",PayPal,Books,2211,Yes,No
+CUST_228,Jeffrey Martinez,Male,unknown,2025-01-18,USS Hunter FPO AE 13886,Credit Card,Groceries,162,No,Yes
+CUST_229,Jessica Gentry,Female,jessicagentry@yahoo.com,2025-01-28,"099 Reyes Course West John, VI 70839",Mobile Payment,Fashion,3546,Yes,No
+CUST_230,Ricky Johnson,Male,unknown,2025-01-11,"41435 Jason Inlet Jeremyport, CT 63249",Credit Card,Electronics,3070,No,Yes
+CUST_231,Brett Burton,Male,brettburton@yahoo.com,2025-01-10,"40445 Davis Isle Emilychester, NC 25956",Credit Card,Groceries,3144,Yes,No
+CUST_232,Rebecca Jefferson,Female,rebeccajefferson@hotmail.com,2025-01-14,"60900 Bowers Summit Apt. 356 Jorgebury, TN 76284",Credit Card,Books,615,No,Yes
+CUST_233,Jesse Lee,Male,jesselee@hotmail.com,2025-01-28,"1267 Dawn Drives Moralesville, MO 40858",Mobile Payment,Fashion,623,Yes,No
+CUST_234,Melissa Brock,Female,melissabrock@gmail.com,2025-01-04,"215 Ronald Path Apt. 667 Port Gregory, OH 51516",Mobile Payment,Home Appliances,666,No,No
+CUST_235,Charles Reese,Male,charlesreese@live.com,2025-01-08,"31923 Michael Trafficway Hayleychester, GU 51035",Credit Card,Books,3256,Yes,No
+CUST_236,Nancy Brown,Female,nancybrown@aol.com,2025-01-29,"845 Alisha Manor North Stephenborough, LA 36021",Credit,Books,2897,Yes,Yes
+CUST_237,Paul Jordan,Male,pauljordan@outlook.com,2025-01-22,Unit 1441 Box 5823 DPO AP 18539,PayPal,Home Appliances,3456,No,No
+CUST_238,Chris Williams,Male,chriswilliams@aol.com,2025-01-25,"02185 Kelsey Lakes Ethantown, CA 67042",Mobile Payment,Groceries,4257,Yes,No
+CUST_239,Colleen Peterson,Female,colleenpeterson@outlook.com,2025-01-15,"741 Alvarez Port Suite 007 Elizabethmouth, NJ 99444",Bank Transfer,Groceries,2171,No,No
+CUST_240,Bonnie Rivers,Female,bonnierivers@hotmail.com,2025-01-09,"715 Martinez Canyon Apt. 622 South Joshuafurt, NY 34389",Credit Card,Groceries,3111,Yes,No
+CUST_241,Kari Stewart,Female,unknown,2025-01-14,"9563 Ruben Row Leonardburgh, AR 45544",Bank Transfer,Books,4074,No,Yes
+CUST_242,Tara Robinson,Female,tararobinson@outlook.com,2025-01-20,"74789 Hebert Burgs West Andrewton, VT 86434",PayPal,Books,1337,Yes,No
+CUST_243,Stephanie Hamilton,Female,stephaniehamilton@yahoo.com,2025-01-15,"42977 Jonathan Branch West Cindybury, UT 46872",Mobile Payment,Books,4174,Yes,Yes
+CUST_244,John Jackson,Male,johnjackson@hotmail.com,2025-01-09,USNS Kennedy FPO AA 75989,Bank Transfer,Electronics,1224,Yes,Yes
+CUST_245,Jordan Christian,Male,jordanchristian@yahoo.com,2025-01-17,"08461 Kristen Motorway Suite 423 Walkerstad, IN 49300",PayPal,Electronics,292,No,Yes
+CUST_246,Shannon Waller,Female,shannonwaller@yahoo.com,2025-01-22,"92226 Stewart Tunnel South Michael, CA 44775",Mobile Payment,Groceries,1173,No,No
+CUST_247,Tasha Roberts,Female,tasharoberts@yahoo.com,2025-01-04,"6107 Rhodes Expressway South Emily, IL 93438",Bank Transfer,Electronics,2461,Yes,Yes
+CUST_248,Shane Schmidt,Male,shaneschmidt@hotmail.com,2025-01-11,"81038 Johnny Roads Apt. 135 North Kristinafort, TN 83022",PayPal,Books,2892,Yes,Yes
+CUST_249,James Myers,Male,jamesmyers@live.com,2025-01-11,"088 Ware Streets Apt. 629 Kevinmouth, ME 89738",BankTrans,Groceries,3995,No,No
+CUST_250,Mark Richardson,Male,markrichardson@hotmail.com,2025-01-02,"770 Michele Tunnel West James, WA 56449",Mobile Payment,Groceries,1740,No,No
+CUST_251,Samantha White,Female,samanthawhite@gmail.com,2025-01-24,"6275 Bailey Avenue Suite 973 Jessicaborough, NE 30533",Mobile Payment,Fashion,2921,No,No
+CUST_252,Daniel Alvarado,Male,danielalvarado@live.com,2025-01-18,USNV Crosby FPO AA 66191,Cred,Electronics,3854,No,No
+CUST_253,Sara Hamilton,Female,unknown,2025-01-24,"92003 Trevino Lights Suite 344 East Jessica, FM 81595",PayPal,Books,4545,Yes,No
+CUST_254,Carla Craig,Female,unknown,2025-01-07,"1965 Paula Springs Longport, MP 47512",PayPal,Electronics,3125,No,Yes
+CUST_255,Darren Duke,Male,darrenduke@yahoo.com,2025-01-20,"29308 Davis Haven Apt. 125 North Shaneside, RI 92728",PayPal,Fashion,3172,Yes,Yes
+CUST_256,Andrea Hale,Female,andreahale@live.com,2025-01-25,"38540 Courtney Course Suite 710 Proctorborough, IA 28352",Bank,Home Appliances,1395,Yes,Yes
+CUST_257,Michael Harvey,Male,michaelharvey@gmail.com,2025-01-22,"771 Tami Union Newmanberg, NM 81318",Credit Card,Books,4960,No,No
+CUST_258,Todd Adkins,Male,toddadkins@aol.com,2025-01-24,"084 Andrea Vista Apt. 683 Angelahaven, IL 41904",PayPal,Home Appliances,2133,No,Yes
+CUST_259,Daniel Woods,Male,danielwoods@outlook.com,2025-01-14,"PSC 8438, Box 2319 APO AP 51710",Credit Card,Electronics,4644,Yes,No
+CUST_260,John Hill,Male,johnhill@outlook.com,2025-01-29,"99329 Evans Forks Glennville, KY 26160",Mobile Payment,Electronics,988,Yes,Yes
+CUST_4901,Shawn Newman,Male,kperry@lewis.com,2021-09-10,"0410 Decker Inlet Smithside, MI 96155",Credit Card,Home Appliances,2127,Yes,Yes
+CUST_4895,Robert Barnes,Male,emily09@gmail.com,2020-06-16,"1542 Lara Crossroad Apt. 969 Patriciafurt, CA 01080",PayPal,Groceries,4785,Yes,Yes
+CUST_3362,Logan Carlson,Female,gadams@hotmail.com,2024-06-10,"17329 Jennifer Freeway Suite 515 North Anthonyhaven, NC 51932",Mobile Payment,Home Appliances,2546,Yes,Yes
+CUST_6885,Isabel Oconnor,Female,sharonsalas@lopez.info,2022-12-30,"711 Evans Street Suite 370 Lake Matthew, PA 46003",Bank Transfer,Electronics,4425,Yes,No
+CUST_2818,Evelyn Adams,Female,unknown,2023-05-09,Unit 6593 Box 2284 DPO AA 63086,PayPal,Fashion,2436,No,Yes
+CUST_8687,Maria Fry,Female,maryho@jackson.com,2024-05-21,"4696 Laura Pike Michaelfort, NV 20077",Mobile Payment,Electronics,3371,No,No
+CUST_4552,Emily Nelson,Male,simondanielle@hotmail.com,2022-03-19,"2381 Hernandez Mission New Eugene, KS 09431",Bank Transfer,Groceries,3296,Yes,No
+CUST_1183,Kimberly Douglas,Female,xschultz@eaton.org,2024-07-13,USNV Choi FPO AE 56448,Bank,Groceries,3068,Yes,No
+CUST_8858,Alexis Gibbs,Female,shart@yahoo.com,2020-12-15,"60666 Daniel Mission Alexport, NH 40032",Bank,Fashion,2056,Yes,No
+CUST_8408,Larry Weaver,Male,clairethompson@pacheco.com,2022-03-18,"99301 Kenneth Neck East Scottton, NV 29162",PayPal,Groceries,576,Yes,Yes
+CUST_8402,Gregory Jones,Male,robersonryan@cooper-willis.com,2021-02-19,"0826 Taylor Ford Apt. 890 West Wanda, NE 58251",Mobile Payment,Home Appliances,914,No,No
+CUST_6824,Tiffany Scott,Female,garciajessica@yahoo.com,2022-08-10,"062 Carrie Roads Suite 418 Lake Paulberg, IA 31178",Credit Card,Fashion,2924,No,Yes
+CUST_8990,Lauren White,Male,roachcody@bruce.com,2024-09-15,"866 Lawrence Locks West Zachary, WA 39476",Mobile Payment,Home Appliances,3553,No,No
+CUST_9287,Nichole Fuentes,Female,unknown,2024-06-02,"7668 Davis Avenue Suite 451 Foxland, MD 50829",Credit Card,Electronics,1101,Yes,No
+CUST_8326,David Hunter,Male,brianbarnett@thomas.org,2020-11-07,"865 Teresa Forest Apt. 523 New Mark, GA 52123",BankTrans,Fashion,4265,Yes,No
+CUST_5570,Brandon Powell,Male,dwaynefrench@gmail.com,2023-11-17,"65380 David Mountains Fordfurt, MT 80941",Bank Transfer,Electronics,3530,Yes,Yes
+CUST_6076,Brad Lewis,Male,hensleytricia@yahoo.com,2024-08-16,"01930 Leblanc Station Lake Russell, AK 31445",Mobile Payment,Home Appliances,1423,Yes,No
+CUST_5685,Margaret Salazar,Female,sking@patton.com,2024-04-24,"38587 Jennifer Canyon Suite 774 North Joshuaton, NC 98667",BankTrans,Fashion,3666,No,Yes
+CUST_4941,Nancy Johnston,Female,betty02@robinson.info,2023-09-06,"371 Robin Dam West Sheri, VT 63409",Bank Transfer,Home Appliances,2735,Yes,No
+CUST_9561,Gail Larsen,Male,allisonpowell@thompson.org,2023-09-20,Unit 3197 Box 3108 DPO AE 94754,Bank Transfer,Groceries,961,Yes,No
+CUST_6496,Tracey Goodwin,Male,unknown,2024-11-19,"865 Whitney Points Suite 824 Stephenfurt, TX 19992",Bank,Fashion,3784,Yes,No
+CUST_2029,Laurie Lee,Female,danielle98@gmail.com,2021-01-01,"2704 Carey Manors Lake Matthewside, MT 32077",PayPal,Electronics,72,No,No
+CUST_5093,Monique Gray,Male,john94@williams.com,2020-10-19,"421 Stevenson Alley Suite 279 West Ann, OK 83378",PayPal,Electronics,2331,No,No
+CUST_8066,Daniel Stanley,Male,stoutallison@gmail.com,2021-09-20,"8137 Christopher Cape South Jason, SC 31382",Bank Transfer,Electronics,1040,Yes,Yes
+CUST_4430,Joshua Mcmillan,Female,katieoconnell@gordon-colon.com,2021-09-02,"0353 Erickson Ports Apt. 256 North Troy, OH 34139",Mobile Payment,Home Appliances,2335,Yes,No
+CUST_7839,Curtis Cummings,Male,joannawilson@hotmail.com,2020-10-05,"277 John Roads Krystalmouth, KS 20713",Mobile Payment,Home Appliances,1256,Yes,Yes
+CUST_8654,Shirley Hoover,Male,qmartinez@yahoo.com,2022-06-16,USS Jones FPO AP 31432,Credit Card,Groceries,1828,No,No
+CUST_8156,James Mills,Male,unknown,2024-09-18,"5050 Coleman Viaduct Apt. 610 Port David, MI 49680",PayPal,Home Appliances,3630,No,No
+CUST_7889,John Palmer,Male,martinezalexander@ortiz-torres.net,2022-04-16,"518 Hicks Drive Apt. 807 Johntown, VA 17541",Bank Transfer,Fashion,307,Yes,Yes
+CUST_9977,Mercedes Ramirez,Male,jessecastillo@thompson-benjamin.com,2024-06-22,"026 Ramirez Estates Apt. 293 New Justin, VT 07175",Credit Card,Groceries,3334,No,No
+CUST_4021,Judy Davis,Female,lyonsdanielle@hotmail.com,2023-07-08,"95563 Wong Hill Apt. 932 Lake Roberto, IN 40613",Bank Transfer,Groceries,259,No,Yes
+CUST_8093,Jose Zimmerman,Female,briancarlson@yahoo.com,2022-08-07,"5285 Scott Terrace Lake Cynthiaside, NV 68362",Credit,Electronics,118,Yes,Yes
+CUST_7937,Michael Gillespie,Female,daltonnathan@mooney-roach.com,2023-05-17,"PSC 2652, Box 4418 APO AE 52080",PayPal,Home Appliances,3977,No,No
+CUST_1732,Valerie Charles,Male,michael63@zuniga-burnett.biz,2020-04-06,"9657 Brandon Estates Suite 777 Lake Alex, WA 18955",Bank Transfer,Electronics,2511,No,No
+CUST_9610,John Barber,Female,david52@strickland.org,2020-08-21,"567 Davidson Rue New Stanleymouth, OH 01836",PayPal,Fashion,4861,Yes,No
+CUST_3958,Jason Bernard,Male,jhutchinson@cook-lopez.com,2021-05-09,"0685 Melissa Court Petersonland, MI 63634",Credit Card,Groceries,4063,Yes,No
+CUST_9469,Misty Preston,Female,wfrazier@gmail.com,2022-01-20,"70626 Brian Circles Apt. 570 West Gabrielchester, KS 83233",Bank Transfer,Fashion,4397,No,No
+CUST_2557,Donald Hernandez Md,Female,paul69@hotmail.com,2022-12-18,"02767 Carrillo Highway North Jacobchester, ND 53418",Bank Transfer,Home Appliances,3254,Yes,Yes
+CUST_7585,Natalie Pace,Female,pwhitehead@king-osborn.com,2024-01-24,"71119 Michael Point West Teresaberg, PA 59538",Cred,Groceries,4608,Yes,Yes
+CUST_9235,Wayne Compton,Male,kellylyons@hotmail.com,2023-11-12,Unit 6585 Box 3092 DPO AE 97893,PayPal,Groceries,1529,No,Yes
+CUST_2524,Holly Dyer,Female,thomasbrittany@gmail.com,2024-06-11,"779 Hicks Loaf North Ashleeborough, HI 30633",PayPal,Groceries,4263,No,No
+CUST_5551,Richard George,Female,kimberly06@gmail.com,2021-07-23,"55095 Amanda Courts Stephenport, IN 23679",Mobile Payment,Electronics,725,Yes,No
+CUST_2153,Michael Delgado,Female,ugoodman@yahoo.com,2024-08-14,"9266 Lewis Terrace New Nathanielbury, AL 81215",Mobile Payment,Fashion,3684,Yes,No
+CUST_3643,Cheryl Hurst,Female,hernandezjessica@solomon.com,2024-03-23,"PSC 4966, Box 7023 APO AE 51672",BankTrans,Home Appliances,4265,No,Yes
+CUST_4681,Vincent Allen,Female,mortoncynthia@yahoo.com,2022-02-11,"998 Brandon Cove Apt. 821 East Pamelaton, OH 35633",PayPal,Electronics,3600,Yes,Yes
+CUST_4041,Tony Wilcox,Female,lawrence92@smith.info,2024-09-26,"76543 Karen Terrace Apt. 704 Deborahborough, KS 80524",Bank Transfer,Fashion,2745,No,Yes
+CUST_6932,Mark Huerta,Female,unknown,2024-02-06,"4422 Wright Isle Apt. 142 Pennyview, DE 12701",Bank,Home Appliances,4756,No,No
+CUST_4463,Chad Stevenson,Male,steven64@yahoo.com,2020-07-24,"8452 Wiley Island Apt. 410 Carrville, WI 36427",PayPal,Electronics,1444,Yes,Yes
+CUST_7642,Selena Mason,Female,unknown,2024-02-12,"0635 Ramsey Walks Jeffreychester, WY 13895",Mobile Payment,Home Appliances,1931,No,No
+CUST_3580,Nicholas Nelson,Female,unknown,2020-04-01,"3246 Matthew Mountain Apt. 639 Alanmouth, MO 34708",PayPal,Home Appliances,1837,No,Yes
+CUST_8017,Katherine Nguyen,Female,ncobb@hotmail.com,2020-11-21,"20716 Catherine Rest Boylefort, PA 86793",Credit Card,Electronics,641,No,No
+CUST_3182,Kathleen Henry,Male,thomasvicki@hotmail.com,2022-04-25,"032 Garcia Lights Apt. 675 Port Gabrielville, MN 95415",PayPal,Groceries,3948,No,No
+CUST_3641,Mary Contreras,Female,unknown,2023-02-24,"890 Jackson Falls Lindseymouth, TX 45009",Credit Card,Home Appliances,1399,No,Yes
+CUST_4611,Ronald Allen,Male,smithangelica@boyd.com,2020-02-18,"227 Marshall Orchard Suite 644 Port Kelly, IA 99596",PayPal,Fashion,4732,Yes,No
+CUST_4742,Jordan Smith,Female,baxterjulie@lee-king.org,2024-05-16,"116 Kimberly Lock Suite 674 Lake Kyle, TN 14917",PayPal,Groceries,1899,No,No
+CUST_4403,Joshua Potter,Male,lhartman@diaz.com,2021-12-13,"529 Melissa Motorway West Savannahfurt, UT 11596",Mobile Payment,Groceries,2272,No,No
+CUST_7710,Melissa Hill,Female,barbara18@flores.com,2021-02-17,"995 Carney Springs Suite 622 Ramosville, AK 57823",Credit Card,Groceries,1793,No,No
+CUST_5807,Bryan Haley,Male,brennancharles@yahoo.com,2024-02-05,"632 Pollard Ferry Suite 876 Barbaraside, IA 70406",Bank Transfer,Electronics,2225,Yes,Yes
+CUST_5324,Kristine Estes,Female,william04@yahoo.com,2021-09-07,"044 Chambers Circle Suite 202 West Victoriahaven, NE 77486",Credit Card,Home Appliances,4572,Yes,Yes
+CUST_2194,Mary Villarreal,Female,sarahrichardson@hotmail.com,2021-04-17,"368 Kennedy Wall Apt. 362 East Michaelside, SC 21318",Mobile Payment,Home Appliances,2640,No,Yes
+CUST_1815,Linda Austin,Male,jeffreyellis@hotmail.com,2022-08-28,USCGC Allen FPO AA 80144,Bank Transfer,Home Appliances,2700,No,Yes
+CUST_4419,Mark Anthony,Female,dustin53@hotmail.com,2022-05-28,"67271 Hendricks Way South Robert, ID 56379",Credit Card,Electronics,762,No,Yes
+CUST_1406,Corey Jones,Female,hburton@gmail.com,2022-12-24,"960 Brandon Prairie Apt. 537 Lesterport, IL 62467",Bank Transfer,Groceries,1412,Yes,Yes
+CUST_1910,Corey Rios,Male,stephen29@yahoo.com,2021-10-09,"332 Carter Junction North Madison, HI 34905",Credit Card,Electronics,4845,No,No
+CUST_3416,Holly Benjamin,Male,qbaker@long.com,2025-01-02,"15640 Phillips Harbors Suite 704 Rebeccaton, LA 03975",Bank,Home Appliances,1929,No,No
+CUST_2022,John Stewart,Female,freed@yahoo.com,2023-03-24,"929 James Expressway Jamesmouth, AL 24510",Mobile Payment,Fashion,3463,No,No
+CUST_5368,April Wolfe,Female,ramirezjay@parsons.info,2020-02-05,"2734 Daniel Trace Suite 867 Port Christopher, AK 97616",Credit Card,Fashion,2409,Yes,No
+CUST_7735,Melissa Thompson,Male,davidedwards@adams.biz,2020-03-04,"1224 Lopez Wall Suite 642 East John, IN 41163",Mobile Payment,Home Appliances,5093,No,Yes
+CUST_6464,Michael Brock,Female,twilliams@romero.info,2020-09-01,"99428 Julian Plains Suite 655 New Dawn, LA 43608",PayPal,Fashion,4785,Yes,Yes
+CUST_5042,Annette Hunter,Male,gmiller@hahn.com,2024-07-11,"260 Tammy Gardens Port Angela, NV 72363",Pay,Fashion,4693,Yes,No
+CUST_3936,Colleen Price,Male,mark01@gmail.com,2024-05-20,"3157 Simmons Trail South Dwaynemouth, PA 27748",Credit Card,Home Appliances,3869,Yes,Yes
+CUST_9237,Gregory Edwards,Female,janice48@yahoo.com,2023-11-08,"55344 Smith Crescent Suite 421 Charleshaven, MO 42771",Credit Card,Groceries,3140,No,No
+CUST_4942,Wayne Williamson,Male,gibbskimberly@tanner.com,2021-05-19,"3809 Deborah Cape Suite 462 Barbarabury, SC 38810",Crdit Card,Fashion,2556,No,No
+CUST_3914,Morgan Thomas,Female,haleybullock@yahoo.com,2020-10-03,"9041 Hinton Camp Suite 979 North Jim, VT 51539",BankTrans,Groceries,4610,No,Yes
+CUST_5153,Steven Ramirez,Female,jill85@pruitt.com,2024-11-11,"501 Burns Gateway Suite 163 North Brian, VT 95107",Mobile Payment,Groceries,533,Yes,No
+CUST_9888,Jo Nelson,Male,opace@williamson-ortiz.com,2022-02-27,"16226 Huff Square Jenniferside, IN 41870",Mobile Payment,Home Appliances,3608,No,Yes
+CUST_1429,Jeremiah Hudson,Female,unknown,2022-04-09,"1904 Jacobson Row Suite 203 South Lisaburgh, UT 24472",Bank Transfer,Home Appliances,2392,No,Yes
+CUST_7759,Kimberly Jones,Male,maxwellanthony@torres-alvarado.org,2024-03-18,"3078 Matthew Summit Apt. 986 North Kathy, MS 62932",PayPal,Fashion,3877,No,No
+CUST_4947,Matthew Burke,Female,unknown,2022-08-03,"7381 Christopher Light Apt. 854 West Nicholas, NV 18173",PayPal,Groceries,4595,No,No
+CUST_3383,Anna Long,Male,zburgess@hotmail.com,2021-05-20,"400 Riley Turnpike Suite 367 Richardport, ID 39670",Mobile Payment,Groceries,219,No,Yes
+CUST_1393,Lisa Tucker,Female,sarah61@hotmail.com,2021-10-28,"0052 Donald Loaf West Amandaland, CT 96341",Mobile Payment,Groceries,289,Yes,No
+CUST_9305,Aaron Mcmahon,Female,thompsonstephanie@gonzalez.com,2022-01-08,"0054 Tyler Row Suite 903 New Rodneybury, ID 81611",PayPal,Groceries,2627,Yes,No
+CUST_9162,Natalie Reed,Male,monica01@evans.com,2022-08-02,"52449 Middleton Estate Suite 931 East Tiffany, WI 96711",Bank,Groceries,3653,No,Yes
+CUST_1841,Rebecca Blake,Male,russellphyllis@hotmail.com,2023-10-04,"4167 Richard Manor Apt. 304 Castilloberg, MN 22522",Bank Transfer,Home Appliances,3048,Yes,No
+CUST_7127,David Bolton,Male,emily30@smith.org,2020-02-20,"948 Curtis Station West Lucas, UT 24106",Mobile Payment,Groceries,901,Yes,No
+CUST_4190,Amanda Ware,Female,hayesdanny@gmail.com,2022-02-19,"798 Barnett Bypass West Adam, TX 02830",Bank Transfer,Groceries,4641,Yes,No
+CUST_3281,Tammy Pitts,Male,theresa29@hotmail.com,2024-03-06,"2618 Robertson Heights Tammytown, ID 33708",Mobile Payment,Groceries,4824,Yes,No
+CUST_7598,Andrew Johnson,Male,rileyrodney@huerta-richard.org,2020-11-09,"549 Henry Forest West Caitlin, WV 34463",Mobile Payment,Groceries,3194,No,No
+CUST_3049,Nicholas Woodard,Female,richardyoung@graham-anderson.com,2021-05-13,"78345 Jenkins Isle North Robert, UT 60820",Crdit Card,Home Appliances,665,No,Yes
+CUST_6984,Matthew Lee,Female,donaldmiller@price-mills.info,2021-11-12,"84303 Andrew Meadows Colonport, WI 25744",Credit Card,Groceries,2154,Yes,No
+CUST_3865,Erin Smith,Male,castrorandy@yahoo.com,2020-07-31,"3495 Daniel Neck Suite 103 Jenniferton, ND 43533",Bank Transfer,Fashion,4143,Yes,Yes
+CUST_9341,Jessica Whitaker,Female,unknown,2020-07-09,"67435 Cunningham Mount New Thomasfort, NC 29915",Bank Transfer,Groceries,2046,No,Yes
+CUST_3486,Xavier Mann,Female,conleynicole@berry.com,2020-10-25,"24310 Garner Ranch Apt. 603 East Ashleyview, NE 64726",Mobile Payment,Home Appliances,2484,Yes,Yes
+CUST_7056,Margaret Kim,Male,stanleymichael@hotmail.com,2023-11-08,"47067 Mullen Mall North Brandon, WY 30004",Credit Card,Electronics,225,No,No
+CUST_1822,Crystal Jackson,Male,ohurst@hotmail.com,2023-04-02,"8390 Kristen Prairie Christinaside, NJ 89763",Mobile Payment,Groceries,397,Yes,No
+CUST_8683,Jessica Conley,Female,tamara30@hotmail.com,2020-09-12,USS Powell FPO AE 62542,Bank Transfer,Groceries,2315,No,Yes
+CUST_1171,Kathleen Bolton,Male,matthew24@hotmail.com,2021-05-04,"887 Tom Parks Apt. 163 New Ashley, TN 22406",Mobile Payment,Home Appliances,2269,Yes,No
+CUST_2825,John Lopez,Female,waltermark@monroe.net,2021-06-29,"7419 Sweeney Manor Suite 792 Calebhaven, NH 29066",Cred,Fashion,1858,Yes,Yes
+CUST_6558,Brian Miller,Female,angela31@medina.com,2024-10-28,"6677 Kari Walk North Leah, NH 85809",Mobile Payment,Home Appliances,3490,No,No
+CUST_5452,Holly Alvarez,Male,monroejeffrey@gmail.com,2020-12-17,"220 Burton Meadow Suite 625 East Ashley, WI 25040",PayPal,Groceries,2611,No,No
+CUST_6609,Jared Mason,Female,wendy24@gmail.com,2020-03-12,Unit 2461 Box 8957 DPO AE 44525,Bank Transfer,Groceries,4778,Yes,Yes
+CUST_1096,Darlene Stevens,Male,elizabethhogan@faulkner.biz,2020-08-01,"231 Hill Streets South Jodimouth, IN 58202",Bank,Groceries,3967,Yes,Yes
+CUST_1784,Christopher Garrett,Male,unknown,2024-07-16,"23940 Myers Junctions Apt. 203 Arianastad, SC 40291",Bank Transfer,Fashion,680,Yes,Yes
+CUST_4800,Lisa Edwards,Male,barbara29@mcconnell.info,2024-07-13,"83360 Felicia Walk Suite 035 Mcleanview, WA 66067",Bank Transfer,Electronics,3686,Yes,No
+CUST_5654,Margaret Cummings,Female,unknown,2023-07-31,"1445 Cathy Lodge Apt. 443 Ortegatown, AL 85154",PayPal,Fashion,1650,No,Yes
+CUST_2111,Mr. Donald Gonzalez,Female,meyerchristina@martin.com,2023-05-31,"068 Sarah Park Snyderland, FL 89747",Bank Transfer,Fashion,2574,No,No
+CUST_2527,Heidi Boyd,Male,marysmith@gmail.com,2024-12-10,"681 Franco Shore Suite 035 Barrborough, AR 38828",PayPal,Groceries,197,No,No
+CUST_7552,Alexandra Graham,Female,kimberlyjones@berry.com,2024-04-24,"88657 Cherry Springs Suite 433 Lake Robertstad, TX 32825",BankTrans,Groceries,3456,No,Yes
+CUST_3900,Amanda Lynch,Female,donaldpatrick@fernandez.biz,2023-05-15,"225 Gomez Islands Apt. 057 Mejiamouth, IL 12738",Credit Card,Electronics,2998,No,No
+CUST_2650,Christine Schneider,Male,unknown,2020-09-22,"6555 Barbara Expressway Suite 444 North Brittany, OR 74227",Mobile Payment,Electronics,3014,Yes,No
+CUST_2177,Christine Mason,Female,smcfarland@flores-little.com,2023-04-06,"7153 Wright Land West Daisyville, OH 65114",Bank Transfer,Fashion,425,Yes,No
+CUST_9522,Ronald Bautista,Male,unknown,2021-04-15,"405 Cortez Walk Port Todd, AL 11258",Bank Transfer,Electronics,4079,No,No
+CUST_8627,Greg Mullins,Female,samuelwatson@yahoo.com,2022-11-29,"24738 Taylor Isle Stevensonburgh, WV 12258",Mobile Payment,Home Appliances,2335,Yes,No
+CUST_5971,Jonathan Wong,Male,clinton18@harvey.com,2023-03-24,"67205 Bond Plains Apt. 419 North Matthewtown, NC 04825",Cred,Fashion,4712,Yes,No
+CUST_4065,Andrea Foster,Female,petersmanuel@martinez.info,2022-02-03,"596 Porter Ramp Herbertbury, LA 24162",Bank Transfer,Home Appliances,2631,Yes,No
+CUST_5951,Laura Macias,Female,vayers@gmail.com,2022-07-19,"6644 Rivera Inlet New Raven, MS 28509",BankTrans,Home Appliances,1527,Yes,Yes
+CUST_7119,Samantha Smith,Male,rebecca89@torres.net,2021-10-28,"57915 Ian Expressway Apt. 111 Alexisberg, NC 69682",Credit Card,Groceries,2931,Yes,Yes
+CUST_2053,Pamela Hudson Md,Male,qortiz@gmail.com,2022-12-11,"64994 Reese Shoal Suite 911 North Gary, MD 06215",Crdit Card,Groceries,474,Yes,No
+CUST_5716,Connie Greene,Female,mary04@lopez-howell.com,2024-12-03,"65038 Angela Route Kaufmanshire, IL 53021",BankTrans,Home Appliances,1677,Yes,Yes
+CUST_7879,Samantha Quinn,Male,jeremyanderson@gmail.com,2022-02-08,"682 Henry Wells Port Kevin, WA 61814",Credit Card,Fashion,1104,Yes,Yes
+CUST_5501,Rhonda Hines,Male,josephmonroe@brown.com,2021-01-14,"5178 Heather Haven Danielville, LA 71964",PayPal,Groceries,3838,No,No
+CUST_7067,Amy Cole,Female,sgillespie@yahoo.com,2024-06-25,"45062 Schwartz Pass New Jillfort, SD 67924",PayPal,Fashion,4405,No,No
+CUST_2491,John Taylor,Female,qhoffman@pierce.com,2024-01-29,"7930 Kathy Cove Apt. 945 Lake Sandraland, MO 64723",Mobile Payment,Fashion,3578,Yes,No
+CUST_4675,Brianna Gilbert,Male,unknown,2022-01-26,"634 Boyd Landing Suite 329 Brewerfort, OH 66243",Mobile Payment,Fashion,4368,No,No
+CUST_4053,Jacob Thompson,Male,qsmith@hotmail.com,2021-10-18,"376 Martin Loop Port Brenda, NH 37320",Credit,Home Appliances,1303,No,No
+CUST_2446,Jonathan Esparza,Male,garzamichelle@gmail.com,2024-05-23,"868 Thomas Ways North Katrinabury, LA 07059",PayPal,Electronics,830,Yes,Yes
+CUST_1439,Barbara Scott,Female,melissahardy@erickson-martinez.com,2020-05-13,"2231 Ward Throughway Apt. 593 New Victoriaview, SC 12237",Bank,Fashion,3770,No,No
+CUST_4299,Erin Smith,Female,hduran@casey.biz,2021-10-27,"57266 Craig Unions Thomasland, IL 10829",Bank Transfer,Fashion,1192,No,No
+CUST_8379,Lisa Miller,Female,fgarcia@yahoo.com,2020-11-11,"445 Brian Stream Apt. 324 New Tylerfurt, VT 71170",Cred,Groceries,1626,No,Yes
+CUST_1020,Susan Henry,Male,jfritz@ward-walker.com,2024-05-24,"02548 Brian Mill Suite 256 Cannonmouth, SC 26745",Bank,Groceries,588,No,No
+CUST_2600,Joshua Hall,Male,avilaphillip@yahoo.com,2021-11-06,"4727 Gregory Cape Suite 379 Christensenborough, AL 78315",PayPal,Groceries,4402,Yes,No
+CUST_7596,Maria Bishop,Male,sanchezmargaret@smith.biz,2021-05-30,"73986 Kevin Highway Apt. 046 West Jeffrey, NM 35203",Credit Card,Groceries,1175,No,No
+CUST_9726,Christine Alvarez,Male,pcampbell@hotmail.com,2023-01-18,"847 Castillo Mountains Burkehaven, OK 80415",Credit Card,Electronics,4535,No,Yes
+CUST_7163,Julian Jenkins,Female,roysandra@yahoo.com,2024-10-24,"251 Mark Rapids Jessicatown, LA 75451",Mobile Payment,Groceries,4082,Yes,No
+CUST_1463,Hannah Navarro,Male,andreanelson@hotmail.com,2020-03-25,"79037 Watkins Wall East Benjaminfort, VA 16840",Credit Card,Fashion,4379,No,Yes
+CUST_7762,Craig Delgado,Male,ifarrell@hotmail.com,2023-08-18,"3282 Sarah Viaduct Apt. 737 Lake Jesseview, MA 67072",Bank Transfer,Fashion,379,No,Yes
+CUST_1919,Jordan Valencia,Female,davidlewis@murphy.com,2024-12-01,"757 Beth Plain Apt. 697 Davismouth, NC 57221",Credit Card,Fashion,1440,No,No
+CUST_8590,Brent Arnold,Female,austin83@rios.com,2024-01-27,"1830 Hansen Gateway Gabrielleland, UT 01574",PayPal,Fashion,2226,No,No
+CUST_3088,Aaron Graves,Male,crystalmartinez@gmail.com,2021-02-19,"8325 Daniel Glens Suite 231 North Marybury, NY 60066",Credit Card,Electronics,144,Yes,Yes
+CUST_1224,Kayla Smith,Female,lovefrederick@gmail.com,2020-07-09,"830 Sheila Manors Pamelaview, SC 24833",Cred,Groceries,3798,Yes,No
+CUST_9869,Melinda Alvarado,Male,stephen52@erickson-esparza.com,2024-06-07,"7458 Natalie Summit Apt. 767 Ericville, TX 95613",Credit Card,Fashion,1145,Yes,No
+CUST_4420,Ana Wiley,Female,elizabeth92@gmail.com,2023-06-08,"33421 Jennifer Wells Raymondberg, MS 56801",PayPal,Groceries,980,No,Yes
+CUST_9705,Jamie Mcpherson,Female,ashlee28@yahoo.com,2021-06-08,USCGC Dillon FPO AA 73709,PayPal,Groceries,3341,No,Yes
+CUST_8001,Nicole Lewis,Male,bmcclain@gmail.com,2021-07-21,"26687 Richard Overpass Wilsonshire, NE 46541",Credit Card,Electronics,4787,Yes,No
+CUST_6349,Maria Thompson,Female,williamsjennifer@hotmail.com,2022-02-02,"PSC 4753, Box 0721 APO AA 82465",Credit,Home Appliances,427,No,Yes
+CUST_3971,Jonathan Garcia,Male,catherine86@barnes.com,2022-07-31,Unit 3305 Box 2302 DPO AE 40234,Mobile Payment,Groceries,3348,Yes,Yes
+CUST_7038,Joshua Jensen,Female,hgonzalez@gmail.com,2024-06-18,"4232 Castillo Fields Apt. 469 Williamschester, SD 94179",Bank Transfer,Electronics,4960,No,Yes
+CUST_9230,Thomas Hoffman,Male,carmenrichards@yahoo.com,2021-03-15,"23028 Megan Fields Kruegertown, NY 34628",Mobile Payment,Fashion,1130,No,Yes
+CUST_4406,Kenneth Allen,Male,gmccormick@gmail.com,2023-04-04,"3422 Maria Fords New Michael, KS 87373",Mobile Payment,Groceries,3270,Yes,No
+CUST_3567,Lori Stuart,Male,rodgersdana@yahoo.com,2022-01-26,Unit 8364 Box 0554 DPO AA 53647,Mobile Payment,Groceries,4311,Yes,Yes
+CUST_4341,Cameron Green,Male,unknown,2022-07-15,"84462 Cook Ports Port Kathrynland, GA 89835",Bank Transfer,Groceries,3479,No,No
+CUST_6677,Erika Becker,Male,robert97@yahoo.com,2020-10-22,"639 Tami Centers Johnstonstad, VA 54831",BankTrans,Home Appliances,4666,No,No
+CUST_9654,Isabel Calhoun,Female,kristen36@yahoo.com,2024-03-30,"702 David Shoals Suite 929 Smithbury, SD 58289",BankTrans,Home Appliances,369,Yes,Yes
+CUST_1888,John Holmes,Male,unknown,2023-06-26,"42661 Sara Forks Wilsonside, NY 67559",Mobile Payment,Groceries,1588,Yes,Yes
+CUST_6713,Nicholas Washington,Female,unknown,2020-04-15,"33384 Barbara Camp Elizabethton, IN 65542",Mobile Payment,Fashion,1041,No,Yes
+CUST_5748,Adriana Lee,Female,housesarah@suarez.org,2024-03-04,"PSC 3332, Box 4552 APO AE 34742",PayPal,Electronics,3586,Yes,No
+CUST_5792,Amanda Ramirez,Female,nicholas53@yahoo.com,2020-05-20,"764 Erin Shores Apt. 031 East Gregory, NM 88163",Bank Transfer,Fashion,1830,No,Yes
+CUST_2391,Christopher Ford,Female,hgraham@soto-watkins.info,2023-03-17,"3286 Jon Inlet South Bryan, CA 80080",Bank Transfer,Fashion,1736,No,No
+CUST_5579,Paul Fischer,Female,ubell@ellis.com,2024-03-15,"10391 Zachary Light Port Davidburgh, ND 19225",Bank Transfer,Groceries,2169,Yes,No
+CUST_1313,Darren Davis,Male,hannah72@yahoo.com,2021-10-20,"955 Jamie Mountain Johnside, OK 01880",Bank Transfer,Electronics,3763,Yes,No
+CUST_8903,Ashley Lowe,Female,davidpatton@baker.org,2024-03-12,"4264 Lisa Parkway New Carolfort, NM 09224",Mobile Payment,Groceries,4875,No,Yes
+CUST_7275,Mariah Myers,Male,wongsean@hotmail.com,2023-12-22,"1448 Tiffany Lane Apt. 754 New Joel, NY 45054",Bank Transfer,Electronics,2387,Yes,No
+CUST_6288,Angela Boone,Male,jenkinspamela@nguyen.com,2021-05-12,"32311 Fernandez Trafficway Suite 898 Jonesport, MI 43735",Credit Card,Electronics,493,Yes,Yes
+CUST_9296,Michael Carey,Male,phillipconway@lara-frank.com,2024-04-28,"97191 West Spring Suite 703 Cunninghamfurt, TX 73249",Bank Transfer,Electronics,1708,No,Yes
+CUST_4683,Karen Duarte,Male,vanessa07@yahoo.com,2020-09-21,"705 Waters Inlet Apt. 189 South Cynthiaview, NE 68863",Credit Card,Fashion,830,Yes,Yes
+CUST_6000,Julian Collins,Male,alexa59@yahoo.com,2022-04-26,"089 Johnson Fall Heathermouth, MD 37837",Bank Transfer,Home Appliances,4612,No,No
+CUST_1169,Chris Johnson,Male,xadams@shaw-carlson.net,2020-07-17,"33086 Joann Crest Santosmouth, GA 60034",Bank Transfer,Fashion,1992,No,No
+CUST_6917,Angela Nelson,Female,rebecca48@yahoo.com,2022-04-19,"53999 Charlotte Walk Hooverfurt, MT 54811",Credit Card,Electronics,4690,Yes,Yes
+CUST_5163,Alexander Walker,Male,stephen30@gmail.com,2023-09-30,"86995 Dawn Corners Apt. 685 Alishafurt, MD 69670",Bank Transfer,Groceries,3615,Yes,Yes
+CUST_4600,Veronica Meyer,Male,jennifer73@farmer.com,2020-11-16,"2190 Linda Lake Apt. 184 Josephview, TN 41273",BankTrans,Groceries,279,Yes,Yes
+CUST_8513,Lisa Davidson,Male,ureid@durham.org,2022-05-17,"803 Sara Brook West Brandon, NE 22548",Mobile Payment,Groceries,2519,No,Yes
+CUST_9139,Matthew Lyons,Female,bellpeter@owen-jones.com,2023-12-03,"3345 Mary Estates Amyburgh, WV 40025",PayPal,Fashion,3768,Yes,Yes
+CUST_5304,Henry Johnson Md,Male,kennethcook@yahoo.com,2023-06-19,"901 Timothy Mission Apt. 498 North Robert, AL 64262",PayPal,Electronics,474,Yes,Yes
+CUST_5485,Tiffany Hall,Male,unknown,2024-03-30,"979 Colton Glens Suite 501 Chapmanville, KS 19476",Crdit Card,Electronics,1584,No,No
+CUST_9495,Shane Allison,Female,alyssa09@gmail.com,2022-06-26,"98046 Weiss Flats Mezaport, MN 20348",Bank Transfer,Home Appliances,2464,Yes,No
+CUST_7054,Richard Wilson,Male,jessica94@edwards.info,2023-11-13,"78516 Stacey Glen Apt. 073 Barryberg, VT 90400",Bank,Groceries,3490,No,Yes
+CUST_5677,Leslie Grant,Male,unknown,2024-03-19,USNS Sanders FPO AP 35498,PayPal,Electronics,1020,No,No
+CUST_9184,Gerald Santana,Female,elizabeth00@gmail.com,2024-06-26,"381 Diana Hills Suite 034 New Carol, CO 71036",PayPal,Electronics,871,No,Yes
+CUST_9630,Sheila Miller,Female,valdezdestiny@rowe-weaver.biz,2024-10-12,"539 Sanchez Ville Apt. 010 Lake Nicholasberg, DE 94907",Bank Transfer,Home Appliances,2881,Yes,No
+CUST_4932,Kristi Harrison,Male,unknown,2024-03-18,"882 Ramirez Burg Timothyburgh, NY 57683",Mobile Payment,Groceries,4774,Yes,Yes
+CUST_5396,Stephen Olson,Male,taylorbrandon@hotmail.com,2023-05-23,"36063 Michael Haven Suite 504 South Kimberlyside, WI 04039",Mobile Payment,Groceries,4748,No,No
+CUST_9426,Helen Bullock,Male,ethansimpson@evans.com,2024-01-17,"PSC 3481, Box 8735 APO AP 19822",Credit Card,Groceries,3324,Yes,Yes
+CUST_1738,Nathan Bryant,Male,hbell@lopez.com,2021-12-01,"0515 William Inlet West Paige, TX 95554",Credit Card,Electronics,2978,No,Yes
+CUST_1167,Rachel Macdonald,Female,boydpaul@miller.com,2021-10-25,"84002 Martin Rapids Suite 957 West Christopherberg, MO 94802",PayPal,Groceries,2985,No,No
+CUST_4378,Stanley Duffy,Female,suttonholly@hotmail.com,2023-01-20,"4736 Allison Lodge Suite 235 Kirkhaven, MD 49181",Bank Transfer,Groceries,4812,Yes,No
+CUST_5082,Brittany Sampson,Male,kimberlyfox@yahoo.com,2024-04-01,"01187 Timothy Creek Suite 394 Charlesview, WI 91051",Bank,Groceries,2056,No,Yes
+CUST_4413,Jose Peterson,Male,hwilliamson@jimenez-mckee.com,2024-02-02,"1977 Melissa Manor Allenside, SC 12673",Bank Transfer,Fashion,404,No,Yes
+CUST_1063,Ann Carroll,Female,unknown,2024-12-14,"708 Rodriguez Junction Port Jacquelineshire, DC 27470",Credit Card,Fashion,1058,No,Yes
+CUST_1316,Paul Suarez,Male,ashley58@garcia-escobar.com,2024-08-03,"0034 Vaughan Rue Fisherton, MS 32059",Mobile Payment,Electronics,4341,Yes,Yes
+CUST_4387,Laurie Mitchell,Female,unknown,2020-08-09,"815 Baker Route Port Jeffreyshire, WI 88450",Credit Card,Home Appliances,4083,No,Yes
+CUST_9933,Amy Stevenson,Female,cwalker@bailey-harper.info,2021-07-06,"369 Kevin Village Apt. 421 Floresmouth, KS 59832",Pay,Home Appliances,4847,No,No
+CUST_7905,Anthony Hernandez,Female,rwheeler@gmail.com,2020-10-14,"97194 Ryan Lights Johnshire, NM 43277",Credit Card,Electronics,3503,Yes,Yes
+CUST_8779,Paul Campos,Male,belljanet@fernandez.com,2024-10-31,"23542 Sutton Lights East Patricia, KS 30144",PayPal,Electronics,1639,No,No
+CUST_1568,Tim Bailey Dds,Female,unknown,2023-08-30,"809 Ramos Stream Apt. 982 Silvashire, VT 49172",PayPal,Home Appliances,2121,No,No
+CUST_6494,Tracy Chavez,Male,sanderson@fernandez.com,2021-08-05,"4260 Wheeler Valley Frankfurt, MO 34444",Mobile Payment,Electronics,1218,No,Yes
+CUST_5680,Kelsey Lester,Female,igonzalez@gmail.com,2020-08-17,"5210 Wendy Cove Tonifort, CA 36410",Mobile Payment,Groceries,4594,Yes,Yes
+CUST_4023,Erik Chapman,Male,fkelly@newman.com,2021-11-06,"9705 Lisa Underpass Apt. 797 Brianaville, AL 23323",PayPal,Home Appliances,1793,Yes,Yes
+CUST_9175,Erica Barton,Female,davisjohn@zhang-bradshaw.com,2022-06-06,"0920 Salazar Ramp North Michaelton, ME 71329",Bank Transfer,Groceries,2760,Yes,Yes
+CUST_1651,Scott Mcgrath,Male,caitlin05@davidson.net,2023-04-09,"8655 Allen Light West David, CO 50285",Mobile Payment,Home Appliances,2986,No,No
+CUST_7690,William Fields,Female,walkerkatherine@gmail.com,2021-01-15,"0871 Seth Parkway Suite 959 Jonesshire, MI 06938",Bank Transfer,Home Appliances,771,No,Yes
+CUST_7353,Michael Shepard,Male,apatrick@johnson.biz,2021-12-23,"360 Kevin Common Apt. 271 Lake Anna, FL 30890",Credit Card,Groceries,2462,No,Yes
+CUST_7377,Abigail Berry,Male,krystal75@yahoo.com,2020-03-31,"55227 Amanda Stravenue Rebeccaview, NE 77073",Mobile Payment,Fashion,4352,Yes,Yes
+CUST_8503,Chase Mcdonald,Female,christopherpark@carroll.com,2021-11-07,"61359 Giles Groves Meghanbury, SD 54587",Mobile Payment,Home Appliances,1381,Yes,Yes
+CUST_9464,James Allison,Female,unknown,2021-05-05,"8922 Audrey Oval Suite 087 Robinsonmouth, NJ 30266",PayPal,Home Appliances,2352,Yes,No
+CUST_5558,Gabrielle Scott,Male,michaelbrown@yahoo.com,2025-01-15,Unit 6104 Box 3379 DPO AA 98464,Mobile Payment,Electronics,540,No,Yes
+CUST_1789,Laura Edwards,Male,obarton@sweeney-elliott.org,2021-08-06,"83071 Gutierrez Squares Lambertchester, CO 59452",PayPal,Home Appliances,870,No,Yes
+CUST_9763,Joshua Lewis,Female,unknown,2024-07-01,"00374 Danielle Spring Suite 830 Thomashaven, AK 41688",BankTrans,Groceries,3179,No,Yes
+CUST_1793,Ruben Owens,Male,psuarez@thomas.com,2024-02-16,"82221 Jill View Suite 496 Mannmouth, SC 33433",Credit Card,Home Appliances,3131,No,No
+CUST_9086,James Reese,Female,bradley86@montoya.info,2023-04-02,"477 Jamie Crossing Port Jonathan, DC 87510",Mobile Payment,Home Appliances,3704,No,Yes
+CUST_9761,Richard Frederick,Male,lindasanders@ruiz-williams.com,2022-11-28,"821 Amy Brook Apt. 106 Lake Bryanfurt, NJ 95213",PayPal,Groceries,705,No,Yes
+CUST_7350,Zachary Duran,Female,michaeldunlap@yahoo.com,2024-08-12,"05769 Gutierrez Stravenue West Wendymouth, UT 93421",Credit Card,Fashion,2005,No,Yes
+CUST_1344,Jordan Torres,Female,unknown,2022-04-11,USNV Koch FPO AA 49167,Bank Transfer,Electronics,1702,No,No
+CUST_6811,Jonathan Kelly,Male,elizabeth94@hotmail.com,2021-03-08,"873 Carpenter Highway East Marialand, KS 06536",Mobile Payment,Groceries,102,No,No
+CUST_2943,Eileen Daniels,Female,onealerika@gmail.com,2020-03-23,"9568 Allen Brooks Suite 363 East Gerald, DE 60068",PayPal,Home Appliances,111,Yes,No
+CUST_8936,Lindsey Adams,Female,victorswanson@rivera.net,2021-11-01,"823 Boone Stream Cynthiaview, TX 58080",Bank Transfer,Electronics,2137,Yes,Yes
+CUST_5003,Annette Henderson,Female,john68@gmail.com,2020-06-27,"PSC 0895, Box 4549 APO AE 25196",BankTrans,Groceries,668,Yes,No
+CUST_2084,Garrett Alexander,Male,wsantana@taylor.org,2023-01-17,"127 David Fall Apt. 388 Lake Jaredburgh, MI 52852",Mobile Payment,Fashion,3622,Yes,No
+CUST_1614,Anthony Baker,Male,scottjeffrey@knight-eaton.com,2024-07-11,"653 Kimberly Glen North Kelli, VA 71488",Crdit Card,Groceries,2883,No,No
+CUST_4666,Jonathan Oliver,Male,dennis28@burns.org,2024-08-28,"82897 Roy Vista West Kennethland, SC 86556",PayPal,Groceries,2272,Yes,Yes
+CUST_7198,Danielle Coffey,Male,rwilson@reynolds.com,2023-11-15,"9571 Mack Extension Sandrachester, AL 54683",PayPal,Electronics,2182,No,Yes
+CUST_6437,Logan Christensen,Male,nathan58@porter.info,2021-12-01,"646 Aguilar Mountain Jaclynland, HI 79753",Credit Card,Groceries,3350,Yes,Yes
+CUST_8681,Willie Morris,Female,kimberly41@sanders.info,2021-05-25,"8533 Andrea Turnpike Lynnborough, NJ 53632",Credit Card,Electronics,149,Yes,No
+CUST_2275,Ethan Marquez,Male,nancysmith@huber.org,2023-04-13,"44191 Robyn Drive Peckstad, AZ 25306",Bank Transfer,Home Appliances,2405,Yes,Yes
+CUST_5353,Tracy Lewis,Female,xfranklin@wiley.info,2023-07-16,"8481 Kelly Ranch Shawnland, NV 18212",Mobile Payment,Groceries,2815,No,Yes
+CUST_2916,Sean Barnes,Male,unknown,2025-01-09,"67166 Young Corner Apt. 956 Alicialand, MD 48908",BankTrans,Home Appliances,3954,No,No
+CUST_7738,Samuel Coleman,Male,whitejeffrey@king.com,2024-05-19,"47362 Emily Springs Apt. 421 East Justin, NH 11067",Bank,Home Appliances,617,No,Yes
+CUST_3191,Amanda Moore,Female,oscar89@doyle.net,2020-06-22,"329 Robert Turnpike Frederickburgh, ME 87591",Crdit Card,Fashion,4761,No,No
+CUST_5956,Edgar Valentine,Male,qarnold@hotmail.com,2022-10-30,"034 Wilson Ways East Ronald, TN 69921",Bank,Fashion,2343,No,No
+CUST_3107,Brad Farmer,Male,emilyshields@massey-cooper.com,2020-12-17,"741 Michael Divide South Deanna, MO 99009",Bank Transfer,Groceries,4645,Yes,No
+CUST_9451,Kevin Solomon,Female,craigmills@wilson-castaneda.com,2023-02-25,"204 Alejandra Well Kathleenfurt, SC 77100",Credit Card,Fashion,3491,No,Yes
+CUST_8814,Jeffrey Hobbs,Male,rcontreras@montgomery.com,2024-08-04,"550 Ramirez Locks Suite 775 Amyside, WY 82716",Mobile Payment,Home Appliances,585,Yes,No
+CUST_7675,Matthew Hall,Female,matthewchurch@riley-barry.info,2023-10-05,"50525 Stacy Turnpike Kimberlyside, HI 95943",Credit Card,Electronics,1147,No,No
+CUST_5379,Frank Williamson,Female,vsullivan@hotmail.com,2021-11-05,"040 Williams Wells Apt. 071 New Daisy, NH 99132",BankTrans,Electronics,4411,Yes,Yes
+CUST_1294,Mary Duran,Male,jameshenry@shaffer.com,2022-03-18,"40562 Bradley Mission Apt. 186 New David, AZ 45843",PayPal,Groceries,4363,No,Yes
+CUST_2708,Nicole Sherman,Male,unknown,2022-04-26,"76096 Lawrence Landing Maryton, OK 44324",Bank Transfer,Home Appliances,1883,No,Yes
+CUST_1522,Carolyn Soto,Female,gabrielle78@valentine.biz,2023-07-09,"43588 Simpson Ridge Port Chris, WA 04904",Mobile Payment,Groceries,2069,No,No
+CUST_9140,Gina Joyce,Female,alexandraromero@ponce-robbins.info,2024-07-19,"PSC 1314, Box 3539 APO AP 46836",Pay,Groceries,4922,Yes,No
+CUST_3666,Rose Stevens,Female,melissawright@kennedy.info,2021-02-06,"20157 Spencer Isle Suite 534 New Scott, VA 25790",Bank Transfer,Home Appliances,1386,No,Yes
+CUST_8599,Randy Gonzalez,Male,rdennis@phillips-rocha.biz,2020-04-04,"4034 Jessica Fork Rachelview, OH 90636",Bank Transfer,Electronics,965,Yes,No
+CUST_7505,Richard Hill,Male,mthomas@williams-johnson.com,2022-01-04,"206 Emily Track Suite 784 Goodwinside, AK 45928",Mobile Payment,Groceries,3853,Yes,Yes
+CUST_6841,Jeffrey Khan,Female,jessica76@miller.com,2021-04-02,"0502 Jessica Throughway North Alan, LA 28710",Bank Transfer,Groceries,4083,No,No
+CUST_6691,Dawn Lowe,Female,unknown,2020-01-29,"PSC 5200, Box 9994 APO AE 83205",PayPal,Fashion,4460,No,Yes
+CUST_7868,Rebecca Guzman,Male,emily24@copeland.com,2021-03-04,"989 Jerry Corner Apt. 354 North Jacquelinetown, AK 56481",Credit Card,Home Appliances,602,No,No
+CUST_3947,Michael Perez,Female,dudleyrobert@gmail.com,2022-01-30,"23727 Moore Orchard Andersonburgh, AL 69794",Mobile Payment,Home Appliances,3520,No,No
+CUST_2402,Ryan Landry,Female,kcurry@yahoo.com,2021-07-04,USNV Parker FPO AA 96910,Mobile Payment,Fashion,513,No,Yes
+CUST_6807,Angela Williams,Female,lynnlauren@yahoo.com,2024-05-31,"6918 Courtney Loaf Patrickfurt, ID 52778",Bank Transfer,Fashion,166,Yes,Yes
+CUST_9951,Victoria Branch,Female,dianewebb@gmail.com,2023-04-11,"7286 Christopher Highway Suite 609 South Aprilview, NJ 09837",PayPal,Home Appliances,3165,Yes,No
+CUST_4111,Andrew Jackson,Female,rthomas@ferguson.org,2022-05-22,"914 Xavier Knolls East Dianamouth, AK 69053",Credit Card,Electronics,2225,Yes,Yes
+CUST_9326,Kathleen Jenkins,Male,garzaheather@cummings-smith.org,2021-12-13,"5878 William Dale Apt. 706 East Vincent, AR 36784",Credit Card,Groceries,2474,No,No
+CUST_3620,Lisa Moody,Male,unknown,2023-09-23,"626 Justin Field Suite 617 Holtburgh, VT 29880",Mobile Payment,Groceries,4943,No,Yes
+CUST_8836,Jordan Sullivan,Male,christopher32@hotmail.com,2020-06-04,"760 Mark Mission Richardtown, IL 17154",Bank Transfer,Fashion,745,No,Yes
+CUST_4905,Tiffany Lopez,Female,isaiahhuerta@torres-franklin.com,2020-06-21,"2477 Laura Point Suite 226 Fernandezfurt, MS 39551",Bank Transfer,Groceries,4393,No,Yes
+CUST_4068,Jeremy Lambert,Male,isaackennedy@dunlap.com,2024-09-10,"263 Tyler Mountains East Johnland, VA 89402",Credit Card,Groceries,3379,Yes,No
+CUST_8619,Anthony Sharp Jr.,Female,kylebaker@meyers-barnett.biz,2021-03-21,"01559 Cruz Forge North Anthonyborough, MS 82602",PayPal,Groceries,4470,No,No
+CUST_8607,Courtney Kelley,Female,cstone@thompson.net,2023-10-11,"83839 Macias Island South Sharonton, WA 46536",BankTrans,Groceries,710,Yes,No
+CUST_9927,Abigail Calhoun,Female,jessicanovak@williams.com,2020-05-26,"930 Lynn Grove Suite 373 Toddborough, OH 26260",Mobile Payment,Groceries,613,No,No
+CUST_7448,Robin Logan,Male,santanajeffrey@adkins.org,2024-02-02,"96230 Santiago Curve Hughesville, MS 64882",Cred,Electronics,1397,Yes,Yes
+CUST_3631,Angela Morris,Male,unknown,2022-06-03,"4507 Wright Fords South Williamstad, SC 52357",Credit,Groceries,1140,No,Yes
+CUST_4665,Julie Zimmerman,Male,thompsonmike@miller.biz,2021-07-25,"915 Lee Prairie East Julieport, ND 70159",PayPal,Fashion,3546,Yes,No
+CUST_4271,Deborah Hayes,Male,paul20@gmail.com,2024-10-12,"992 Davis Stream Apt. 315 Schaeferton, KS 55121",Mobile Payment,Groceries,2482,Yes,Yes
+CUST_7980,Alexandra Stone,Female,samantha77@yahoo.com,2023-07-19,"5240 Miles Knolls Apt. 930 Tammystad, TX 52298",PayPal,Electronics,685,Yes,Yes
+CUST_5864,William Curtis,Male,pwalker@yahoo.com,2023-09-29,"PSC 1534, Box 3146 APO AP 94006",Bank Transfer,Electronics,808,Yes,Yes
+CUST_2383,Tyler Smith,Female,unknown,2021-04-01,"50758 Rhonda Extension Apt. 586 Port Nicholastown, KS 38082",PayPal,Groceries,2038,No,No
+CUST_7457,John Cooper,Male,matthew44@gmail.com,2022-04-23,"804 Williams Motorway Apt. 996 Dodsonville, MD 32032",PayPal,Groceries,626,No,No
+CUST_9417,Aaron Donaldson,Female,vtaylor@wright.com,2023-02-03,Unit 8558 Box 8482 DPO AE 31286,Mobile Payment,Fashion,4369,Yes,No
+CUST_9010,Christine Olson,Female,jared11@moreno.com,2024-01-21,"1728 Wright Trace Suite 929 Luisborough, NJ 67717",Bank Transfer,Fashion,1155,Yes,No
+CUST_1158,Cameron Thomas,Female,matthew99@yahoo.com,2021-03-03,"007 Flores Mall Apt. 435 Lake Brianmouth, MD 27391",PayPal,Electronics,2162,Yes,Yes
+CUST_6175,Steven Miles,Female,david09@gmail.com,2022-09-27,"953 Christensen Islands Suite 310 Sellersberg, KY 72790",Bank Transfer,Fashion,1408,Yes,No
+CUST_1804,Peggy Archer,Male,micheal57@miller.com,2023-11-11,"210 Swanson Garden Apt. 794 Riveraview, NM 06785",PayPal,Groceries,1205,No,Yes
+CUST_2224,Jennifer Franklin,Female,alexis92@hotmail.com,2021-07-25,"897 Hudson Estates Coxport, AK 42903",Mobile Payment,Electronics,2833,No,Yes
+CUST_5863,Jill Taylor,Female,unknown,2024-09-05,"328 Kevin Shores Port Richardton, AK 33542",Crdit Card,Electronics,290,Yes,Yes
+CUST_8955,Steven Thomas,Male,saramoss@spence-morales.com,2022-12-08,"21143 Sullivan Common Apt. 925 New Daniellemouth, AK 84056",Credit Card,Electronics,3467,Yes,No
+CUST_8921,Daniel Hernandez,Female,jasonmeyer@anderson-best.com,2024-03-17,"58705 Salazar Prairie Stokesfort, TN 31475",Mobile Payment,Electronics,2201,No,No
+CUST_3368,Patrick Norman,Female,bergbrittany@edwards.net,2022-11-24,"316 Richards Manors Patrickhaven, TX 16270",Bank Transfer,Home Appliances,4382,Yes,No
+CUST_2862,Tiffany Ramirez,Female,charles24@bridges-odom.info,2021-02-09,"3235 White Club Apt. 450 Bellview, MD 47863",Credit Card,Electronics,3555,No,Yes
+CUST_6850,Victor Baker,Male,qking@yahoo.com,2022-04-13,"15383 Christian Port Jonathantown, DC 21149",Bank Transfer,Groceries,533,Yes,No
+CUST_1050,Crystal Morris,Female,unknown,2020-09-29,"8716 Peterson Crossing Ericbury, TN 21820",Mobile Payment,Electronics,1939,Yes,No
+CUST_5399,Veronica Vargas,Female,ashley89@medina.com,2022-07-30,"6470 Chandler Ranch Andersonville, NE 38398",Bank Transfer,Groceries,1880,No,No
+CUST_6592,Jonathan Graham,Female,alexa67@goodwin.org,2024-07-05,"0029 Nathan Grove West Georgebury, FL 09102",Bank Transfer,Home Appliances,3885,No,Yes
+CUST_4298,Emily Williams,Female,lorraine40@jones.com,2022-07-18,"36295 Santiago Shoals North Rogerland, MN 82441",Credit,Home Appliances,1919,Yes,No
+CUST_8389,Mackenzie Lewis,Male,xrobinson@mcdaniel.com,2024-04-17,"126 Christopher Summit New Eric, AL 55603",Mobile Payment,Home Appliances,2150,Yes,No
+CUST_1086,Jacqueline Meyers,Male,kimhill@yahoo.com,2022-02-23,"470 Bartlett Villages Apt. 554 Port Justinport, MT 94308",Credit Card,Fashion,4574,Yes,Yes
+CUST_4949,Benjamin Gray,Female,gpowell@gmail.com,2022-02-08,Unit 1744 Box 1053 DPO AE 63815,BankTrans,Electronics,2825,Yes,No
+CUST_4187,Bradley Underwood,Female,beckerthomas@hotmail.com,2020-02-29,"13865 Veronica Expressway Amyburgh, IL 57046",PayPal,Fashion,2081,No,No
+CUST_7259,James Blevins,Female,johnsoncarol@gmail.com,2020-02-11,"99991 Christopher Via Apt. 148 South Danielside, MI 68276",Bank Transfer,Fashion,2953,Yes,Yes
+CUST_1541,David Townsend,Female,jessica14@hancock.com,2020-06-27,"24496 Miller Trafficway Lake Joanna, WI 68385",Mobile Payment,Electronics,4579,Yes,Yes
+CUST_3292,Glen Hebert,Male,pattersondeborah@yahoo.com,2023-06-24,"6028 Christina Brooks New Samanthaton, CA 70946",Mobile Payment,Fashion,1129,No,No
+CUST_1566,Jonathan Walker,Male,jacobbell@tyler.info,2022-05-28,"4723 Rachel Overpass Spearsland, MD 70879",Crdit Card,Groceries,999,No,Yes
+CUST_9913,Christopher Wright,Female,sreyes@hudson-williams.com,2022-12-30,"9311 Kyle Crest Apt. 902 Hendricksmouth, NJ 04931",PayPal,Fashion,966,No,No
+CUST_4512,Kevin Keith,Female,bsanders@yahoo.com,2023-02-16,"472 Steven Stream Apt. 677 Rebeccachester, NE 97888",Bank,Groceries,1255,No,Yes
+CUST_1314,Timothy Lin,Female,joseph01@rogers.com,2024-08-29,"1154 Jenkins Streets Suite 003 Johnsonshire, NE 87121",Crdit Card,Groceries,4485,No,No
+CUST_1948,Tamara Allen,Male,vhenry@walton-clayton.com,2024-08-29,"468 Gibson Prairie Apt. 610 Port Keith, MD 96530",Mobile Payment,Home Appliances,1203,No,No
+CUST_2761,David Davis,Female,linda08@gmail.com,2023-06-17,"68623 Williams Bypass Ayersberg, KS 47193",PayPal,Fashion,3157,No,No
+CUST_1869,Robert Cervantes,Male,amber35@rodriguez-peterson.info,2024-05-23,"79985 Tran Summit Danielletown, WV 52429",Bank,Electronics,2957,No,No
+CUST_2772,Juan Crawford Jr.,Male,unknown,2024-12-18,"214 Cynthia Mill Apt. 373 North Gordonton, MD 94084",BankTrans,Electronics,2312,No,No
+CUST_3979,Brian Barry,Female,cooksteven@gmail.com,2020-07-20,"587 Pittman Extension Yoderton, TX 62189",Bank Transfer,Home Appliances,703,No,Yes
+CUST_9728,Jennifer Marquez,Male,charlesparks@reynolds.com,2023-03-03,Unit 7812 Box 8766 DPO AA 56301,PayPal,Home Appliances,3865,Yes,No
+CUST_3085,Jacob Huynh,Male,william03@gmail.com,2023-03-31,"5643 Shane Lakes Apt. 222 Port Tracy, MS 94832",Credit Card,Home Appliances,2410,Yes,No
+CUST_9878,Gregory Adams,Female,alyssaherman@gmail.com,2021-06-22,"628 Mark Freeway Sanchezstad, LA 68329",Crdit Card,Groceries,128,No,No
+CUST_3981,Matthew Owens,Female,lloydlinda@hotmail.com,2020-03-24,"6651 Rhonda Burg Sheltonstad, ND 20243",Credit Card,Electronics,4463,Yes,No
+CUST_8476,Brandy Nelson,Female,erin11@flores-hunt.com,2021-11-11,"55362 Tate Rest Bobbyberg, AL 62642",Crdit Card,Electronics,2209,Yes,No
+CUST_8625,Corey Wilson,Female,bsmith@hotmail.com,2020-08-20,USNV Potts FPO AP 68364,Bank Transfer,Fashion,1022,Yes,Yes
+CUST_7441,Melissa Martinez,Male,conleyantonio@morris-kim.com,2024-12-05,"637 Wade Meadow Port Robert, AZ 27030",Mobile Payment,Home Appliances,4647,No,Yes
+CUST_7381,Jessica Howard,Female,robert47@grant.com,2023-08-30,"954 Miranda Rue Apt. 810 New Dawnburgh, CT 28400",Mobile Payment,Home Appliances,3598,Yes,Yes
+CUST_8299,Michael Obrien,Female,lewismichael@hotmail.com,2021-02-27,"5382 Amanda Club Leetown, AK 00593",Bank Transfer,Fashion,3881,No,No
+CUST_9208,Tammy Butler,Female,perezmarilyn@miles-ortiz.info,2022-08-22,"6794 Samantha Place West Marisaville, AL 87374",Credit Card,Fashion,3261,Yes,No
+CUST_1184,Michael Anderson,Female,qparks@gmail.com,2024-10-21,"205 Christina Village Apt. 955 Bradystad, VA 71729",PayPal,Fashion,982,Yes,No
+CUST_5765,Lance Johnson,Male,michaelhopkins@pierce.info,2022-10-26,"62509 Tony Junction Pricestad, NH 29757",PayPal,Home Appliances,3415,No,Yes
+CUST_8394,Samantha Henson,Female,ambersimmons@jimenez.com,2023-10-28,"83884 Lester Ways Port Mariemouth, CO 01065",Mobile Payment,Groceries,4288,No,No
+CUST_5010,Thomas Hernandez,Female,smithcaleb@hernandez-newman.net,2025-01-03,"45236 Richard Harbors Apt. 595 Port Sarah, WI 78879",Bank Transfer,Home Appliances,1987,Yes,No
+CUST_3964,Eric Hill,Male,unknown,2023-10-02,"333 Mccoy Village Apt. 062 Cummingschester, FL 14351",Mobile Payment,Groceries,3743,Yes,Yes
+CUST_2341,Christina Williams Dvm,Female,unknown,2023-02-12,"2375 Li Viaduct Apt. 284 South Charles, SC 08981",PayPal,Fashion,2999,No,No
+CUST_9576,Patrick Curry,Female,lisagarcia@yahoo.com,2021-02-17,"1469 Sanders Island Suite 826 New Jenniferborough, AZ 41505",Mobile Payment,Home Appliances,783,Yes,Yes
+CUST_1772,Christina Conway,Male,ptaylor@gmail.com,2020-08-10,"426 Wood Walk Apt. 725 North Margaretfort, VA 81028",Bank,Home Appliances,684,Yes,Yes
+CUST_7187,Richard Kim,Male,shill@hotmail.com,2022-06-18,"6298 Thornton Vista New Beth, NM 47209",PayPal,Electronics,1644,No,No
+CUST_4470,Gabriella Shepherd,Male,wtaylor@gmail.com,2022-09-02,"4034 Tiffany Valleys Apt. 148 South Amanda, MO 69437",PayPal,Fashion,4080,No,Yes
+CUST_3767,Zachary Hamilton,Male,angela10@yahoo.com,2022-06-02,"63128 Mark Loop Suite 336 South Sherry, IA 09371",PayPal,Groceries,1460,No,Yes
+CUST_4909,Jesse Ross,Male,robinsonbrandon@gmail.com,2023-04-27,Unit 9855 Box 0913 DPO AP 86181,PayPal,Groceries,1376,No,Yes
+CUST_6390,Dustin Acosta,Female,danielslisa@castaneda.com,2023-11-29,"910 Taylor Mountain Hawkinsberg, NC 41087",Cred,Electronics,1093,Yes,No
+CUST_7174,Caitlin Washington,Male,hrodriguez@wagner.com,2022-01-19,"448 Jennifer Squares South Juliatown, ME 72294",Mobile Payment,Fashion,2793,No,Yes
+CUST_7633,Robert Cruz,Male,zrodriguez@dixon-sanchez.net,2022-11-15,"4281 Jennifer Gateway Apt. 647 Ramosview, AK 35614",Credit Card,Groceries,1027,Yes,Yes
+CUST_2800,Kevin Bonilla,Female,mprice@yahoo.com,2022-02-15,"61501 Gibson Summit Suite 485 West Meganfurt, CO 29345",BankTrans,Home Appliances,3144,Yes,Yes
+CUST_5270,Katie Kennedy,Male,brian90@gmail.com,2021-03-19,"047 Harvey Cliff Apt. 322 Victoriashire, MI 98964",Credit Card,Groceries,4968,Yes,No
+CUST_1114,Emily Mckee,Male,davidschultz@yahoo.com,2023-12-12,"338 Schneider Estate Hollandmouth, SC 32498",Crdit Card,Groceries,1775,Yes,Yes
+CUST_5309,Wendy Landry,Male,joshua88@rodriguez-smith.com,2024-03-05,"7567 Hill Mountain Apt. 112 Davidland, MS 58903",Credit Card,Groceries,194,Yes,No
+CUST_9241,Justin Murray,Male,kathleen47@clark-mitchell.net,2021-07-03,"87533 Clark Plaza Longland, VT 34434",Bank Transfer,Home Appliances,3654,Yes,No
+CUST_8706,Melinda Fields,Female,thomas15@dominguez-carter.com,2020-09-23,"61670 Olivia Key Lake Lisa, AL 02293",Credit Card,Fashion,288,Yes,Yes
+CUST_8425,Steven Zamora,Female,unknown,2021-03-10,"314 Natalie Village Knightborough, NM 88355",Pay,Home Appliances,1252,No,Yes
+CUST_2454,Stephen Schmidt,Female,champton@gmail.com,2022-02-13,"0619 Jessica Center Apt. 291 Lake Sarahville, ME 66898",Credit Card,Fashion,1772,Yes,No
+CUST_5035,Valerie Wallace,Male,lclark@gmail.com,2021-09-10,"259 Richardson Greens Suite 469 North Michelle, FL 34252",Bank Transfer,Electronics,2522,No,No
+CUST_9466,Isabella Ponce,Male,youngcheryl@hotmail.com,2022-03-27,"306 Williamson Gardens Shaneshire, NY 97882",Credit Card,Groceries,2913,Yes,Yes
+CUST_8316,Rachel George,Male,brianwest@yahoo.com,2023-11-02,"47446 Michelle Inlet Suite 122 Gomezmouth, AZ 61243",Bank Transfer,Groceries,3506,Yes,No
+CUST_8464,Jesus Wu,Female,jessica00@yahoo.com,2021-01-27,"54168 George Roads North Timothy, ND 02842",Bank Transfer,Groceries,561,Yes,No
+CUST_1914,Dawn Stokes,Female,flemingpaul@hancock.com,2022-08-28,"331 English Greens South Janice, TX 41960",Bank Transfer,Fashion,1955,Yes,No
+CUST_2466,Jennifer Allen,Male,unknown,2021-09-17,"4392 Woods Parkway Foxborough, ND 84637",Mobile Payment,Home Appliances,3952,No,Yes
+CUST_7313,Austin Pierce,Female,jamesbrown@johnson-phillips.net,2023-09-17,"6769 Mueller Isle Suite 520 Burchborough, AZ 72042",Crdit Card,Groceries,875,No,Yes
+CUST_7883,Matthew Cooke,Male,unknown,2023-12-19,USNS Ellis FPO AE 34149,Credit Card,Fashion,1808,Yes,No
+CUST_1150,Scott Jones,Male,fbaker@yang.com,2020-04-16,"04550 Sullivan Plaza Santoston, NJ 57853",Cred,Electronics,3096,No,No
+CUST_8774,Mary Armstrong,Female,holmescharles@morris.com,2024-12-19,"97316 Jenny Station Suite 668 Carolynshire, RI 57054",Mobile Payment,Home Appliances,302,Yes,No
+CUST_4861,Raymond Harris,Male,njordan@yahoo.com,2021-08-12,"755 Jones Extension West Anthonytown, NC 98180",Mobile Payment,Electronics,1655,No,Yes
+CUST_8898,Desiree Morris,Male,unknown,2020-10-25,"28991 Anna Courts Apt. 553 Seanfurt, MO 00887",Mobile Payment,Groceries,1445,Yes,Yes
+CUST_3439,Melissa Patterson,Male,westmario@yahoo.com,2020-02-26,"123 Timothy Loop Suite 953 North Michael, DC 91960",Credit Card,Home Appliances,1128,No,Yes
+CUST_1721,Samuel Santiago,Female,christopher17@gmail.com,2020-09-22,"4900 Rios Pike Apt. 076 Lake Paul, UT 39367",Credit Card,Home Appliances,4873,No,Yes
+CUST_5740,Natasha Brown,Male,samuelbarnett@gmail.com,2021-07-08,Unit 6000 Box 6109 DPO AP 07345,Bank Transfer,Home Appliances,102,Yes,Yes
+CUST_8562,Mrs. Jennifer Mccall,Female,brittanymartin@mendez.biz,2023-04-09,"87030 Erin Pines New Brent, IN 07553",PayPal,Fashion,1708,No,No
+CUST_8141,Thomas Thompson,Male,lisa90@chen.biz,2023-07-24,Unit 9403 Box 8431 DPO AA 78179,Mobile Payment,Fashion,4745,No,Yes
+CUST_1762,Erin Pitts,Female,kim26@yahoo.com,2020-04-24,"8496 Vega Roads Apt. 612 Ericborough, WA 89276",PayPal,Electronics,3796,Yes,Yes
+CUST_8025,Thomas Davis,Male,sgomez@mathews-davis.com,2022-09-17,"334 Chandler Rest East Amber, IL 31568",Bank Transfer,Fashion,4577,No,No
+CUST_7811,Toni Jimenez,Female,hernandezdanny@mahoney-ramirez.com,2025-01-13,"56333 Gabriel Mountain Suite 140 West Katherine, NJ 83479",Credit Card,Groceries,760,Yes,No
+CUST_5684,Edward Francis,Male,hruiz@hotmail.com,2022-09-24,"480 Joseph Turnpike Suite 371 Mathewschester, AK 25136",Credit Card,Electronics,2989,No,No
+CUST_8180,Brianna Smith,Female,michelle11@yahoo.com,2024-08-09,"112 Torres Cove Suite 212 West Zachary, DE 93169",Mobile Payment,Groceries,964,No,Yes
+CUST_9995,Diane Stone,Male,turnerroberto@hotmail.com,2021-12-01,"918 Jessica Glen Feliciafort, GA 63281",Mobile Payment,Groceries,164,Yes,Yes
+CUST_8690,Karen Sanders,Female,xbutler@hotmail.com,2020-11-07,"360 David Islands Apt. 468 Port Melissa, CT 31955",PayPal,Groceries,4432,No,No
+CUST_6766,Justin Delgado,Female,ojensen@gmail.com,2024-02-06,"07646 Mario Underpass Apt. 105 Jasonhaven, MN 72180",Mobile Payment,Groceries,3067,Yes,Yes
+CUST_6363,Jordan Martin,Female,mayerjason@gmail.com,2021-12-21,"49378 Kristina Trafficway Apt. 779 Jenniferfurt, MS 22229",Bank Transfer,Fashion,917,Yes,No
+CUST_8516,Tanner Marks,Male,jason94@gmail.com,2022-07-10,"12067 Fisher Brook Apt. 656 Lake Laura, MN 31246",Credit Card,Groceries,3903,Yes,Yes
+CUST_8497,Brittany Edwards,Female,zramirez@gmail.com,2023-03-29,"39730 Arroyo Lock West Michael, WY 95400",Pay,Fashion,2070,No,No
+CUST_2561,Michelle Bell,Female,shawn11@hotmail.com,2024-08-29,"321 Bennett Passage New Charles, AR 00632",Pay,Electronics,2129,No,Yes
+CUST_3582,Reginald Moreno,Female,zmathews@thomas-hughes.net,2021-05-14,"6237 Richard Curve East Frank, AZ 95816",Mobile Payment,Fashion,4062,Yes,No
+CUST_4434,Julia Adams,Female,unknown,2023-01-10,"77185 Ashley Forest Stuarttown, AK 27430",PayPal,Groceries,4344,No,No
+CUST_4410,Kendra Johnson,Male,jeffreycox@hotmail.com,2022-08-25,"16868 Stephen Union Apt. 549 Gamblechester, SC 85219",PayPal,Groceries,1783,Yes,Yes
+CUST_9700,Sara Williams,Male,nbecker@smith.com,2022-10-31,"45373 Phillip Lock Suite 449 Yatesborough, ID 72872",BankTrans,Groceries,3141,Yes,Yes
+CUST_6954,Daniel Wright,Male,uking@coleman.com,2025-01-09,"4045 Michelle Fork West Lynn, MI 20663",BankTrans,Home Appliances,1869,No,Yes
+CUST_6193,Marc Sullivan,Male,brianjennings@hotmail.com,2022-11-14,"941 Jim Lodge Woodwardville, AK 31645",PayPal,Electronics,988,No,Yes
+CUST_6866,Sandy Jones,Male,melvinsmith@coleman.com,2020-12-20,"58443 Webb Island South Laurie, DC 08307",Credit Card,Home Appliances,550,No,No
+CUST_5826,Carol Miller,Female,joe76@erickson-tucker.com,2020-10-07,"131 Eric Valley Suite 515 Lake Tracyburgh, OR 21906",PayPal,Electronics,4991,No,No
+CUST_1186,Juan Cooper,Female,unknown,2021-08-04,"5247 Moore Vista Suite 111 Raytown, KY 44951",BankTrans,Electronics,2316,No,Yes
+CUST_7786,Alexandra Ward,Male,lindsay51@gmail.com,2025-01-16,USS Walker FPO AE 86309,Mobile Payment,Groceries,2609,No,Yes
+CUST_3545,Raymond Williams,Female,unknown,2020-10-27,"08561 Castaneda Way Apt. 206 Clarkchester, TX 28133",Mobile Payment,Groceries,454,Yes,No
+CUST_4172,Joseph Torres,Female,annejohnson@hotmail.com,2023-08-12,"367 Wilson Way West Mikaylabury, GA 59942",Credit Card,Electronics,169,No,Yes
+CUST_5768,Sandra Green,Female,kimberlystevens@hotmail.com,2022-07-30,"296 Giles Harbors Suite 482 Parksville, DE 15046",Mobile Payment,Fashion,365,Yes,Yes
+CUST_6896,Jillian Brown,Female,ruizbrent@mullins.biz,2020-08-07,"71603 Justin Court Deannafurt, MD 15762",Cred,Fashion,4338,No,Yes
+CUST_3579,Edward Mccarthy,Female,unknown,2021-09-19,"3763 Louis Courts Apt. 412 Jamesburgh, ND 84954",Bank Transfer,Fashion,2285,Yes,Yes
+CUST_2767,Rachel Park,Female,annaray@sanchez.org,2023-06-05,"25084 Duncan Walks Port Sophiachester, UT 80315",Mobile Payment,Groceries,3192,Yes,No
+CUST_1509,Melanie Myers,Female,jessicamendez@yahoo.com,2024-06-29,"908 Bean Extensions Apt. 447 West April, WV 59847",Mobile Payment,Home Appliances,132,Yes,Yes
+CUST_3831,Barry Peterson,Female,yvega@yahoo.com,2023-08-21,"917 Mclaughlin Springs South Samuel, LA 08452",Mobile Payment,Fashion,4685,No,Yes
+CUST_7563,Brian Meyer,Female,beanjennifer@white.biz,2020-04-20,"87760 Steven Causeway Timothyberg, IN 33869",BankTrans,Electronics,1983,Yes,No
+CUST_3382,Peter Brown,Female,rebecca63@hotmail.com,2022-02-23,"15637 Yvette Viaduct Sanchezview, MS 12111",Bank Transfer,Home Appliances,2407,Yes,No
+CUST_1570,Tyler Jackson,Female,unknown,2020-07-18,"38182 Alejandra Field Suite 947 Kimberlyfort, GA 56758",Credit Card,Groceries,243,Yes,No
+CUST_9392,Michelle Richardson,Male,carrie61@collins-ward.biz,2022-10-24,"2191 Taylor Inlet Apt. 214 Hicksport, RI 02240",Credit Card,Groceries,4446,Yes,No
+CUST_1312,Scott Braun Dds,Male,robert69@smith-phillips.com,2021-03-25,Unit 5804 Box 2122 DPO AA 14468,Credit Card,Groceries,710,No,No
+CUST_8320,Thomas Guerrero,Female,jilllopez@valdez-watkins.com,2023-05-31,USCGC Sanchez FPO AP 51877,Pay,Home Appliances,322,Yes,Yes
+CUST_3739,Felicia Rodriguez,Female,unknown,2023-06-24,"83740 Snyder Brook Suite 343 Pricefurt, MO 27213",Mobile Payment,Home Appliances,4973,No,No
+CUST_6922,Hannah Lewis,Female,mahoneymary@duncan.com,2023-07-25,"33725 John Ports Lake Amy, MS 09900",Mobile Payment,Fashion,2578,No,No
+CUST_5176,Alyssa Riley,Female,jeremy16@baker.com,2024-04-05,"0635 Leslie Land Harrisburgh, PA 80425",Mobile Payment,Home Appliances,3133,No,Yes
+CUST_8050,Elizabeth Peterson,Female,lynchjeremy@hotmail.com,2022-11-02,"8385 Wolf Place Cooperhaven, MI 14966",Mobile Payment,Fashion,3020,No,Yes
+CUST_7478,Daniel Dunn,Female,tyler26@jones-kim.com,2024-02-04,"067 Ronald Drive Suite 813 Port Williamland, WY 71254",Credit Card,Groceries,2577,Yes,No
+CUST_7700,Cassidy Martin,Female,ubarnett@king-may.info,2020-12-09,Unit 4813 Box 7527 DPO AA 07119,Bank Transfer,Home Appliances,838,No,Yes
+CUST_4702,Kenneth Howell,Female,joycejoseph@matthews.net,2021-03-23,"181 Christine Mission Suite 292 West Gregoryside, CA 74554",Bank Transfer,Groceries,616,No,No
+CUST_2078,Kristi Flores,Male,parknancy@yahoo.com,2023-06-30,USS Calderon FPO AP 51870,Credit Card,Home Appliances,115,Yes,No
+CUST_9084,Kevin Lin,Male,williamhuynh@yahoo.com,2022-03-23,"699 Mendez Islands Apt. 598 North Nancybury, WI 59960",Mobile Payment,Groceries,2271,No,Yes
+CUST_1777,Diana Martinez,Female,curtissloan@martinez.net,2022-01-08,"8710 Kramer Cape Suite 997 Alexanderport, CA 91407",PayPal,Home Appliances,1373,No,Yes
+CUST_8611,Joseph Foster,Female,ramosshawna@gmail.com,2021-10-11,"6607 Johnson Vista East Amberfort, ID 44423",Mobile Payment,Fashion,781,Yes,Yes
+CUST_8837,Christina Wells,Female,lutzstephen@carter.com,2022-06-30,"94996 Gardner Ways Davidchester, MO 83469",Credit Card,Fashion,2610,No,Yes
+CUST_9939,Todd Coleman,Female,stephanienelson@perkins.com,2023-09-28,"1706 Case Lights Suite 404 Mariahside, KY 22598",Credit Card,Fashion,4341,No,Yes
+CUST_6628,Wayne Payne,Male,abigail39@hotmail.com,2024-08-03,"4284 Smith Land Apt. 476 New Kara, AL 83598",Credit Card,Electronics,1716,No,Yes
+CUST_7950,Blake Drake,Male,tina57@ray.com,2020-05-18,"872 Richard Forges Apt. 281 Thomaston, NJ 30979",Credit Card,Home Appliances,150,No,No
+CUST_7004,Robert Collins,Female,xlee@lopez-klein.org,2021-09-04,"306 Clark Hills Apt. 737 Carpenterbury, TX 33200",Bank Transfer,Groceries,1529,No,No
+CUST_8337,Brian Anderson,Male,steven21@hotmail.com,2020-03-19,"4265 Sydney Ford Suite 215 Isaiahmouth, OK 37291",Credit Card,Groceries,617,No,No
+CUST_8559,Joshua Hamilton,Female,ninasimmons@yahoo.com,2024-03-26,"701 Smith Place Tonichester, AZ 93815",PayPal,Fashion,4360,Yes,No
+CUST_8505,Meghan Patterson,Female,cstanley@yahoo.com,2021-10-08,"168 Carolyn Terrace North Jesse, NM 39440",Credit Card,Electronics,2582,Yes,No
+CUST_2500,Julie Hines,Female,williamsilva@curry-martinez.biz,2020-06-03,"3301 Karen Valley Yvettehaven, KY 56807",Mobile Payment,Groceries,213,Yes,Yes
+CUST_5348,Julie Diaz,Female,clarkhailey@green.com,2024-09-16,"262 Edwards Park Apt. 549 Thomasport, GA 65093",Bank Transfer,Groceries,4433,Yes,No
+CUST_2155,Angela Kelly,Male,chapmanrebecca@wilson.net,2020-11-15,"0956 Watkins Path Apt. 895 Erictown, UT 56681",Credit Card,Home Appliances,4167,No,No
+CUST_9389,John Norton,Male,katie32@macdonald-myers.net,2020-04-07,USNS Williams FPO AA 07293,Credit Card,Electronics,4092,No,No
+CUST_6888,Christina Garcia,Female,wvargas@gmail.com,2022-11-19,"224 Lambert Wells Danielhaven, TX 65466",PayPal,Electronics,1381,Yes,Yes
+CUST_3113,Christopher Kelly,Male,ybaldwin@yahoo.com,2024-06-08,"784 Stephanie Heights Larryland, OK 23510",Crdit Card,Groceries,1099,Yes,Yes
+CUST_6928,Randy Gonzalez,Female,josephallison@perez.info,2020-07-17,"9298 Rivera Lodge Apt. 117 Patriciashire, TN 05926",PayPal,Groceries,951,No,No
+CUST_9941,Annette Buchanan Md,Female,kimberlymclean@yahoo.com,2021-07-10,"36544 Davis Wells Grayton, NC 77148",Crdit Card,Groceries,3782,Yes,Yes
+CUST_4153,Shelia Valdez,Male,riverastephanie@reeves.org,2023-10-24,Unit 9026 Box 5470 DPO AP 02300,Mobile Payment,Home Appliances,4996,Yes,Yes
+CUST_2995,William Perry,Female,hhamilton@brown.com,2021-03-07,"80004 Anna Garden Apt. 269 North Michael, AL 24013",PayPal,Home Appliances,342,Yes,No
+CUST_3359,Sherry Chapman,Female,unknown,2022-02-16,USS Gonzales FPO AA 72946,Mobile Payment,Fashion,3880,Yes,Yes
+CUST_7080,Evelyn Cross,Female,eramirez@clark-peterson.com,2021-04-30,"2723 Daniel Ways Apt. 870 North Alexanderton, CA 36465",PayPal,Fashion,3511,No,Yes
+CUST_9203,Michael Snyder,Male,tuckerkevin@donovan-burton.com,2025-01-13,"73390 Lee Stream Morrisville, TN 46776",PayPal,Home Appliances,921,Yes,Yes
+CUST_7647,Scott Ramirez,Female,racheltorres@hotmail.com,2021-05-04,"686 Hodge Oval Suite 423 South Daniel, AZ 57320",PayPal,Groceries,1890,No,No
+CUST_1037,Ryan Holden,Male,unknown,2020-07-20,"925 Virginia Knoll Port Ricky, PA 73051",Mobile Payment,Home Appliances,1034,Yes,Yes
+CUST_7303,Ryan Newman Md,Male,kstevens@hudson.com,2024-01-07,"446 Jill Route Crossstad, IA 12932",PayPal,Electronics,2425,Yes,Yes
+CUST_3875,Terry Sanders,Male,icastillo@ortega.com,2021-12-08,"8835 Scott Islands Apt. 046 Lake John, KS 69390",Bank Transfer,Fashion,3778,Yes,Yes
+CUST_6948,William Harris,Female,bakerkathy@bryant-meadows.com,2020-11-02,"63204 Cunningham Skyway Apt. 782 East Jamieburgh, ID 38656",Mobile Payment,Groceries,3499,No,No
+CUST_7539,Angela Sanders,Male,kelleymichael@jones.org,2023-07-02,"47431 Stephanie Plaza Suite 315 East Jameston, KY 87303",Bank Transfer,Fashion,2162,No,Yes
+CUST_6886,Megan Gray,Female,ohess@downs.com,2022-10-30,"699 Cline Groves Vickiton, GA 87123",Mobile Payment,Groceries,3808,No,No
+CUST_1560,Mark Munoz,Female,reginacox@gmail.com,2020-11-30,"3384 Tran Shoals Suite 118 Port Holly, CA 54551",Credit Card,Groceries,1600,Yes,Yes
+CUST_6009,Christopher Thomas,Female,unknown,2021-10-17,"1952 Gregory Crossroad East Andrewfort, RI 98139",Cred,Electronics,4809,No,No
+CUST_3647,Emma Hill,Male,matthew97@miller.com,2023-06-19,USNS Walker FPO AP 91260,Credit Card,Fashion,4650,Yes,No
+CUST_3699,Jacqueline Berry,Female,unknown,2023-12-22,"87721 Stafford Estate Smithtown, SC 72077",Mobile Payment,Fashion,2323,Yes,Yes
+CUST_3208,Elijah Mendoza,Female,myerskenneth@gmail.com,2023-04-02,"5835 Tyler Walk Michaelchester, MA 64265",Credit Card,Groceries,1379,No,No
+CUST_6055,Rachel Miller,Male,jennifermcclure@robinson.org,2021-01-26,"15541 Charles Manors Apt. 082 Davidton, MS 66355",Mobile Payment,Electronics,3153,No,No
+CUST_1884,Lindsey Miller,Male,katrina18@ramos.com,2020-05-09,"375 Hill Mountain North Codyport, UT 56631",Credit,Home Appliances,271,No,Yes
+CUST_8644,Kevin Moore,Male,simpsonmonica@hotmail.com,2020-12-29,"52327 Alexis Alley Suite 981 Port Jesse, LA 78771",Bank Transfer,Groceries,732,Yes,No
+CUST_9608,Jonathan Wilson,Female,lisa53@hernandez.com,2024-05-01,USNV Garcia FPO AP 22410,Mobile Payment,Groceries,3990,Yes,No
+CUST_5727,Gary Baker,Male,christianmitchell@gmail.com,2024-01-14,USNV Murphy FPO AE 81270,Bank Transfer,Home Appliances,1674,Yes,Yes
+CUST_6861,Jackson Myers,Male,luis57@guzman-calderon.com,2023-05-27,"28310 Tabitha Heights Raymondmouth, MN 18900",BankTrans,Home Appliances,3384,No,No
+CUST_1837,Kendra Cabrera,Male,mckenzierivera@yahoo.com,2024-03-03,"167 Francis Valleys Suite 834 Bonnieshire, CO 12886",Bank Transfer,Fashion,2261,Yes,Yes
+CUST_4128,Kimberly Rodriguez,Male,rfields@snyder.com,2022-09-19,"649 Melissa Mall Wendyland, NH 93491",Bank Transfer,Electronics,4340,Yes,Yes
+CUST_5281,Diane Nichols,Female,brittanyperez@hotmail.com,2024-12-11,"3901 Washington Fort Apt. 730 Matthewshire, SD 20832",Bank Transfer,Fashion,1248,No,Yes
+CUST_4100,Felicia Rice,Female,cynthia43@yahoo.com,2021-08-22,"365 Deborah Lakes Suite 789 Stevenville, WV 04753",PayPal,Electronics,3579,Yes,Yes
+CUST_5587,Jason Spencer,Male,patrickemily@yahoo.com,2021-02-12,"9549 Howard Cliffs Suite 988 Edwardland, TN 08425",Mobile Payment,Home Appliances,4333,Yes,No
+CUST_7422,John Chavez,Male,morenodonna@gmail.com,2023-02-01,"94229 Elizabeth Prairie Apt. 252 East Scottborough, WA 17505",Bank Transfer,Electronics,993,Yes,Yes
+CUST_9946,Mr. Thomas Meyers,Male,anne07@yahoo.com,2022-05-03,"PSC 1760, Box 9233 APO AE 18388",Mobile Payment,Fashion,4124,Yes,No
+CUST_5161,Michael Lopez,Female,carlsoncynthia@bishop.org,2021-09-03,"34263 Weeks Valley Port Patriciamouth, UT 43191",PayPal,Electronics,2534,Yes,Yes
+CUST_6588,Paul Jordan,Male,unknown,2023-04-01,"536 Hall Ville South Brian, HI 59929",Pay,Groceries,2240,No,No
+CUST_8374,Adriana Murray,Male,ehughes@gmail.com,2020-12-10,"905 Rhodes Motorway Suite 492 North Sonya, AZ 87887",Mobile Payment,Home Appliances,3012,Yes,No
+CUST_2547,Sarah Ward,Female,lhopkins@hansen-jenkins.net,2020-08-24,"943 Winters Spring Apt. 720 Ashleybury, SD 76151",Credit Card,Groceries,393,Yes,Yes
+CUST_9441,Yolanda Smith,Male,staceyvincent@gmail.com,2022-12-02,"43140 Jake Green South Jesseton, MN 90571",PayPal,Electronics,2607,No,No
+CUST_3217,Anthony Walker,Male,carlwheeler@gmail.com,2022-05-11,"2842 Blanchard Road Sarahville, AZ 73247",Mobile Payment,Fashion,490,No,Yes
+CUST_8733,Gregory Burnett,Male,eschmidt@yahoo.com,2021-03-16,"60299 Oscar Fall Suite 081 Guerrerochester, WA 47649",Mobile Payment,Groceries,839,Yes,Yes
+CUST_9449,Frank Lopez,Female,fishermary@mclaughlin-cohen.com,2023-05-21,"4152 Scott Locks Phillipsmouth, PA 76639",Cred,Home Appliances,2736,No,Yes
+CUST_2136,John Lopez,Female,tommy87@hotmail.com,2024-10-27,"5722 Smith Rue Suite 205 Autumnbury, CO 26442",Bank Transfer,Home Appliances,528,Yes,Yes
+CUST_2843,Ashley Alvarez,Male,larsonkimberly@hotmail.com,2023-05-11,"5622 Anna Corner Apt. 510 North Michaelville, LA 73023",Bank Transfer,Home Appliances,4237,Yes,No
+CUST_8835,Amy Castaneda,Female,unknown,2024-09-08,"6073 Knapp Estate Apt. 835 Griffithton, IL 28183",Bank Transfer,Home Appliances,3174,No,No
+CUST_7120,Scott Cameron,Female,mlee@yahoo.com,2023-12-28,"2389 Golden Summit Suite 500 Williamschester, WY 78812",Bank Transfer,Groceries,2243,No,Yes
+CUST_6444,Richard Mcintosh,Male,michelle56@hotmail.com,2020-06-21,"1938 Kayla Ways West Elizabethberg, LA 34638",Credit Card,Electronics,1430,Yes,No
+CUST_2092,Michael Byrd,Female,jenniferjohnson@gmail.com,2024-03-06,"745 Gates Drives Perryborough, TN 76174",Credit Card,Fashion,3569,Yes,Yes
+CUST_7779,Patrick Lopez,Male,blacklaurie@montoya.info,2021-05-21,"07013 Brad Hills North Michaelchester, AR 15181",Mobile Payment,Electronics,2367,Yes,Yes
+CUST_6299,Andrew Butler,Male,millerstephanie@gmail.com,2022-12-21,"531 Anthony Court Bakerville, WA 79338",Bank Transfer,Fashion,1015,No,Yes
+CUST_9387,Kristen Mills,Male,brandy54@yahoo.com,2024-06-26,"2737 Massey Roads Lake Normanstad, HI 64340",Credit Card,Fashion,1194,No,Yes
+CUST_3558,George Holmes,Male,wrightrobert@gmail.com,2021-09-24,"29685 Dawn Vista Andersonfurt, CT 12649",Bank Transfer,Home Appliances,1813,No,Yes
+CUST_9648,Kelly Pena,Female,zachary78@hotmail.com,2024-04-27,"577 Diane Pike East Micheal, NV 93579",Credit Card,Home Appliances,1585,Yes,No
+CUST_9044,Bradley Beck,Male,nathanpayne@yahoo.com,2023-10-02,"4549 Mary Meadows Suite 999 Shepardstad, OK 14990",Bank Transfer,Electronics,2215,Yes,Yes
+CUST_4194,Mrs. Patricia Taylor Dvm,Male,rortiz@graham.com,2024-06-07,"5787 Knight Alley Suite 757 New Allenfort, RI 59845",Bank Transfer,Groceries,4122,No,Yes
+CUST_4418,Taylor Williams,Male,castrojacob@hotmail.com,2023-12-27,"571 Mahoney Light Duncanchester, WI 53120",Mobile Payment,Groceries,3073,Yes,No
+CUST_1261,Mary Cook,Male,unknown,2021-02-17,"1024 Lisa Field Suite 355 Port Victoria, DC 60622",Mobile Payment,Electronics,2808,No,No
+CUST_8304,John Russell,Male,thomasmegan@gmail.com,2020-12-30,"598 Kathryn Glens Lake Kristiberg, KY 38237",Credit Card,Home Appliances,2791,Yes,Yes
+CUST_1475,Timothy Barry,Male,vparsons@gmail.com,2021-08-28,"5558 Adam Pike Smithmouth, VA 79009",PayPal,Home Appliances,3200,Yes,No
+CUST_8245,Kimberly Brown,Female,egibbs@hotmail.com,2023-06-26,USS Melton FPO AA 15112,PayPal,Electronics,4993,Yes,Yes
+CUST_1985,Melanie Sharp,Female,clarkkimberly@hotmail.com,2023-02-22,"345 Snyder Fall Apt. 896 North John, SD 75309",Mobile Payment,Electronics,4061,Yes,No
+CUST_2061,Deborah Hill Dds,Female,bradyaustin@yahoo.com,2025-01-26,"9265 Fitzpatrick Ports Suite 164 Hodgesside, NC 49668",PayPal,Electronics,4295,No,No
+CUST_9432,Jennifer Arellano,Male,daniellepearson@sharp.com,2024-01-30,"665 Smith Mews Port Seth, NJ 29890",Credit Card,Electronics,4860,Yes,Yes
+CUST_9907,Brittney Sherman,Male,michelletodd@hotmail.com,2022-08-28,"9555 Joseph Turnpike Samuelmouth, UT 14225",Credit Card,Groceries,3599,No,No
+CUST_4756,Heather Dudley,Female,harrisamanda@cisneros.info,2024-05-17,"5848 Barr Groves Suite 658 West Craig, MI 38488",Bank,Fashion,4222,Yes,Yes
+CUST_3543,Henry Turner,Female,gallaghertammy@yahoo.com,2022-07-29,Unit 0968 Box 6744 DPO AA 20827,Credit Card,Home Appliances,2928,Yes,No
+CUST_6484,Justin Martin,Female,robertobrien@parrish.biz,2021-04-05,"1025 Thomas Cliff West Michael, SC 34450",Bank Transfer,Home Appliances,4383,No,Yes
+CUST_8658,Justin Gonzales,Male,danny85@oliver-flynn.com,2022-12-09,"708 Laura Manor Meganville, AZ 14920",PayPal,Fashion,2545,No,No
+CUST_9506,Cheryl Wilkins,Female,prattjason@gmail.com,2022-12-09,Unit 7558 Box 5054 DPO AE 02230,Bank Transfer,Home Appliances,1673,Yes,Yes
+CUST_4787,Jennifer Patton,Male,valerie70@smith.com,2024-07-10,Unit 3248 Box 2796 DPO AA 39222,PayPal,Groceries,3936,Yes,No
+CUST_4085,Daniel Brooks,Male,unknown,2022-12-27,"7955 Lopez Square New Michele, MO 29690",Mobile Payment,Fashion,2526,No,Yes
+CUST_7670,Daniel Clark,Female,gonzalezjohn@yahoo.com,2020-04-12,"7812 Isabella Union Jaimeville, VT 94173",Mobile Payment,Electronics,1741,No,No
+CUST_8217,Anna Jones,Male,fowlerdenise@hotmail.com,2020-11-26,"07408 Kathy Well West Amber, IL 89288",Credit Card,Electronics,3064,Yes,No
+CUST_6027,Gregory Washington,Female,walshmichael@gibson-smith.org,2024-07-10,"82938 Ramirez Mountain Apt. 525 Port Elizabeth, CO 06998",BankTrans,Home Appliances,548,Yes,Yes
+CUST_1571,Alison Harrison,Male,jessica59@yahoo.com,2020-08-29,"587 Scott Garden Suite 077 New Elizabethland, ND 76475",Bank Transfer,Electronics,4024,Yes,No
+CUST_3572,Holly Miller,Male,xparker@ortega.com,2020-06-05,"102 Michael Avenue South Alexis, NV 31339",Bank,Groceries,3855,No,No
+CUST_7977,Jose Thompson,Female,vsimmons@hotmail.com,2023-09-29,"995 Foster Meadows West Colin, ND 66660",Mobile Payment,Electronics,1299,No,Yes
+CUST_7514,Monica Livingston,Male,unknown,2020-11-23,"829 Perez Square Lake Tannerport, UT 26983",PayPal,Home Appliances,4709,No,Yes
+CUST_8023,James Massey,Female,anthony29@hotmail.com,2023-12-07,"25246 Sanford Haven Bridgetberg, WI 76359",Credit Card,Home Appliances,357,No,Yes
+CUST_5571,Kathryn Newman,Male,pcamacho@thomas.com,2023-03-14,"4231 Melissa Turnpike Apt. 561 West Richardland, IA 08448",PayPal,Fashion,1616,No,No
+CUST_3820,Kelly Roberts,Female,mezadaryl@cook.com,2020-10-16,"4327 Jeffrey Fort Apt. 198 South Jonathonview, NM 82107",Mobile Payment,Groceries,4739,Yes,Yes
+CUST_9493,Cameron Pacheco,Male,xyoung@yahoo.com,2024-10-12,"1023 Hickman Parkway Apt. 708 Pattymouth, WY 44726",PayPal,Home Appliances,1410,Yes,No
+CUST_3381,Laurie Perry,Male,donald43@hotmail.com,2022-04-27,"5217 Joel Valleys Suite 045 East Williamfort, NC 95621",Bank,Electronics,147,Yes,Yes
+CUST_8498,Johnny Hill,Male,unknown,2024-07-26,"785 Sanchez Forks Suite 065 Mariashire, VT 25592",Cred,Groceries,3966,Yes,Yes
+CUST_8712,Alexander Lam,Female,qreynolds@hotmail.com,2023-04-11,"146 Olivia Inlet Suite 037 South Jenniferborough, CO 80983",PayPal,Groceries,396,Yes,Yes
+CUST_6760,Ryan Barron,Female,matthewschroeder@gmail.com,2023-11-05,"69364 Jennifer Courts New Matthew, NY 65714",Mobile Payment,Home Appliances,2690,No,Yes
+CUST_7922,Michael Gonzalez,Female,tjones@trevino-rice.org,2023-07-25,"338 Lee Estate Apt. 109 North Larrystad, SC 11234",Credit Card,Fashion,4538,No,Yes
+CUST_1516,Amanda Stewart,Female,unknown,2021-06-24,"787 Anderson Field North Dustin, SC 11120",PayPal,Home Appliances,3062,No,Yes
+CUST_2721,Melissa Marshall,Female,bclayton@yahoo.com,2020-11-28,"4985 Ashley Fort East Timothyville, NE 82951",Pay,Fashion,3624,No,No
+CUST_1308,Teresa Novak,Female,fturner@gmail.com,2022-10-06,"5427 Julie Street Port Joseph, SC 17793",Mobile Payment,Home Appliances,1367,Yes,No
+CUST_4560,Steven Boyle,Male,aliciajohnson@miller.biz,2024-12-02,"0789 Patrick Plaza Apt. 721 South Peter, MN 84695",Credit Card,Groceries,3159,No,Yes
+CUST_4803,Travis Duke,Female,heathermann@hotmail.com,2023-05-12,"367 Chang Causeway Apt. 228 Port Barbara, CA 86111",Pay,Groceries,3970,Yes,Yes
+CUST_2812,Paul Burke,Female,pbeck@hotmail.com,2020-04-18,"85934 Richards Fords Youngshire, ME 43236",Bank Transfer,Electronics,4234,Yes,Yes
+CUST_2779,Morgan Dickerson,Female,unknown,2022-04-10,"20965 Taylor Glen Apt. 335 Port Vincentberg, KS 57408",Mobile Payment,Groceries,3229,Yes,Yes
+CUST_1829,Cynthia Wood,Female,taylorsydney@spencer-young.com,2022-07-25,Unit 4145 Box 2586 DPO AA 34978,Credit Card,Groceries,3158,Yes,No
+CUST_6054,Christopher Hernandez,Male,shane78@yahoo.com,2023-12-18,922 Eric Mission,BankTrans,Electronics,937,No,No
+CUST_3969,Nathaniel Perez,Male,unknown,2023-09-26,Unit 0775 Box 7252,Mobile Payment,Groceries,387,Yes,Yes
+CUST_5838,Michael Bolton,Male,zcummings@gmail.com,2020-06-19,628 Gomez Greens,Crdit Card,Home Appliances,2794,No,Yes
+CUST_3165,Amanda Rivera,Female,aaron26@yahoo.com,2024-10-20,0586 Jesse Trail Suite 755,PayPal,Home Appliances,158,No,No
+CUST_5804,Brandi Johnson,Female,unknown,2021-08-07,Unit 5444 Box 7656,Credit Card,Electronics,2394,Yes,No
+CUST_2181,Angela Garcia,Male,danielcollier@powell.info,2022-04-12,678 Adams Trafficway Suite 609,PayPal,Electronics,3422,No,Yes
+CUST_9673,Brett Nguyen,Female,lisa10@gmail.com,2022-12-30,776 Miller Pine Apt. 701,Bank Transfer,Electronics,2565,No,Yes
+CUST_5225,Barbara Navarro,Male,peggynicholson@gmail.com,2020-07-17,907 Kendra Viaduct Suite 386,Pay,Electronics,3473,No,No
+CUST_4797,Joel Jones,Male,rhondarivera@gmail.com,2022-06-06,61964 Samantha Harbors Suite 918,PayPal,Home Appliances,577,No,No
+CUST_1190,Henry Carter,Male,thansen@mcdowell.com,2024-03-01,7315 Randall Neck,Bank Transfer,Fashion,3307,Yes,Yes
+CUST_2411,Kelsey Singleton,Female,tleonard@yahoo.com,2024-06-09,351 Martha Mountains,Bank Transfer,Fashion,3103,Yes,Yes
+CUST_1187,Anthony Walker,Male,gomezderrick@williams-tucker.info,2021-01-24,50647 Bryan Views,Mobile Payment,Home Appliances,314,Yes,Yes
+CUST_5550,Samuel Wright,Female,unknown,2023-01-24,789 Henderson Route,Mobile Payment,Fashion,784,Yes,Yes
+CUST_6178,Meghan Munoz,Male,jacobgibbs@wood.com,2024-10-19,05318 Heidi Route Suite 204,Mobile Payment,Groceries,39,No,No
+CUST_2284,Jared Herrera,Female,kaylee62@gmail.com,2021-07-30,585 Flynn Villages,Mobile Payment,Groceries,503,Yes,Yes
+CUST_8393,Larry Hunter,Female,smithcandice@simmons.com,2022-01-22,502 Robinson Via Suite 050,Bank,Home Appliances,2434,No,No
+CUST_2270,Karen Hubbard,Female,iobrien@flores-le.com,2022-09-13,8410 Julie Plains,PayPal,Fashion,259,No,No
+CUST_3032,Shaun Miller,Female,schmidtmarcus@ellis.com,2021-03-22,5350 Grant Loop,Bank Transfer,Electronics,4358,No,Yes
+CUST_3528,Jason Taylor,Female,spencer04@gmail.com,2025-01-06,08304 Lee Locks Suite 011,Mobile Payment,Home Appliances,3339,No,Yes
+CUST_7374,Samuel Eaton,Male,ggonzales@yahoo.com,2020-02-14,59665 Finley Lane Suite 035,Credit Card,Fashion,1209,No,Yes
+CUST_1152,Sharon Montgomery,Male,teresa06@hoffman.org,2023-05-26,Unit 7415 Box 3201,Credit Card,Fashion,2015,No,Yes
+CUST_6152,Lawrence Rodriguez,Male,dtodd@yahoo.com,2021-07-18,31800 Vaughan Ways,Credit Card,Home Appliances,1360,No,No
+CUST_2008,Tiffany Andrews,Male,becky50@hotmail.com,2021-06-03,780 Nancy Extension,Bank Transfer,Home Appliances,3572,No,Yes
+CUST_3674,Jessica Huerta,Male,lindseypeters@yahoo.com,2023-11-10,USNV Stevens,Bank Transfer,Groceries,4674,Yes,No
+CUST_2620,Gwendolyn Turner,Male,noblejohn@barnes.com,2020-02-15,05813 James Gateway,Mobile Payment,Groceries,1286,No,Yes
+CUST_8578,Cindy Little,Female,summergomez@aguilar.net,2023-06-04,8755 Juan Harbor,Credit Card,Fashion,4571,Yes,No
+CUST_3976,Jennifer Griffin,Female,wilkinsonmaurice@gmail.com,2021-07-07,30229 Michele Parkways Suite 604,Bank Transfer,Electronics,1154,No,Yes
+CUST_7550,Brian Duncan,Male,waltonsamuel@brown-nguyen.com,2022-11-09,190 Dillon Unions,BankTrans,Groceries,3865,Yes,No
+CUST_4443,Kevin King,Female,kimberly77@brown-jimenez.com,2021-10-20,USNV Mccarthy,PayPal,Groceries,582,No,Yes
+CUST_6942,Alex Harmon,Female,gregory86@jackson-johnson.info,2023-05-12,29954 Jerry Place,Bank,Groceries,2107,Yes,Yes
+CUST_8800,Sarah Brown,Male,loriballard@yahoo.com,2024-02-20,92386 Landry Gardens,Credit Card,Electronics,571,Yes,No
+CUST_8378,Tanya Howard,Female,sbates@copeland.com,2024-12-10,2120 Natasha Run,Bank Transfer,Groceries,2965,No,Yes
+CUST_2134,Bryan Abbott,Female,patrick28@martin-kaufman.biz,2024-05-25,011 Carrie Mill,PayPal,Fashion,1153,No,No
+CUST_8004,Nicole Watson,Male,jennifer87@hotmail.com,2021-08-16,54790 Nielsen Crossroad Suite 587,Mobile Payment,Electronics,3269,Yes,Yes
+CUST_6638,Craig English,Male,unknown,2023-09-01,8965 Price Orchard Suite 003,Credit Card,Fashion,306,Yes,Yes
+CUST_1549,Deborah Lopez,Female,riverajack@gmail.com,2022-07-25,3135 Megan Stravenue Apt. 761,Bank Transfer,Fashion,2319,No,No
+CUST_1778,Jason Cruz Phd,Female,emily48@oconnor-fletcher.com,2022-06-27,337 Amy Ridge,Credit Card,Home Appliances,4307,Yes,No
+CUST_2677,Deanna Bautista,Female,frank02@rogers.com,2023-09-13,870 Garner Lights Suite 470,PayPal,Groceries,4818,No,No
+CUST_8586,Kim Little,Female,campbellbrent@bond-jones.com,2021-01-22,82582 Rebecca Springs,Cred,Fashion,4562,Yes,No
+CUST_6821,Rachel Kelly,Female,thomasstephen@elliott.com,2022-07-18,1815 Gonzales Loop,Mobile Payment,Electronics,831,No,No
+CUST_9321,John Gonzalez,Female,unknown,2022-06-29,3803 Ryan Curve Suite 162,Mobile Payment,Groceries,4698,Yes,Yes
+CUST_4914,Jay Schmidt,Male,adrian36@hotmail.com,2024-07-08,2927 Moore Light,BankTrans,Fashion,3304,Yes,No
+CUST_3399,Eric Jackson,Male,randallrobles@cowan-harris.com,2020-03-05,8131 Lauren Green,PayPal,Home Appliances,2310,No,Yes
+CUST_2416,Mark Richardson,Female,brendamason@bright.net,2021-12-21,Unit 7947 Box 1782,Credit Card,Groceries,4636,Yes,No
+CUST_9190,Peter Ross,Male,markrivera@martinez.com,2023-11-11,9998 White Grove,Bank Transfer,Electronics,2616,No,No
+CUST_6256,Jaime Jackson,Female,chad57@bates.biz,2022-02-13,03280 Kayla Parks Suite 193,Bank,Fashion,3140,No,Yes
+CUST_7266,Amy White,Male,qlee@romero.org,2020-12-25,88344 Cassandra Isle,Mobile Payment,Electronics,1287,Yes,Yes
+CUST_5739,Julie Duran,Male,unknown,2021-12-28,039 Buchanan Cliffs Suite 360,PayPal,Groceries,2936,Yes,Yes
+CUST_1398,Jonathan Lowery,Male,osummers@burton-best.biz,2021-10-02,3482 Green Crossing Apt. 476,Mobile Payment,Groceries,4982,No,Yes
+CUST_7059,Jeffrey Benitez,Female,rochapatricia@valentine.biz,2020-08-08,386 Edwards Freeway,Credit Card,Home Appliances,3578,No,No
+CUST_8186,Pamela Stephens,Male,hensonmark@mullins-hughes.info,2020-06-10,0665 Jason Villages Suite 998,Bank Transfer,Home Appliances,4394,No,Yes
+CUST_7203,Ashley Lee,Female,jacob07@gmail.com,2024-10-07,743 Franklin Curve,Bank Transfer,Home Appliances,682,No,No
+CUST_3138,Justin Martin,Male,elizabeth85@kelley-harris.biz,2023-11-13,44122 April Prairie Apt. 312,Crdit Card,Fashion,934,No,No
+CUST_1088,Jennifer Watkins,Male,unknown,2021-07-07,92833 Laurie Avenue Apt. 922,Bank Transfer,Electronics,461,Yes,Yes
+CUST_9909,Angela Ford,Male,omurphy@graves.biz,2020-12-31,905 Angela Valleys Suite 541,PayPal,Electronics,2567,No,No
+CUST_7176,Michael Barnes,Female,thompsonhannah@yahoo.com,2022-01-14,84209 Chambers Gardens,PayPal,Electronics,4934,Yes,Yes
+CUST_7057,Michael Parker,Female,hoopernathan@gmail.com,2024-10-30,4701 Jack Villages,Bank Transfer,Fashion,3749,No,Yes
+CUST_1828,Richard White,Male,brendandudley@hernandez.net,2020-11-25,30631 Adam Streets,PayPal,Fashion,4647,No,Yes
+CUST_8507,Brian Kaiser,Female,weisskevin@hotmail.com,2024-11-14,697 Tanner Ramp Apt. 093,PayPal,Groceries,90,No,No
+CUST_8215,Matthew Williams,Female,heidiwalker@yahoo.com,2020-03-23,4313 Munoz Centers,Bank,Groceries,4159,Yes,Yes
+CUST_9746,Matthew White,Female,mmiller@yahoo.com,2022-10-24,999 Craig Pass,Bank Transfer,Home Appliances,3260,No,Yes
+CUST_2905,Beth Mcguire,Female,unknown,2021-12-26,9685 Fisher Roads,BankTrans,Electronics,4568,No,Yes
+CUST_5608,Kathleen Maxwell,Male,glenn12@williams.org,2025-01-24,68026 Whitehead Harbors,Credit Card,Groceries,3671,No,No
+CUST_1498,Kelly Barrett,Female,unknown,2024-11-11,2915 Ramirez Plains Apt. 270,Credit Card,Home Appliances,1160,No,No
+CUST_7245,Christine Jimenez,Male,daniel53@weber.org,2021-03-01,4270 Aaron Points Suite 358,Bank Transfer,Home Appliances,3815,Yes,Yes
+CUST_8539,William Kirby,Female,johnwarren@hendricks-west.biz,2024-04-08,96106 Chapman Drive,Credit Card,Home Appliances,2335,Yes,Yes
+CUST_2173,John Riley,Male,john84@yahoo.com,2021-09-11,74227 Cardenas Lane,Mobile Payment,Groceries,1240,Yes,Yes
+CUST_9367,Christopher Randolph,Male,garyhoffman@hotmail.com,2021-09-14,934 David Radial,BankTrans,Home Appliances,59,Yes,No
+CUST_4135,Robert Williams,Female,aturner@griffin-wright.com,2021-11-21,620 Smith Avenue,PayPal,Home Appliances,1419,No,No
+CUST_8181,Kristi Brooks,Male,haley05@walter.biz,2023-05-12,08018 Jillian Cove,PayPal,Home Appliances,1771,Yes,Yes
+CUST_7733,Ryan Hobbs,Female,lisa33@andrews-smith.com,2024-01-05,13266 Cooper Station,Bank Transfer,Groceries,380,Yes,No
+CUST_6998,Cindy Alvarez,Male,danielle93@williams.org,2020-11-23,73968 Kathy Canyon Suite 542,PayPal,Groceries,203,No,Yes
+CUST_8492,Charles Thornton,Female,cynthia40@gmail.com,2022-11-20,94931 Jennifer Roads Apt. 833,PayPal,Electronics,904,No,Yes
+CUST_2121,Laura Paul,Female,bryancruz@gmail.com,2022-03-31,9061 Robertson Well,Bank Transfer,Groceries,803,Yes,No
+CUST_7935,Nancy Santana,Male,millermonica@hotmail.com,2022-03-09,90105 Joseph Alley,Credit Card,Groceries,2509,No,Yes
+CUST_1539,Brian Morgan,Female,qrivas@gmail.com,2024-08-07,348 Johnson Causeway,Credit Card,Groceries,3765,No,No
+CUST_2187,David Jenkins,Female,newmantracy@hotmail.com,2024-12-04,53834 Wu Ferry Apt. 808,Mobile Payment,Home Appliances,534,No,Yes
+CUST_9386,Jamie Cruz,Male,matthewsmiranda@hotmail.com,2021-04-15,40429 Sanchez Estate,Bank Transfer,Fashion,4045,Yes,No
+CUST_5424,Brian Conrad,Female,dbauer@mcdonald.com,2022-05-24,6291 Hall Expressway,PayPal,Groceries,1091,Yes,No
+CUST_2558,Heather Bates,Male,ashleyadams@moore.info,2024-06-30,Unit 4589 Box 9471,Mobile Payment,Fashion,3374,No,No
+CUST_6384,William Hunter,Male,jose82@bass.info,2022-11-24,073 Cortez Trace Apt. 825,BankTrans,Groceries,485,Yes,Yes
+CUST_1156,Michael Gordon,Female,kelsey56@sullivan.com,2021-10-17,USS Dawson,Mobile Payment,Groceries,1715,Yes,No
+CUST_6837,Edward Jones Dds,Female,dray@gutierrez.org,2024-02-23,4613 Wood Viaduct,PayPal,Electronics,4598,Yes,No
+CUST_4154,Donald Cortez,Male,wolfvalerie@gmail.com,2024-01-14,80143 Stephanie Harbor,PayPal,Electronics,3242,Yes,Yes
+CUST_4372,Kristin Murray,Female,unknown,2025-01-17,158 Raymond Village,Cred,Home Appliances,4262,No,Yes
+CUST_6682,Lauren Newton,Female,hsmith@yahoo.com,2023-01-31,43267 Meagan Mountains Apt. 402,Crdit Card,Groceries,1511,No,No
+CUST_3303,Denise West,Female,diazkelly@yahoo.com,2021-10-14,19223 Johnson Village,Bank Transfer,Fashion,818,No,Yes
+CUST_4214,Ashley Davis,Female,daviskevin@mitchell.org,2020-08-27,98994 Smith Junctions Apt. 091,PayPal,Groceries,1656,Yes,No
+CUST_9206,Gina Robinson,Female,kristinsmith@yahoo.com,2021-03-13,19147 Tony Underpass,PayPal,Electronics,146,Yes,Yes
+CUST_8735,April Jackson,Female,matthewfoster@yahoo.com,2021-06-19,58952 Warren Inlet Suite 688,Credit,Electronics,284,No,No
+CUST_3735,Colin Clark,Female,terryrebecca@hart-young.com,2025-01-11,0492 Garcia Cliff Suite 446,Crdit Card,Electronics,3823,No,No
+CUST_6871,John Gross,Male,pamelabanks@smith.biz,2022-05-29,97642 Stacie Passage Suite 484,PayPal,Fashion,1665,No,Yes
+CUST_5435,Becky Wilson,Female,paul87@yahoo.com,2024-12-05,76933 Kane Gardens Apt. 442,PayPal,Fashion,499,No,No
+CUST_6864,Henry Miles,Female,monroechristopher@villegas-moore.com,2024-10-11,6374 Hunter Key,Bank Transfer,Electronics,2350,No,Yes
+CUST_8593,Joseph Williams Md,Male,conradjesse@hotmail.com,2022-02-27,8756 Dorsey Court Apt. 212,PayPal,Home Appliances,4317,Yes,No
+CUST_5206,Jacqueline Williamson,Female,hannah43@yahoo.com,2023-04-02,4764 Christopher Centers Suite 637,Credit,Fashion,4512,No,Yes
+CUST_6114,Scott Short,Female,bparker@bishop.com,2020-12-23,71765 Marissa Gateway Suite 303,Bank Transfer,Home Appliances,2636,No,No
+CUST_5822,Steven Burton,Male,craigbrandon@miller-nelson.com,2024-10-10,07818 Anthony Mount,PayPal,Groceries,26,No,No
+CUST_2664,John Harris,Male,myersjoseph@davis.com,2024-12-01,00199 George Estate Apt. 480,Credit Card,Home Appliances,2966,Yes,Yes
+CUST_9860,Michael Tran,Male,mcknightmichael@bell-armstrong.net,2022-08-28,405 Katherine Cliff Apt. 892,Mobile Payment,Groceries,3644,No,No
+CUST_1529,Kimberly Long,Male,morrowrobert@reyes.com,2022-03-04,USNS Davenport,BankTrans,Fashion,1597,No,Yes
+CUST_2986,Christina Lawrence,Female,edwardschristina@gmail.com,2021-05-17,22767 Travis Coves Suite 235,PayPal,Home Appliances,392,Yes,No
+CUST_8317,Olivia Moore,Female,paulaellis@king.com,2020-12-30,48892 Hoffman Pine,Mobile Payment,Electronics,4826,No,No
+CUST_2923,Rodney Garrett,Female,umartinez@gmail.com,2023-10-11,251 Beth Junction Apt. 159,Pay,Fashion,2277,No,No
+CUST_9841,John Cantrell,Male,gnewton@daniel-wells.com,2020-03-12,4649 Erica Lakes Suite 051,PayPal,Fashion,2650,Yes,No
+CUST_6268,Brandon Drake,Male,mikeestrada@gmail.com,2023-11-16,"PSC 5198, Box 6458",PayPal,Electronics,213,No,No
+CUST_8744,Hannah Greene,Male,millerjason@gmail.com,2022-02-07,02071 Lawson Corner,Bank,Groceries,2027,No,No
+CUST_4940,Christine Patterson,Female,gomezadrian@gmail.com,2021-01-28,83111 Stephen Bridge,PayPal,Home Appliances,242,Yes,Yes
+CUST_4716,Omar Lee,Male,woodconnie@yahoo.com,2023-12-20,0803 Allen Plains,Bank Transfer,Electronics,4162,No,No
+CUST_3226,Sarah Fleming,Male,joseph85@palmer.com,2022-02-02,356 Denise Stravenue Apt. 570,Credit Card,Fashion,2094,Yes,No
+CUST_8850,Linda Phillips,Male,michaelsmith@floyd-lewis.com,2024-05-28,9031 Le Mountains,Bank,Groceries,4744,No,No
+CUST_3289,Keith Cooke,Male,nicholaslopez@chandler.com,2022-09-09,36801 Melissa Brook Suite 030,Crdit Card,Fashion,2939,Yes,Yes
+CUST_4615,Kaylee Evans,Male,unknown,2024-03-31,053 Watson Tunnel,PayPal,Fashion,4313,Yes,No
+CUST_9125,Gary Powell,Male,jason49@pratt.com,2021-10-26,97144 Rodriguez Trafficway Suite 069,PayPal,Home Appliances,4111,Yes,Yes
+CUST_1347,Charles Mitchell Md,Female,miguel89@murphy.com,2024-10-31,7222 Brown Walk,Mobile Payment,Groceries,3155,Yes,Yes
+CUST_5071,Timothy Scott,Female,katiedelacruz@miller.com,2022-03-15,68350 Christopher Plains Suite 857,Bank Transfer,Fashion,4485,Yes,No
+CUST_1677,Traci Jackson,Male,estout@johnson.com,2023-05-18,048 George Villages,Mobile Payment,Groceries,4356,Yes,Yes
+CUST_2361,Peter Brown,Female,cheryl13@gmail.com,2025-01-26,5729 Ryan Flat Suite 372,Mobile Payment,Home Appliances,654,Yes,No
+CUST_9727,Blake Rosales Dvm,Female,mathislaura@simmons.com,2022-01-22,295 Scott Courts Suite 699,Mobile Payment,Home Appliances,3918,Yes,No
+CUST_1095,Adrian White,Female,lowemichael@wolfe-williams.org,2023-08-08,43022 David Meadows Apt. 414,Mobile Payment,Groceries,1268,Yes,Yes
+CUST_3513,Margaret Young,Male,bgibbs@yahoo.com,2023-04-15,"PSC 4075, Box 0189",PayPal,Home Appliances,1898,No,Yes
+CUST_1361,Michelle Young,Male,garzatommy@yahoo.com,2024-05-29,21029 Barker Via,PayPal,Fashion,1251,No,No
+CUST_1891,Pamela Chapman,Male,alexandergabrielle@hotmail.com,2022-01-14,40691 King Shoals Suite 962,Bank Transfer,Groceries,1040,No,Yes
+CUST_1004,Paul Cole,Female,coxjerry@kaufman.org,2024-01-30,84026 Davis Green Suite 923,Crdit Card,Electronics,2458,Yes,No
+CUST_1106,Jeffrey Armstrong,Male,deniseelliott@hess.info,2024-10-28,448 Montes Plaza Apt. 948,Bank Transfer,Fashion,4068,Yes,Yes
+CUST_2043,Richard Allen,Female,gomezchristopher@hotmail.com,2020-11-01,4259 Kimberly Forge Apt. 308,PayPal,Groceries,53,Yes,Yes
+CUST_9221,Dr. Steven Collier,Male,doylejillian@vega.com,2021-12-27,827 Rachel Parkways Apt. 640,PayPal,Home Appliances,1302,No,Yes
+CUST_3500,Kathryn Moody,Female,tleach@walter-wells.org,2020-11-04,6695 Ryan Brooks Suite 337,Bank Transfer,Groceries,832,No,Yes
+CUST_4381,Eric Hull,Male,hannah02@mejia.com,2023-04-03,98969 Angela Street,Cred,Home Appliances,3947,Yes,No
+CUST_7736,Amanda Willis Md,Male,spitts@yahoo.com,2024-03-29,614 Crawford Lights,PayPal,Home Appliances,2663,No,Yes
+CUST_2507,Timothy Brown,Female,amanda36@gmail.com,2023-11-19,92855 Hayes Isle,Mobile Payment,Fashion,4328,Yes,No
+CUST_1961,Briana Diaz,Female,zfarrell@yahoo.com,2021-05-04,19569 Mitchell Rapids,PayPal,Electronics,4038,No,Yes
+CUST_5116,Lisa Johnson,Female,mark75@gmail.com,2021-05-04,24674 Garcia Shore,Bank Transfer,Home Appliances,4882,No,No
+CUST_1481,Daniel Greene,Male,danielcantu@wagner.info,2023-01-30,14418 Greene Roads Apt. 601,PayPal,Electronics,2687,No,Yes
+CUST_1607,Michelle Clark,Male,cannonelizabeth@gmail.com,2022-12-29,962 Kramer Falls Apt. 878,Mobile Payment,Home Appliances,3308,No,No
+CUST_1486,Chad Powell,Male,gordonparker@randall.biz,2023-01-26,9385 Conley Estate Suite 427,Mobile Payment,Electronics,4303,No,Yes
+CUST_4972,Laura Hale,Female,zmolina@yahoo.com,2022-04-19,31906 Timothy Square,Credit,Fashion,2013,Yes,No
+CUST_4206,Kevin Rodgers,Female,gonzalezluke@gmail.com,2023-04-07,958 Johnson Junction Suite 091,Mobile Payment,Groceries,3415,Yes,No
+CUST_3535,Brandon Herrera,Female,michellelarson@haynes-murillo.com,2024-08-25,11676 Arnold Road Apt. 536,Credit Card,Groceries,4276,No,No
+CUST_5261,Jessica Rogers,Female,schmidtsamantha@perez.com,2022-07-29,75354 Rodriguez Fall,Bank,Fashion,3872,Yes,Yes
+CUST_4680,Michael George,Male,weeksjared@evans-jimenez.com,2020-02-14,319 Paul Rapid Apt. 719,Cred,Home Appliances,4053,No,Yes
+CUST_6847,Michael Lopez,Male,unknown,2022-01-05,704 Andre Extensions Suite 729,Bank Transfer,Groceries,3261,No,Yes
+CUST_2605,Lisa Silva,Male,alexisholt@davis.com,2020-06-15,2757 Sloan Neck,Credit Card,Fashion,59,Yes,Yes
+CUST_4423,Christine Scott,Male,whitakerjames@serrano.com,2021-06-15,85479 Jones Ramp Suite 173,Bank Transfer,Groceries,594,No,Yes
+CUST_9573,Dr. Michelle Freeman,Male,johnbraun@yahoo.com,2020-12-07,4479 Rogers Highway,Mobile Payment,Groceries,3501,No,No
+CUST_9437,Brooke Barnett,Male,victorrivera@gmail.com,2022-05-26,54033 Elizabeth Viaduct,BankTrans,Home Appliances,463,No,Yes
+CUST_9172,Rebecca Adams,Female,jenniferballard@gmail.com,2024-06-21,Unit 8028 Box 9638,Credit Card,Fashion,4521,No,Yes
+CUST_8994,Lisa Frazier,Male,ajones@ramsey.org,2023-05-23,293 Ashley Ports,PayPal,Home Appliances,426,No,Yes
+CUST_7561,Nathan Hammond,Female,jpierce@hotmail.com,2022-01-07,USCGC Park,PayPal,Electronics,3290,Yes,No
+CUST_5873,Dawn Harris,Male,rmills@phillips-james.com,2020-07-24,8841 Roberts Haven,Credit Card,Home Appliances,4089,Yes,Yes
+CUST_5718,Andrew Ray,Male,lisa27@yahoo.com,2022-12-30,4547 Blanchard Causeway,PayPal,Groceries,1126,Yes,No
+CUST_5698,Victoria Cunningham,Male,unknown,2025-01-12,8952 Sabrina Mountains Apt. 823,Bank Transfer,Fashion,78,No,No
+CUST_9880,Jennifer Patrick,Male,hbeasley@hotmail.com,2021-02-08,5854 Holmes Way Suite 014,PayPal,Home Appliances,4386,No,No
+CUST_9195,Natasha Thomas,Male,dustinrocha@gmail.com,2020-04-08,9429 Alicia Stream Suite 714,Bank Transfer,Fashion,2524,No,Yes
+CUST_2841,Dr. Shane Robertson,Female,unknown,2020-09-12,"PSC 3754, Box 2373",Credit Card,Groceries,4568,Yes,Yes
+CUST_2859,Corey Gonzalez,Female,unknown,2021-11-14,64315 Hernandez Parkways Apt. 697,Mobile Payment,Home Appliances,2123,No,No
+CUST_1690,Angela Foster,Female,whiteheadmary@yahoo.com,2022-05-12,7133 Kayla Ville Apt. 657,Mobile Payment,Home Appliances,1883,Yes,No
+CUST_2298,Michael Luna,Male,elizabethharrison@house.com,2020-05-25,6260 Cannon Oval Suite 070,Bank Transfer,Electronics,4727,No,Yes
+CUST_4855,Christopher Peterson,Female,unknown,2020-12-18,2455 Rodriguez Gateway,Mobile Payment,Groceries,2293,Yes,Yes
+CUST_4238,Jenny Chambers,Female,jonesmatthew@hotmail.com,2022-04-26,597 Hines Meadows Suite 242,Bank Transfer,Home Appliances,4529,No,Yes
+CUST_8384,Joshua Davis,Female,danielle27@cunningham.com,2023-11-20,417 Joseph Track,PayPal,Groceries,1459,No,No
+CUST_4788,Kyle Harding,Male,sarah90@huber-santiago.net,2023-05-20,9013 Mora Park,Mobile Payment,Home Appliances,1130,No,No
+CUST_2997,Susan Chen,Male,michaelfields@tate-lopez.com,2021-07-22,71229 Green Expressway Suite 111,Mobile Payment,Groceries,2735,Yes,No
+CUST_2599,Jillian Mcintosh,Female,jennifervaldez@diaz-morrison.com,2021-02-01,300 Chapman Course Suite 144,Bank,Home Appliances,1230,No,No
+CUST_9540,Monica Townsend,Male,sarah05@yahoo.com,2022-05-04,7058 Foster Mountains,Mobile Payment,Groceries,3128,Yes,Yes
+CUST_8063,Stephen Brown Md,Female,michael18@gmail.com,2024-07-29,8128 Stevens Locks,PayPal,Groceries,341,No,No
+CUST_3205,Douglas Mitchell,Female,ojohnson@gmail.com,2020-07-04,8846 Peter Mountains,Bank,Groceries,302,Yes,No
+CUST_8717,Benjamin Hall,Male,sarahreyes@chavez-preston.com,2022-03-12,0224 Reid Junction Suite 331,BankTrans,Home Appliances,326,Yes,Yes
+CUST_9440,Jeffrey Lee,Male,vbuchanan@graham.com,2020-11-14,465 Sean Fords,Bank,Groceries,919,No,No
+CUST_8151,Adam Williams,Female,unknown,2020-05-14,USNV Diaz,Bank Transfer,Fashion,2084,No,No
+CUST_9137,Theresa Mueller,Male,hullsamantha@yahoo.com,2020-12-15,11250 Rick Hill Apt. 822,Mobile Payment,Electronics,1073,No,Yes
+CUST_4432,Elizabeth Perkins,Female,john73@schmidt-stanley.com,2020-07-25,8400 Kathryn Isle,Bank Transfer,Home Appliances,4040,Yes,Yes
+CUST_9048,Michele Fernandez,Male,mooregregory@wyatt.com,2021-09-28,58958 Ronald Lake Suite 225,Mobile Payment,Fashion,3828,No,No
+CUST_6711,Jill Miller,Male,anthony41@porter-douglas.biz,2023-09-22,740 Morgan Islands Suite 566,Credit Card,Fashion,4564,Yes,Yes
+CUST_1855,Kim Rodriguez,Male,diane42@gmail.com,2021-02-16,654 Becker Walk Suite 183,PayPal,Electronics,2625,No,Yes
+CUST_9738,Linda Warner,Male,toddjason@hotmail.com,2020-02-13,53913 Ramsey Green,Pay,Groceries,4631,No,Yes
+CUST_9053,Ian Pierce,Female,keylisa@powell.com,2020-03-06,68539 Jessica Fields Suite 791,PayPal,Home Appliances,3647,Yes,Yes
+CUST_5150,Anthony Ryan Dvm,Female,john61@gmail.com,2020-09-25,2829 Taylor Pine,Credit Card,Groceries,3982,Yes,Yes
+CUST_7687,Brendan Williams,Male,unknown,2021-10-04,988 Boyer Gateway,Credit Card,Fashion,1636,No,No
+CUST_4366,Crystal Hines Md,Male,robinsonlindsay@gmail.com,2020-07-22,813 Kelly Highway,PayPal,Groceries,2958,No,Yes
+CUST_1097,Danielle Nash,Female,daniellecolon@hotmail.com,2022-05-12,52022 Dustin Cliffs Apt. 194,Credit Card,Home Appliances,4013,Yes,Yes
+CUST_1346,Allison Davis,Male,hallmark@rodriguez.com,2022-06-06,"PSC 7622, Box 9288",Mobile Payment,Fashion,4806,No,No
+CUST_3837,Mariah Green,Female,jlopez@bradley-richardson.com,2021-10-16,5359 Dana Groves Suite 480,Mobile Payment,Groceries,4404,Yes,Yes
+CUST_4619,Robert Martinez,Male,jaycantrell@reyes.com,2023-03-21,35508 Maria Junction Suite 844,Mobile Payment,Groceries,4327,Yes,Yes
+CUST_7276,Matthew Sullivan,Male,rachaelmonroe@ross.com,2022-12-23,81108 Perkins Vista,Bank Transfer,Fashion,1573,Yes,Yes
+CUST_3068,Colleen Rodriguez,Male,michelle54@collins-rose.com,2021-10-06,019 Paige Road,Mobile Payment,Groceries,1035,Yes,No
+CUST_8122,Angela Ryan,Male,fjones@scott.net,2021-02-02,447 Wendy Village Apt. 405,Mobile Payment,Fashion,3375,No,No
+CUST_4762,Jared Jones,Male,fdowns@yahoo.com,2022-09-13,65405 Courtney Ports,Bank Transfer,Fashion,2289,Yes,No
+CUST_5095,Christian Campbell,Female,unknown,2021-09-08,5568 Smith Freeway Apt. 601,Bank Transfer,Groceries,1071,Yes,No
+CUST_8322,Tyler Smith,Female,bianca95@gmail.com,2022-03-07,374 Murray Summit,Bank Transfer,Home Appliances,1933,No,Yes
+CUST_5845,Christopher Lawrence,Female,jameshess@solis.com,2023-07-01,52392 Hunter Summit,Mobile Payment,Fashion,1441,No,Yes
+CUST_1267,Kevin Thompson,Female,msosa@hotmail.com,2025-01-18,8713 Justin Trail,PayPal,Fashion,2521,Yes,No
+CUST_1418,Katherine Edwards,Male,charlesmatthews@torres-howell.info,2022-04-21,095 Murphy Stream,BankTrans,Groceries,1911,No,Yes
+CUST_9942,Jonathan Martinez,Female,tkane@hotmail.com,2021-10-12,"PSC 6922, Box 7148",Cred,Groceries,3637,No,No
+CUST_9617,Darlene Vasquez,Female,phillipsmichael@briggs-davis.com,2022-02-03,0129 Davis Trail Apt. 486,Mobile Payment,Electronics,2863,No,No
+CUST_8851,Linda Lucero,Female,pperez@ward.com,2022-07-09,0965 Vargas Via Apt. 899,Bank Transfer,Fashion,2671,No,No
+CUST_2548,Philip Henry,Female,isaac32@yahoo.com,2024-01-15,4773 Sandra Burgs Apt. 877,PayPal,Fashion,3772,Yes,Yes
+CUST_7544,Brent Gonzalez,Male,unknown,2024-09-21,163 Ellen Coves,Bank Transfer,Home Appliances,3291,Yes,No
+CUST_6872,Katrina Small,Male,unknown,2023-03-28,2271 Jacob Light Apt. 817,Mobile Payment,Home Appliances,3220,No,No
+CUST_5609,Grant White,Female,jameslawson@hotmail.com,2020-03-25,720 Gary Rest,PayPal,Groceries,472,No,No
+CUST_9952,Andrew Kramer,Female,sarahking@king.com,2023-06-11,385 Hill Mountains,Mobile Payment,Groceries,3685,Yes,No
+CUST_6005,Kristina Salazar,Female,thomas46@gmail.com,2023-10-20,93111 Williams Garden Apt. 620,Mobile Payment,Electronics,2256,No,Yes
+CUST_6221,Brenda Young,Male,wbrown@gmail.com,2023-08-23,3851 Scott Lakes Suite 627,Bank Transfer,Electronics,1643,Yes,Yes
+CUST_5769,Ruth Murphy,Female,ruthmurphy33@hotmail.com,2022-08-07,863 Jennifer Crossing Suite 819,PayPal,Electronics,9,No,Yes
+CUST_2036,Joseph Adams,Male,mooreryan@johnson-jones.com,2021-02-02,013 Sabrina Alley Suite 329,Mobile Payment,Fashion,2091,Yes,No
+CUST_6830,Heather Leonard,Male,heatherwoodard@campbell.net,2023-02-16,648 Murphy Field,Mobile Payment,Electronics,2013,No,Yes
+CUST_4881,Kimberly Castillo,Male,desireebailey@yahoo.com,2021-02-04,7131 Clark Keys,PayPal,Groceries,4471,No,Yes
+CUST_9515,Michelle Clark,Female,lwood@gmail.com,2024-10-09,135 Rogers Hill Suite 159,Mobile Payment,Electronics,4210,No,Yes
+CUST_6306,Donald Johnson,Male,unknown,2022-03-05,44432 Hughes Lakes Suite 107,Mobile Payment,Home Appliances,4725,No,No
+CUST_7516,Justin Johnson,Male,duketracy@wilkerson.com,2024-10-06,75619 Hudson Plains,Mobile Payment,Home Appliances,1271,No,No
+CUST_7462,Austin Rodgers,Male,todd66@yahoo.com,2023-10-17,3427 John Freeway Suite 227,Bank Transfer,Home Appliances,479,No,Yes
+CUST_3192,Charles Adkins,Male,stevencollins@perry-acosta.net,2020-12-03,88410 Denise Roads,Mobile Payment,Groceries,2589,Yes,No
+CUST_5523,Elizabeth Freeman,Female,ryan77@yahoo.com,2020-11-16,07251 Timothy Stream,PayPal,Electronics,4530,Yes,Yes
+CUST_9398,Tiffany Garza,Female,lisamiller@thompson.biz,2022-01-15,0901 Annette Union Suite 710,Bank Transfer,Home Appliances,3446,No,Yes
+CUST_3887,Nicole Williams,Male,kwebb@gmail.com,2021-08-31,741 Cunningham Union,Bank Transfer,Electronics,1870,Yes,Yes
+CUST_1079,Ashley Beck Md,Male,vjohnson@williams.com,2020-05-20,3539 Nguyen Hill Apt. 468,Bank Transfer,Home Appliances,1153,Yes,Yes
+CUST_4086,Kendra Reynolds,Male,ellissusan@gmail.com,2021-10-10,8808 Lin Vista,BankTrans,Groceries,4141,No,Yes
+CUST_7095,Ashley Miller,Male,morrisdrew@yahoo.com,2020-05-16,784 Mathews Mountain Apt. 645,Credit Card,Home Appliances,1531,No,No
+CUST_3621,Catherine Greer,Male,ylewis@ross-chavez.org,2024-12-12,418 Vega Track Suite 630,Bank Transfer,Groceries,222,No,No
+CUST_9828,Cathy Bartlett,Male,mgray@yahoo.com,2023-10-13,76694 Stacy Manors Suite 883,Bank,Groceries,1403,Yes,Yes
+CUST_2969,Brandon Schneider,Female,rogersmary@hotmail.com,2022-07-03,34904 Tina Expressway,Credit Card,Fashion,3828,Yes,No
+CUST_5848,Cameron Wagner,Male,omendez@gmail.com,2024-03-13,4456 Kim Ramp,Bank Transfer,Groceries,1334,No,No
+CUST_9179,Michael Stewart,Male,kylewells@kelly-vargas.com,2021-07-12,247 Hall Gateway Apt. 347,BankTrans,Electronics,1855,Yes,No
+CUST_5927,Anthony Rivera,Female,valeriepierce@mitchell.com,2020-05-19,"PSC 6850, Box 0361",PayPal,Fashion,3715,Yes,Yes
+CUST_3056,Christina Gray,Female,unknown,2021-06-24,26629 Holt Flat Suite 345,Pay,Groceries,928,Yes,Yes
+CUST_2169,Vincent Cruz,Male,unknown,2024-01-02,29667 Casey Camp,Credit Card,Electronics,4180,No,Yes
+CUST_7532,Mark Williams Jr.,Male,jenniferprince@perkins.org,2022-03-08,3310 Cummings Viaduct,Credit Card,Fashion,4109,No,No
+CUST_3719,Terry Small,Female,hughesnatasha@hotmail.com,2023-06-27,28563 Campbell Mountain Suite 941,Mobile Payment,Electronics,1694,No,Yes
+CUST_8480,Kelly Fletcher,Female,friley@vance-taylor.com,2023-08-02,"PSC 0402, Box 1786",PayPal,Fashion,3234,No,No
+CUST_7958,Christopher Hernandez,Male,jmartinez@hill.com,2020-08-03,207 Day Prairie Suite 735,Bank,Fashion,725,Yes,Yes
+CUST_7405,Ryan Alvarez,Male,stephen57@sanchez.com,2023-11-13,68649 Harris Greens Apt. 431,BankTrans,Fashion,4571,Yes,No
+CUST_6297,Tracy Lee,Female,paulthomas@thomas-mayer.com,2023-11-18,70386 Harris Station Suite 206,Bank Transfer,Home Appliances,4176,Yes,No
+CUST_4935,Tyler Li,Male,kathleenbruce@meyer.com,2021-02-15,70733 Murphy Union,Mobile Payment,Electronics,2382,Yes,Yes
+CUST_6930,Ashley Dillon,Female,ssanchez@hotmail.com,2022-01-01,Unit 2001 Box 1249,Mobile Payment,Fashion,145,Yes,No
+CUST_4889,Connie Gilbert,Female,allenreese@anderson.org,2021-06-19,70268 Jo Roads Apt. 195,Credit Card,Fashion,3064,No,No
+CUST_7043,Anthony Nicholson,Male,madelinepena@gmail.com,2020-10-02,810 Gomez Common Suite 693,Cred,Groceries,865,Yes,Yes
+CUST_6960,Mary Smith,Female,robert10@vargas-vaughn.info,2024-04-15,366 Wilson Park,PayPal,Groceries,915,No,Yes
+CUST_2889,Rodney Miller,Female,tiffany57@meyer.info,2021-02-13,532 Franklin Center,Mobile Payment,Fashion,1505,Yes,Yes
+CUST_6709,Sandra Ortega,Female,jeffwhite@gmail.com,2021-10-05,1788 Corey Ford,Crdit Card,Groceries,1995,Yes,Yes
+CUST_6430,Joshua Bell,Female,danieltony@yang-thornton.com,2023-08-04,"PSC 6766, Box 8001",Credit Card,Fashion,1838,Yes,Yes
+CUST_9157,Jon Russell,Male,hawkinscraig@salas-hill.biz,2022-04-14,832 Stephanie Key Suite 082,Credit Card,Home Appliances,4803,Yes,No
+CUST_8960,Misty Snyder,Male,michael18@perez-holder.net,2023-04-19,USCGC Garcia,PayPal,Electronics,4871,No,No
+CUST_8691,Christine Brown,Male,vanessamorris@hotmail.com,2024-07-07,USNV Johnson,Mobile Payment,Groceries,3171,No,No
+CUST_6586,Mary Stevens,Male,leemartha@benton.com,2020-05-02,142 Hicks Manors,PayPal,Groceries,904,Yes,Yes
+CUST_1130,Rebecca Jones,Male,tiffany60@yahoo.com,2023-08-05,0051 Julie Club,Pay,Fashion,481,Yes,Yes
+CUST_1679,Sandra Rojas,Male,unknown,2024-03-17,98545 Taylor Heights,Bank Transfer,Groceries,2,Yes,No
+CUST_9644,Ronald Anderson,Female,morrishector@francis-smith.com,2024-12-19,74200 Morris Harbor Apt. 994,BankTrans,Electronics,3498,Yes,No
+CUST_4486,Douglas Brown,Male,castillodeborah@hotmail.com,2024-01-27,07274 Velasquez Springs Suite 551,PayPal,Fashion,4738,No,Yes
+CUST_4221,Christina Colon,Male,unknown,2023-10-23,8254 Wheeler Gateway,Bank Transfer,Fashion,3092,No,No
+CUST_6237,Thomas Marks,Female,bjones@gmail.com,2021-03-15,USCGC Powell,Mobile Payment,Home Appliances,2301,Yes,Yes
+CUST_4485,Nathan Watson,Female,melissa21@yahoo.com,2022-01-05,3622 Kim Lakes,Mobile Payment,Groceries,509,Yes,Yes
+CUST_2665,Andrew Miranda,Male,charles26@gmail.com,2023-12-25,434 Holly Forges,Mobile Payment,Fashion,486,Yes,No
+CUST_6156,Jennifer Evans,Female,fsparks@ford.com,2021-02-21,08683 Alexandra Ranch Apt. 856,Bank Transfer,Home Appliances,3640,No,No
+CUST_8221,Jeffrey Anthony,Male,adam98@gmail.com,2020-11-27,8352 Anderson Summit Apt. 425,BankTrans,Home Appliances,4554,No,No
+CUST_6155,Ricardo Hardy,Male,jeffrey90@edwards.com,2023-07-30,5600 Charles Skyway,BankTrans,Fashion,3891,Yes,No
+CUST_9733,Rachel Miller,Female,gomezlinda@gmail.com,2023-10-15,88451 Mack Curve,PayPal,Electronics,2580,No,No
+CUST_2249,Leah Ross,Female,boydkathryn@collins-boyd.net,2020-10-09,423 Green Cliffs Apt. 715,PayPal,Fashion,4948,No,No
+CUST_3146,Bernard Brewer,Female,bensonmelissa@yahoo.com,2021-05-28,671 Judy Crossroad Suite 416,Credit Card,Home Appliances,660,Yes,No
+CUST_5930,Devon Nunez,Male,unknown,2020-06-26,Unit 6343 Box 8226,Credit Card,Electronics,3424,No,Yes
+CUST_1246,Angela Stephens,Female,stacey54@mccormick-young.info,2020-12-15,70871 Joseph Haven,Mobile Payment,Electronics,395,No,Yes
+CUST_9685,Felicia Rubio,Male,hlewis@yahoo.com,2022-01-19,450 Randy Village,Credit Card,Groceries,1334,No,Yes
+CUST_8270,James Donaldson,Female,alexander15@gmail.com,2020-07-27,7052 Patrick Common Suite 751,Mobile Payment,Groceries,389,Yes,No
+CUST_9879,Megan Shelton Md,Male,mfranco@kerr-roth.net,2022-01-03,593 Johnston Courts Suite 345,Bank Transfer,Home Appliances,3169,Yes,Yes
+CUST_1077,James Hobbs,Male,carterdavid@snow.com,2021-07-24,5446 Austin Well,Mobile Payment,Electronics,954,Yes,Yes
+CUST_5421,Paul Lee,Female,jerry38@gmail.com,2024-09-11,940 Jackson Spurs Suite 172,Bank Transfer,Electronics,4913,No,No
+CUST_8116,Elizabeth Lopez,Female,awilliams@gmail.com,2020-08-31,069 Jeanette Alley Suite 796,Bank,Home Appliances,4191,No,Yes
+CUST_2184,Mrs. Renee Ingram,Male,veronica82@hawkins.com,2021-09-19,4432 Sergio Springs Suite 775,PayPal,Fashion,531,Yes,Yes
+CUST_1452,Tammy Salas,Female,udunn@williams-miller.biz,2023-11-10,8734 Stanley Port Suite 781,Bank Transfer,Fashion,4450,No,No
+CUST_3975,Samantha Weiss,Female,jose73@weber-wiggins.com,2020-09-24,24153 Lane Centers,PayPal,Groceries,4976,Yes,Yes
+CUST_7427,Mrs. Amy Rodriguez,Female,wwarner@mclean.net,2023-01-02,2042 Lynch Run Suite 560,Credit Card,Groceries,2465,No,Yes
+CUST_1286,Hunter Ortiz,Female,wilsonshirley@gmail.com,2020-03-04,Unit 9773 Box 6714,Mobile Payment,Fashion,3700,No,Yes
+CUST_7288,Tiffany Valenzuela,Male,cathy33@hotmail.com,2021-09-07,356 Jeremy Junctions Suite 853,Mobile Payment,Groceries,764,No,Yes
+CUST_1466,Rachel Thompson,Female,unknown,2023-12-19,449 Evan Walks Suite 085,Mobile Payment,Electronics,2340,No,No
+CUST_9380,Michael Morris,Female,elizabeth45@gmail.com,2023-05-14,083 John Parkways Suite 392,Bank Transfer,Home Appliances,2957,Yes,No
+CUST_1352,Ashley Cummings,Male,khenderson@smith.com,2023-06-27,440 Emily Bridge,Mobile Payment,Fashion,1187,No,No
+CUST_4262,Anthony Kirk,Female,tara69@yahoo.com,2023-11-14,6905 David Burgs Suite 699,Credit Card,Electronics,2125,No,No
+CUST_2377,James Williams,Female,unknown,2024-04-26,0268 Cunningham Plains Suite 474,PayPal,Groceries,1449,Yes,No
+CUST_7003,Maria Williamson,Male,toni61@gmail.com,2024-04-29,69686 Soto Shoal,Credit Card,Home Appliances,1593,No,Yes
+CUST_6367,Mark Smith,Male,crivera@gmail.com,2023-09-16,83153 Jerry Hill,Bank Transfer,Home Appliances,3593,Yes,Yes
+CUST_2700,Benjamin Jones,Female,emilybarr@hotmail.com,2023-12-17,USCGC Orr,PayPal,Fashion,4544,No,Yes
+CUST_7461,Sandra Romero,Male,smithlauren@hotmail.com,2020-05-01,6591 Christine Roads,Bank Transfer,Fashion,3741,No,No
+CUST_4416,Melissa Nunez,Female,unknown,2023-11-30,354 Brewer Hills,Bank Transfer,Groceries,279,No,No
+CUST_6775,Tanya Pitts,Male,rhernandez@yahoo.com,2021-08-26,04328 Melissa Green Apt. 439,Credit Card,Electronics,3448,Yes,No
+CUST_1212,Jose Nguyen,Female,lrodriguez@mitchell-reeves.info,2023-08-07,5972 Myers Gateway Apt. 296,PayPal,Electronics,3198,No,Yes
+CUST_5004,Travis Sanders,Male,christina78@gmail.com,2022-02-07,0454 Lisa Row Apt. 578,PayPal,Groceries,4060,No,Yes
+CUST_6674,Collin Lopez,Male,matthew07@yahoo.com,2021-08-05,955 Ian Bridge,BankTrans,Electronics,3316,No,Yes
+CUST_3223,David Williams,Female,smiller@hotmail.com,2024-07-28,4425 Martin Lodge Apt. 340,PayPal,Groceries,1634,No,No
+CUST_5983,Sarah Campbell,Male,alex68@henderson.com,2024-06-03,182 Chelsey Pass Apt. 035,Bank Transfer,Fashion,1488,Yes,No
+CUST_1903,Yolanda Payne,Female,cole45@hotmail.com,2022-03-28,35739 Lucas Green,Bank Transfer,Fashion,286,No,Yes
+CUST_7278,Christina Lopez,Male,robert81@stephens.com,2020-04-28,985 Huff Hills,PayPal,Electronics,4294,No,No
+CUST_1650,Heather Johnson,Female,blake94@cunningham-suarez.net,2021-06-02,4441 Rodney Crescent Apt. 930,Bank Transfer,Home Appliances,1722,No,No
+CUST_5872,Robert Hansen,Male,charles25@kline.com,2022-08-25,658 William Turnpike,PayPal,Fashion,712,No,Yes
+CUST_7617,Caitlyn Mcdonald,Male,brooksscott@yu-becker.com,2020-05-24,USNV Sanchez,Crdit Card,Groceries,1822,No,Yes
+CUST_6947,Amanda Callahan,Female,clayton77@estrada-murphy.com,2022-11-21,87994 Mary Overpass,Crdit Card,Groceries,3809,Yes,No
+CUST_1489,Brandon Hayes,Female,unknown,2022-08-04,500 Craig Spurs,Mobile Payment,Home Appliances,1002,No,No
+CUST_9423,Tammy Newman,Male,drewfrederick@smith.biz,2020-06-17,2227 Nolan Islands,Crdit Card,Electronics,4733,No,Yes
+CUST_9008,James Shaw,Male,daniel47@hotmail.com,2024-10-28,453 Jones Vista Suite 105,Bank Transfer,Fashion,4182,Yes,Yes
+CUST_3403,Nicole Garrett,Female,jgarcia@gmail.com,2023-10-31,5599 Bailey Green,Mobile Payment,Home Appliances,2253,No,Yes
+CUST_3039,Mary Ward,Female,jaclynsmith@yahoo.com,2021-06-17,786 Carrie Meadow,Mobile Payment,Fashion,366,Yes,No
+CUST_9171,Tony Dean,Male,joannjones@gmail.com,2024-03-10,"PSC 9297, Box 5478",Credit Card,Electronics,2697,Yes,No
+CUST_3708,Lisa Wade,Male,wanderson@caldwell.info,2022-11-10,52816 Melissa Islands,Mobile Payment,Home Appliances,3779,Yes,No
+CUST_4575,Ashley Williamson,Female,harringtonbrittany@faulkner.com,2024-05-23,250 Bailey Gateway,Credit Card,Home Appliances,22,No,Yes
+CUST_9328,Meredith Sanchez,Male,erikjones@gmail.com,2023-01-27,37813 Santana Common,Mobile Payment,Fashion,2222,Yes,Yes
+CUST_5865,Caitlin Dixon Md,Female,englishpam@wilson.com,2020-06-01,060 Ayala River Apt. 359,Pay,Fashion,994,Yes,No
+CUST_5818,Matthew Miller,Male,whitneyprice@mitchell-wolf.info,2023-01-31,6768 Holland Spring,Mobile Payment,Electronics,2405,Yes,Yes
+CUST_1857,Parker Rivas,Male,vallen@yahoo.com,2024-12-09,037 Cox Brook Apt. 027,Bank Transfer,Home Appliances,1493,No,No
+CUST_8900,Michael Wall,Female,ndrake@larson.org,2023-09-06,38077 Andrade Shores,Credit Card,Groceries,3235,Yes,No
+CUST_3529,Robert Brown,Male,williamsjacob@rogers-murphy.com,2021-10-18,4082 Noah Cliff Suite 709,PayPal,Fashion,14,Yes,No
+CUST_3603,Kathleen Chandler,Male,gregory31@bradley-wong.org,2022-03-28,614 Anna Union,Credit Card,Fashion,31,Yes,Yes
+CUST_4479,Anthony Barnes,Female,zbrown@yahoo.com,2022-10-12,960 Matthew Station Apt. 181,PayPal,Groceries,1669,No,Yes
+CUST_8483,Rhonda Miller,Male,ucoleman@snyder.biz,2023-12-29,6227 Flynn Divide Suite 965,Crdit Card,Electronics,4896,No,Yes
+CUST_3615,Justin Walker,Male,brittanywilson@gross.com,2021-01-18,34680 Lisa Causeway Suite 047,Mobile Payment,Groceries,3042,Yes,Yes
+CUST_9552,Tracey Cruz,Female,xgreen@brown-alvarez.com,2020-08-24,Unit 8678 Box 0319,BankTrans,Home Appliances,3069,Yes,No
+CUST_4261,Nicholas Castro,Female,bennettkevin@howard.com,2022-10-18,25253 Wilson Flat Suite 379,PayPal,Groceries,1755,No,No
+CUST_4123,Luis Lloyd,Female,dchoi@foley-brown.net,2021-07-24,Unit 4103 Box 4955,Mobile Payment,Fashion,4194,No,No
+CUST_6125,Kara Ellis,Male,davidscott@yahoo.com,2022-02-08,71372 Smith Unions Apt. 310,PayPal,Home Appliances,1592,Yes,Yes
+CUST_5389,Randy Gould Jr.,Female,unknown,2021-07-16,1379 Chapman Coves,Credit Card,Fashion,4753,No,Yes
+CUST_9921,Melissa Hall,Male,jtucker@yahoo.com,2020-07-01,4059 Janet Hills,Credit Card,Fashion,2317,Yes,No
+CUST_8276,Priscilla Ramos,Female,seth23@hughes.com,2021-09-12,8096 Morgan Underpass,PayPal,Fashion,2972,Yes,Yes
+CUST_6026,Leah Anderson,Female,jessica42@howell.com,2023-04-25,29228 James Estate,Credit Card,Electronics,4384,Yes,Yes
+CUST_8556,Brett Herring,Female,efields@campbell.org,2024-03-11,9519 Ryan Spring Apt. 946,PayPal,Groceries,949,No,No
+CUST_9409,Catherine Leach,Female,tatkinson@franklin.org,2023-08-24,570 Edwards Parkways Apt. 767,Credit,Groceries,3843,Yes,No
+CUST_4159,Lisa Wall,Female,clarence84@hotmail.com,2022-08-06,80680 Ruiz Centers,Bank Transfer,Groceries,916,No,Yes
+CUST_8446,Robert Fowler,Male,amber63@francis.net,2020-08-01,2654 Adriana Circles,PayPal,Fashion,3793,Yes,Yes
+CUST_5360,Tonya Johnson,Female,samuelroberts@barry.info,2021-01-12,596 Richard Causeway Suite 258,PayPal,Electronics,1313,No,No
+CUST_7015,Eddie Barrett,Female,wagnerthomas@galvan.com,2022-04-04,4067 Jared Squares Apt. 492,Bank Transfer,Fashion,3754,Yes,Yes
+CUST_8588,David Barr,Male,jessica80@allen.com,2022-01-10,311 Gerald Freeway Suite 303,Bank,Groceries,353,No,No
+CUST_5341,Lee Brooks,Female,julia12@yahoo.com,2023-08-05,71311 James Cove,PayPal,Electronics,2634,No,No
+CUST_4440,Terri Mcgee,Female,carrdaniel@alvarez.info,2021-01-17,089 Snow Station,PayPal,Home Appliances,961,No,No
+CUST_4937,Mrs. Donna Cooper,Female,nicholasblack@yahoo.com,2022-09-25,27090 Hull Summit Suite 027,PayPal,Home Appliances,4126,No,No
+CUST_3040,Rodney Gallagher,Female,twells@hotmail.com,2022-03-30,1593 James Trail Suite 177,Mobile Payment,Fashion,3631,No,No
+CUST_5295,Angel Arnold,Female,ramirezmary@yahoo.com,2022-11-14,00304 Alan Circle Suite 603,Mobile Payment,Home Appliances,2152,Yes,No
+CUST_9842,Charles Cox,Female,zhoover@yahoo.com,2021-10-21,740 Pineda Bypass,Mobile Payment,Electronics,2147,Yes,Yes
+CUST_4723,Aaron Weaver,Female,meyerrobert@williams.info,2024-06-19,45290 Steve Crossroad Apt. 759,PayPal,Electronics,1800,No,Yes
+CUST_5589,Jesus Mack,Female,brownlouis@mitchell.com,2020-04-09,1223 Shannon Ferry,Mobile Payment,Groceries,4105,No,No
+CUST_9682,Paige Stevens,Male,sanderson@hotmail.com,2021-11-30,"PSC 1246, Box 4466",PayPal,Groceries,421,No,Yes
+CUST_9454,Brandon Hernandez,Male,nathan53@buchanan.com,2023-10-08,369 Michael Underpass,Mobile Payment,Groceries,2697,Yes,Yes
+CUST_7385,Mariah Patel,Male,gibsonmartin@taylor.com,2020-11-13,79985 Johnson Burg,Mobile Payment,Fashion,724,No,Yes
+CUST_5525,Katherine Nguyen,Male,blankenshipbonnie@yahoo.com,2022-11-07,762 Rivera Grove Apt. 678,PayPal,Home Appliances,1919,No,Yes
+CUST_1069,Susan Randall,Male,bonnierodriguez@gmail.com,2024-07-07,529 Brown Port Apt. 120,Credit Card,Electronics,3798,Yes,No
+CUST_4056,Nicole Stevenson,Male,richard67@simmons-espinoza.org,2024-01-18,9509 Krystal Hills,Mobile Payment,Groceries,4715,Yes,Yes
+CUST_6546,Shane Thompson,Female,mckenzieshane@garcia-hahn.com,2022-06-07,14430 Thompson Haven Suite 590,Cred,Fashion,3904,Yes,No
+CUST_3821,Mark Lowe,Female,antonio34@gould.biz,2024-02-17,41591 Lawrence Union,Pay,Home Appliances,3394,Yes,No
+CUST_2525,Shane Gomez,Female,michelleweaver@anderson-williams.com,2021-09-17,Unit 8363 Box 2394,PayPal,Home Appliances,4633,Yes,No
+CUST_1856,Jennifer Tran,Male,christopher30@klein.com,2021-10-03,544 Smith Neck,Mobile Payment,Groceries,3040,Yes,Yes
+CUST_9254,Jessica Brewer,Male,howardcraig@hotmail.com,2022-02-27,9054 Gonzalez Trace,PayPal,Fashion,3635,No,Yes
+CUST_8634,Jamie Crawford,Male,amberhenry@bartlett.com,2020-09-08,6451 Sanchez Manor Apt. 923,Mobile Payment,Groceries,2987,No,No
+CUST_3334,Jeffrey Smith,Female,melissareed@ford.com,2021-01-05,0137 Cesar Squares Suite 135,Credit Card,Fashion,1133,Yes,Yes
+CUST_7257,Christopher Mcknight,Male,robinwatkins@yahoo.com,2023-10-09,7472 Mason Key,Credit Card,Home Appliances,4079,Yes,Yes
+CUST_3445,Patricia Riley,Male,thomasmccormick@yahoo.com,2023-06-08,30210 Gray Bypass Suite 630,Credit Card,Fashion,803,No,Yes
+CUST_4699,Katherine Nichols,Female,heathershannon@moody-martinez.com,2021-07-09,52216 Lucas Squares Suite 957,Mobile Payment,Fashion,1621,Yes,Yes
+CUST_2256,Amy Gutierrez,Female,bobby34@hotmail.com,2020-05-29,469 Daniel Divide,Credit Card,Home Appliances,4178,Yes,Yes
+CUST_1379,Joan Casey,Male,unknown,2021-03-06,8407 Richard Ports Suite 464,Mobile Payment,Home Appliances,868,Yes,Yes
+CUST_3163,Benjamin Boyle Jr.,Male,amandawright@gmail.com,2020-05-13,76064 Christopher Hills,Mobile Payment,Home Appliances,1320,No,Yes
+CUST_5516,John Robles,Female,carolyn46@yahoo.com,2024-02-08,15158 Carter Tunnel Apt. 407,Pay,Groceries,3828,No,Yes
+CUST_8014,Michael Garrison,Male,peter16@cook.info,2022-01-21,9248 Ricky Lane,Cred,Groceries,879,No,Yes
+CUST_2705,Jeremy Johnson,Female,qsimpson@hotmail.com,2022-07-18,USS Perez,Pay,Groceries,2434,No,No
+CUST_1836,James Noble,Female,douglas88@johnson.biz,2023-08-24,4687 Cynthia Throughway Apt. 220,Bank Transfer,Groceries,2703,Yes,Yes
+CUST_7144,Jason Lopez,Female,millercolleen@klein-miller.com,2021-04-07,0433 Williams Causeway Suite 722,Mobile Payment,Fashion,4503,Yes,No
+CUST_1520,Jason Mcmahon,Female,feliciachavez@short.com,2022-03-26,109 John Roads Apt. 667,PayPal,Groceries,4514,Yes,Yes
+CUST_5188,Bryan Watkins,Female,williamsthomas@hotmail.com,2022-08-28,7119 Kelly Road,PayPal,Groceries,696,No,No
+CUST_4336,Cindy Lang,Male,ukemp@gmail.com,2021-03-12,22901 Scott Land,PayPal,Fashion,3025,No,No
+CUST_6647,Erika Sweeney,Female,hlambert@gmail.com,2022-08-12,569 Regina Heights,Credit Card,Groceries,285,No,Yes
+CUST_3973,Audrey Parsons,Female,tranjames@yahoo.com,2024-07-26,4225 Adam Crossing,PayPal,Home Appliances,1385,Yes,No
+CUST_8508,Jill Howell,Male,unknown,2021-01-25,414 Sims Drive Suite 944,Bank Transfer,Electronics,3958,No,No
+CUST_2002,Brett Davis,Male,tiffanyrobertson@hancock-leon.net,2022-09-04,65125 Wagner Groves,PayPal,Electronics,552,No,No
+CUST_7293,Julia Dean,Female,sfrancis@hotmail.com,2021-02-16,767 Moreno Circle Suite 357,Credit Card,Groceries,2417,Yes,No
+CUST_8253,Laura Rodriguez,Female,shawn84@hotmail.com,2023-08-22,29233 Gary Port Apt. 682,BankTrans,Fashion,2516,No,Yes
+CUST_4022,Tyler Ingram,Female,michaelsmith@hotmail.com,2024-02-23,5633 Reeves Harbor Apt. 311,Credit Card,Fashion,2002,No,Yes
+CUST_4520,Michael Reese,Male,hamiltonchristie@hotmail.com,2024-05-23,582 Aguilar Corner Suite 272,Bank Transfer,Fashion,1105,No,No
+CUST_2624,Krystal Oliver,Male,ralph29@gmail.com,2021-05-12,7630 Davis Fall,Mobile Payment,Fashion,2898,No,No
+CUST_8057,Margaret Novak,Female,unknown,2024-06-15,5157 Hamilton Locks Suite 239,Pay,Home Appliances,4555,Yes,Yes
+CUST_9570,Brittany Robertson,Male,andrea35@yahoo.com,2021-09-25,10515 Ashley Mountain,Mobile Payment,Fashion,4968,No,Yes
+CUST_5293,Richard Reese,Female,deborah03@hotmail.com,2024-02-10,830 Howard Hill,Mobile Payment,Electronics,2676,Yes,No
+CUST_1950,Tyler Phillips,Female,tamarachristian@yahoo.com,2023-11-20,09988 Riley Key Apt. 204,Credit Card,Home Appliances,4812,No,Yes
+CUST_3635,Robert Carr,Female,elizabethsilva@yahoo.com,2024-12-02,821 Jacob Extension Apt. 057,Bank Transfer,Electronics,2408,Yes,Yes
+CUST_8420,Cynthia Waters,Female,tracy54@herrera.biz,2022-05-17,37192 Fernandez Fork Apt. 053,PayPal,Home Appliances,1032,No,Yes
+CUST_3977,Megan Adkins,Female,sherryboyer@bryant.org,2022-06-24,4498 Lee Port Apt. 065,PayPal,Groceries,4221,Yes,Yes
+CUST_7809,Aaron Gamble,Female,hoffmanruben@smith.com,2023-07-29,0630 Villarreal Corner,Bank Transfer,Home Appliances,3043,No,No
+CUST_6565,Joshua Lee,Female,thompsonwilliam@jackson.com,2022-04-19,Unit 4797 Box 1660,Credit Card,Electronics,3839,No,Yes
+CUST_3668,Amanda Mack,Male,sharonellis@hotmail.com,2020-11-30,7967 Gonzalez Green Apt. 503,PayPal,Groceries,3803,No,No
+CUST_5825,Debbie Mcclure,Male,porterjulie@gmail.com,2020-10-08,813 Kyle Union,BankTrans,Electronics,2049,No,Yes
+CUST_4603,Peter Dennis,Female,ybryant@hotmail.com,2020-06-03,8872 Amber Cliffs Apt. 899,Mobile Payment,Fashion,2140,Yes,Yes
+CUST_4157,Tina Beck,Female,hbauer@williams.com,2023-11-12,8340 Thomas Brooks,PayPal,Fashion,1175,Yes,Yes
+CUST_1781,Rhonda White,Female,jenkinsnoah@hotmail.com,2020-02-14,32033 Casey Harbors,Credit Card,Fashion,1336,Yes,No
+CUST_1295,Adam Phillips,Male,david15@green.com,2020-03-30,0975 Craig Extensions Apt. 565,Mobile Payment,Groceries,2487,No,Yes
+CUST_8366,Margaret Good,Male,brenda99@gmail.com,2021-12-31,37863 Mark Stream,Mobile Payment,Home Appliances,3167,No,Yes
+CUST_3150,John Gray,Male,qbutler@cook.com,2020-04-30,2913 Villa Pine,PayPal,Fashion,1323,Yes,Yes
+CUST_2254,Thomas Hunter,Male,ujohnson@gmail.com,2020-02-24,7316 Scott Stravenue,Bank Transfer,Electronics,525,No,Yes
+CUST_8273,Jill Townsend,Female,mbrown@gmail.com,2020-10-03,97250 Marcus Mountain Apt. 683,Credit Card,Home Appliances,2791,Yes,No
+CUST_8928,Chase Robinson,Female,tina86@willis-lopez.com,2020-12-22,08555 Travis Fort,Bank,Groceries,4382,No,No
+CUST_4001,Diamond Fernandez,Male,rhonda87@gmail.com,2023-12-24,04950 Lewis Circles,Crdit Card,Home Appliances,1920,Yes,Yes
+CUST_2704,Patrick Jones,Female,unknown,2020-12-14,784 David Street,Mobile Payment,Home Appliances,1553,No,No
+CUST_1585,Kellie Moss,Female,gregory31@mitchell.com,2020-12-05,8964 Jennifer Summit,PayPal,Home Appliances,3737,No,Yes
+CUST_4884,Sheila Ramirez,Female,cynthia26@blankenship.net,2021-10-11,279 Alvarado Squares,Cred,Groceries,2125,Yes,Yes
+CUST_6511,Daniel French,Female,adam15@smith.com,2022-07-30,38927 Elizabeth Centers,PayPal,Electronics,1963,Yes,No
+CUST_3824,Michael Evans,Female,samuel21@mitchell.info,2021-07-01,1034 Nielsen Drive Apt. 934,PayPal,Home Appliances,1957,Yes,No
+CUST_9976,Raymond Sanchez,Male,carlahayes@gmail.com,2023-12-17,8067 House Rapid Suite 119,Bank Transfer,Fashion,2196,Yes,Yes
+CUST_3231,Jamie Williams,Female,gordonbarbara@maddox.info,2023-05-18,2562 Jones Burgs Apt. 581,Pay,Groceries,4549,No,No
+CUST_4749,Billy Brown,Male,unknown,2021-02-04,164 Smith Keys,Credit,Home Appliances,3042,Yes,No
+CUST_8334,Amy Roberts,Male,ronnie15@maldonado-archer.com,2024-11-08,122 Morales Forks Apt. 371,PayPal,Electronics,3809,Yes,Yes
+CUST_6490,Adam Carpenter,Female,pstone@gmail.com,2024-05-24,6898 Costa Lane,PayPal,Groceries,1860,Yes,No
+CUST_1320,Zachary Lee,Male,lisaherrera@hotmail.com,2022-07-15,2320 Tammy Ramp,Bank Transfer,Home Appliances,1391,Yes,No
+CUST_3090,Jean Ashley,Female,chernandez@rose.com,2023-04-02,6290 Roy Curve,Mobile Payment,Fashion,4040,Yes,No
+CUST_9562,Tina Leon,Male,jennifersullivan@burke.biz,2023-02-15,722 Daniels Trail,Mobile Payment,Home Appliances,3957,Yes,No
+CUST_8533,Katelyn Smith,Female,cassandra38@russell.net,2024-05-28,36718 Lawson Ports,Bank Transfer,Groceries,2725,Yes,Yes
+CUST_2137,Miss Andrea Lee,Female,williamlopez@hotmail.com,2021-03-08,8108 Sanchez Causeway,Mobile Payment,Groceries,1381,Yes,No
+CUST_4801,Tammy Cuevas,Female,fergusonmark@clayton-wells.org,2020-12-17,62617 Hancock Ports,Credit Card,Home Appliances,3516,No,No
+CUST_8832,Shaun Walls,Female,xsimmons@yahoo.com,2022-08-01,290 Wood Drives Apt. 682,PayPal,Home Appliances,2425,No,No
+CUST_7799,Patricia Wilkerson,Female,baldwinamanda@gmail.com,2020-05-05,098 Pamela Trail Apt. 364,PayPal,Groceries,1640,Yes,Yes
+CUST_8686,Terri Smith,Male,jgomez@gmail.com,2022-10-20,613 Robert Glens Suite 345,PayPal,Electronics,1232,Yes,Yes
+CUST_7078,Daniel Sanders,Female,david50@gmail.com,2023-08-26,08284 Lucas Cove,PayPal,Fashion,2079,Yes,No
+CUST_8400,Curtis Barber,Male,toni76@gmail.com,2023-09-09,859 Greene Plaza Suite 762,Credit Card,Groceries,4775,No,Yes
+CUST_3469,Amy Floyd,Female,xparker@yahoo.com,2023-10-29,685 John Junction Apt. 564,Bank,Groceries,2161,No,Yes
+CUST_4571,Andrea Perkins,Female,john34@yahoo.com,2023-10-19,80108 Cheyenne Harbor Apt. 348,PayPal,Groceries,3948,No,Yes
+CUST_2315,John Watkins,Male,crosbyamanda@hotmail.com,2020-07-03,98073 Phillip Streets Suite 389,Mobile Payment,Fashion,4914,No,Yes
+CUST_8568,Lori Moore,Female,qtaylor@gonzalez.com,2021-12-03,860 Thompson Cliff Apt. 652,PayPal,Electronics,3864,No,Yes
+CUST_8499,Robert Charles,Female,ericcooper@montgomery-anderson.org,2021-12-23,Unit 1810 Box 4169,Cred,Home Appliances,4238,No,Yes
+CUST_5021,Mrs. Kathy Ryan Dds,Male,kimberlysoto@hansen.com,2021-03-25,"PSC 0994, Box 0162",Crdit Card,Fashion,3491,Yes,Yes
+CUST_1329,Alexis Perry,Male,robert83@mckinney.info,2024-04-17,"PSC 4595, Box 3410",Mobile Payment,Groceries,2484,No,No
+CUST_7248,Christy Adams,Female,allendakota@yahoo.com,2021-02-12,107 Colon Islands Apt. 281,BankTrans,Groceries,4705,No,Yes
+CUST_1682,Courtney Peterson,Male,qcopeland@petersen.org,2023-03-02,0155 Wells Rapids,PayPal,Fashion,178,No,Yes
+CUST_8552,Michelle Lester,Female,unknown,2021-12-09,USS Gay,PayPal,Electronics,578,Yes,Yes
+CUST_6479,Kristin Elliott,Male,housejohnathan@gmail.com,2022-12-09,363 Kim Gardens,Credit Card,Home Appliances,811,Yes,No
+CUST_5285,Virginia Leonard,Female,derek28@valentine.com,2023-09-03,0124 Davidson Squares,Bank Transfer,Home Appliances,2597,Yes,Yes
+CUST_6478,Eric Payne,Female,johnny52@hotmail.com,2020-09-16,64223 Jackson Mill Apt. 419,Bank Transfer,Fashion,2969,Yes,No
+CUST_4275,Richard Buck,Female,derek60@gmail.com,2020-07-09,79555 George Keys Suite 903,PayPal,Fashion,876,Yes,No
+CUST_6961,Victoria Marquez,Male,robertsaaron@hotmail.com,2020-03-30,534 Smith Mission,Credit Card,Groceries,3946,No,No
+CUST_1093,Douglas Jenkins,Female,dunncourtney@wagner.org,2021-07-31,16155 Diana Fork,Mobile Payment,Home Appliances,2668,Yes,No
+CUST_6715,Heather Cochran,Female,lpotter@gomez-anderson.com,2020-05-10,"PSC 6040, Box 1082",Bank,Fashion,4932,No,No
+CUST_7412,Gregory Miller,Female,ibarralisa@hinton.com,2023-10-24,930 Mary Drive,PayPal,Groceries,2822,No,Yes
+CUST_4687,Tony Russell,Male,unknown,2021-08-05,2264 Rhonda Islands Suite 938,Credit,Home Appliances,4903,No,No
+CUST_9244,Heidi Webster,Female,vbarajas@morris.info,2023-06-08,76126 Louis Coves,PayPal,Fashion,440,Yes,No
+CUST_9965,Jane Peters,Male,christymaxwell@hernandez-patel.org,2021-05-18,985 Jasmin Heights Apt. 371,Credit Card,Electronics,2608,No,Yes
+CUST_6130,Brandon Ward,Female,alucas@rivera-patrick.com,2024-05-20,97660 Lewis Extensions Apt. 385,Mobile Payment,Electronics,1845,Yes,Yes
+CUST_9040,Anthony Lang,Male,nthomas@yahoo.com,2020-12-14,18698 Bird Tunnel Suite 110,Credit Card,Electronics,2176,No,No
+CUST_2587,Darren Curtis,Male,alexanderalvarez@yahoo.com,2022-09-25,83667 Jeffrey Ford Apt. 975,Bank Transfer,Electronics,3737,Yes,Yes
+CUST_2946,Melissa Peterson,Female,kwarren@mills.org,2024-06-18,6606 Leah Island Apt. 298,Credit Card,Fashion,3727,Yes,No
+CUST_8530,John Hernandez Md,Female,bridget87@williams.biz,2020-12-07,7075 Russell Ports Apt. 463,PayPal,Groceries,-186,No,Yes
+CUST_7928,Cassandra Diaz,Male,houstonlinda@baldwin-young.com,2022-05-07,2130 Ramos Route,PayPal,Groceries,1423,No,Yes
+CUST_3405,Lisa Rosales,Male,riveraanthony@hotmail.com,2025-01-27,87631 Amanda Mission,Mobile Payment,Home Appliances,1106,Yes,Yes
+CUST_4984,Christine Clark Dds,Female,cory83@elliott-morales.org,2024-12-04,1767 Hart Port,Credit Card,Electronics,861,Yes,No
+CUST_9164,Amy Mccoy,Female,michaelcarter@gmail.com,2023-01-26,844 Robert Glens Suite 428,Mobile Payment,Electronics,4261,No,No
+CUST_3210,Michelle Arnold,Female,mccarthysusan@yahoo.com,2021-03-31,223 Lopez Street Suite 350,PayPal,Home Appliances,2081,No,No
+CUST_6119,Deborah Lopez,Female,hawkinsanthony@gmail.com,2024-12-17,USS Murray,Mobile Payment,Fashion,2383,Yes,No
+CUST_1980,Richard Jones,Male,shaun47@gmail.com,2020-11-20,00916 Mendez Mews Apt. 351,Credit Card,Home Appliances,2858,Yes,Yes
+CUST_5489,Yvonne Anderson,Male,jillian26@wallace.com,2024-08-25,03520 Glenn Haven Apt. 434,Credit Card,Fashion,3998,Yes,No
+CUST_7251,Nathan Ponce,Male,andrea65@yahoo.com,2023-03-19,USCGC Marshall,Credit Card,Electronics,2971,Yes,No
+CUST_6351,Virginia Farmer,Female,courtney57@mata-avila.com,2022-11-25,93196 Li Wells Suite 820,Bank Transfer,Electronics,2751,Yes,No
+CUST_9896,Mary Bonilla,Female,stephenspatrick@yahoo.com,2024-08-01,1462 Andrea Streets Apt. 920,Mobile Payment,Home Appliances,3245,No,Yes
+CUST_9141,Taylor Gonzalez,Male,ann03@bailey-whitney.info,2023-05-14,454 Brian Grove Apt. 555,Pay,Electronics,1470,No,No
+CUST_1348,Eugene Anthony,Female,shepherdjessica@yahoo.com,2022-05-10,33865 Mark Course Apt. 064,Mobile Payment,Groceries,2506,Yes,Yes
+CUST_1421,Rachel Smith,Male,woodardchristopher@morales-riley.org,2023-04-24,503 Kevin Drive Suite 663,Bank Transfer,Home Appliances,2753,No,Yes
+CUST_3120,Angela Reed,Male,johnsondouglas@yahoo.com,2020-06-15,29522 Mikayla Crescent,Bank,Groceries,3503,No,Yes
+CUST_1514,Jeff Tran,Female,pricemichelle@walker-phillips.biz,2022-05-25,7152 Rodriguez Gateway,Mobile Payment,Electronics,128,Yes,Yes
+CUST_7789,Kathleen Miller,Female,jamesbrown@gmail.com,2022-03-10,05293 Leslie Spur Apt. 363,BankTrans,Home Appliances,3217,Yes,No
+CUST_9861,Evan Smith,Female,dmorales@gmail.com,2020-03-16,6430 Lynch Knoll Apt. 230,Credit,Electronics,3856,Yes,No
+CUST_4332,David Brooks,Male,baileyryan@diaz.info,2021-05-23,"PSC 0155, Box 3580",Mobile Payment,Groceries,4345,Yes,Yes
+CUST_4061,Amber Phillips,Male,kalexander@jones-scott.info,2022-08-21,4189 Erica Shores,Bank Transfer,Fashion,2146,No,Yes
+CUST_2584,Terry Rodgers,Male,matthewhart@yahoo.com,2023-04-04,2432 Jason Mountains Apt. 670,Credit Card,Groceries,57,No,Yes
+CUST_1138,Alyssa Schneider,Male,james91@yahoo.com,2023-02-28,USNS Anderson,PayPal,Fashion,1209,No,No
+CUST_6623,Eileen Thompson,Female,lwashington@yahoo.com,2021-01-04,"PSC 1089, Box 7737",Credit Card,Electronics,2650,No,No
+CUST_3650,Nicholas Harper,Male,cmiller@torres.com,2021-06-22,4315 John Rest Suite 775,Bank Transfer,Home Appliances,516,Yes,No
+CUST_7332,Ann Perez,Female,ysmith@yahoo.com,2024-01-23,25074 Stacey Neck,Crdit Card,Groceries,2635,No,No
+CUST_3592,Frank Ramsey,Male,maysdiana@gmail.com,2020-02-16,25973 Charles Crossing Suite 457,Bank Transfer,Groceries,3811,Yes,Yes
+CUST_1584,Christopher Williams,Male,aprince@carney.net,2020-06-09,197 John Summit,Credit Card,Groceries,736,Yes,Yes
+CUST_8211,Stephanie Patterson,Male,tuckerchristopher@hotmail.com,2022-01-10,"PSC 0244, Box 5265",Bank Transfer,Groceries,1921,Yes,Yes
+CUST_9080,Laura Clark,Male,unknown,2023-09-27,7436 Rodriguez Canyon,PayPal,Fashion,2956,No,Yes
+CUST_6852,Ryan Dillon,Female,janet41@hotmail.com,2024-08-24,90029 Walker Road Apt. 598,Credit Card,Groceries,3320,Yes,No
+CUST_6737,Omar Lane,Female,samuel48@hotmail.com,2020-08-21,192 Ann Plains Suite 786,Mobile Payment,Home Appliances,2656,Yes,Yes
+CUST_2038,Michael Gordon,Male,clarksheila@white.com,2020-03-27,002 Judith Rue Suite 052,Credit Card,Fashion,648,No,No
+CUST_9071,Rebecca Caldwell,Male,raymond32@yahoo.com,2021-09-24,497 Jacobs Ferry Suite 237,Mobile Payment,Fashion,286,No,Yes
+CUST_6783,Rachel Romero,Female,pbanks@jackson.biz,2020-12-19,06619 Garcia Road Apt. 363,Pay,Fashion,1149,Yes,Yes
+CUST_3480,Steven Herring,Female,williammeadows@yahoo.com,2020-03-23,484 Hannah Way Suite 017,Pay,Fashion,2388,No,No
+CUST_8557,Raymond Christensen,Female,fmartinez@allen.net,2024-04-15,2006 Velasquez Radial Apt. 776,PayPal,Electronics,1991,Yes,No
+CUST_8801,John Rice,Male,joannawashington@yahoo.com,2023-08-19,51302 Roger Glens,Credit Card,Fashion,-322,Yes,No
+CUST_4645,Jeffrey Knight,Female,ldowns@sexton.com,2022-10-14,90634 Burgess Squares,Credit Card,Fashion,4709,No,Yes
+CUST_9911,Samantha Dougherty,Male,leslie68@yahoo.com,2022-11-04,2025 Amanda Parks,PayPal,Home Appliances,2443,No,No
+CUST_5016,Charles Wilson,Female,mcobb@mcclain-jarvis.com,2024-04-01,3593 Peterson Passage Suite 201,PayPal,Groceries,4609,Yes,No
+CUST_3679,Jody Glenn,Male,wcasey@miller.com,2024-02-07,74005 Patricia Circle,Bank Transfer,Home Appliances,2992,No,No
+CUST_3830,Ashley Calderon,Male,layala@hotmail.com,2020-05-06,547 Decker Estate,PayPal,Electronics,1137,No,No
+CUST_2940,Robert Solis,Female,wardamanda@gmail.com,2021-12-29,13179 Kimberly Via Apt. 306,Bank Transfer,Groceries,4609,No,No
+CUST_6801,Charles Garrett,Male,hevans@yahoo.com,2023-06-02,71504 Elizabeth Drives Apt. 996,Mobile Payment,Fashion,2718,No,No
+CUST_6912,Mr. Reginald Moore Md,Female,xhoward@mcclain.com,2023-08-12,Unit 3441 Box 9828,Mobile Payment,Electronics,2977,Yes,No
+CUST_8759,Kathleen Kelley,Female,unknown,2022-09-25,128 Baldwin Expressway,Credit Card,Home Appliances,2623,Yes,No
+CUST_7554,Ryan Figueroa,Male,glenedwards@gmail.com,2020-02-06,971 Shelton Expressway,Credit Card,Home Appliances,2172,Yes,No
+CUST_5365,Bernard Boyd,Female,uwilson@hotmail.com,2021-04-10,8734 Jones Dale,Mobile Payment,Fashion,3778,Yes,No
+CUST_1387,Nathaniel Rogers,Female,yolanda87@scott.com,2020-08-16,294 Sharp Roads Apt. 426,Bank Transfer,Groceries,4852,Yes,No
+CUST_5926,Lindsey Schultz,Male,higginsanthony@nelson-manning.biz,2020-06-17,29366 King Gardens Suite 207,Bank Transfer,Home Appliances,2870,Yes,No
+CUST_9332,Andrew Smith,Male,matthewfleming@buck.com,2020-10-11,2998 Garcia Locks,Mobile Payment,Fashion,3192,Yes,Yes
+CUST_8526,Dylan Meyer,Female,lbaldwin@yahoo.com,2021-09-20,USNV Holt,Mobile Payment,Groceries,1658,Yes,Yes
+CUST_8388,Lisa Hardy,Female,patricia13@johnston-reed.com,2020-02-13,122 Kelly View,Mobile Payment,Fashion,-2870,No,Yes
+CUST_3906,Mark Jenkins,Male,watsoneugene@carlson.com,2021-09-04,"PSC 2633, Box 1470",Mobile Payment,Fashion,535,No,No
