@@ -1,49 +1,97 @@
-# Analyzing the Impact of a Discount Campaign on Profitability
+# Descriptive Analysis of the Impact of a Discount Campaign on Profitability
 
-## Situation:
-A retail company launched a 15% discount campaign in January, driving significant sales volume. However, the CEO questioned whether the campaign truly improved profitability. My goal was to analyze the company’s sales and customer data to determine:
-- Whether profitability improved
-- If the campaign cannibalized full-price sales
-- Whether it attracted the right customer segments
-Based on my findings, I provided strategic recommendations to ensure sustainable growth.
+![](discount_campaign_report_img.png)
+## Executive Summary
+Leveraging Excel, SQL, Python, and Power BI, I designed an automated data pipeline and reporting workflow to assess the impact of a discount campaign on company profitability. The project involved cleaning raw datasets in Excel, migrating them to a MySQL database, and automating updates using Python scripts. The database was then integrated with Power BI for dynamic visualization and analysis.
 
-## Approach:
-To systematically evaluate the campaign’s impact, I structured the analysis into the following key tasks:
-### 1. Data Cleaning & Exploratory Data Analysis (EDA)
-- Processed customer transactions and product data using Microsoft Excel Power Query.
-- Removed duplicates, standardized formats, validated data ranges, and handled missing values.
-- Converted negative transactional values to positive for accurate analysis.
-### 2. Database & Data Pipeline Creation
-- Established a MySQL database to store transaction, customer, and product data.
-- Developed a Python script to automate data updates from Microsoft Excel to the database.
-### 3. Data Analysis Using SQL
-- Created analytical views to assess the impact on:
-   - Profitability: Month-over-month profit margin trends.
-   - Sales Cannibalization: Impact on full-price sales and repeat purchases.
-   - Customer Segments: Analysis of new vs. returning customers.
-   - Regional Performance: Identifying high-performing markets.
-   - Product Performance: Evaluating the effect of the campaign across product categories.
-   - Operational Efficiency: Examining order devices and delivery times.
-## 4.	Visualization & Reporting
-- Developed a Power BI dashboard to present key insights visually.
-- Documented findings and strategic recommendations for the leadership team.
+Key insights from the analysis revealed that:
 
-## Key Findings:
-1.	Profitability: January’s average profit margin increased by 16.4%, compared to 10.9% in December, indicating a positive impact from the discount campaign.
-2.	Sales Cannibalization: A decline in transactions from returning customers suggests that some full-price sales were cannibalized.
-3.	Customer Acquisition: The campaign successfully attracted new customers, but returning customers showed reduced engagement.
-4.	Regional Performance: Highest transaction volumes were recorded in Africa, Asia/Pacific, and North America.
-5.	Product Performance: 
-  - Electronics saw the highest transaction volume and profit margin, but the discount had no incremental effect.
-  - Fashion items showed a slight improvement in units sold due to the campaign.
-7.	User Behavior: Most transactions were conducted via desktop and tablet, rather than mobile devices.
+ - Overall profitability improved in January.
+ - Full-price sales experienced partial cannibalization.
+ - The campaign successfully attracted new customers.
 
-## Recommendations:
-1.	Customer Retention Strategy: Introduce tailored promotions to encourage repeat purchases from returning customers.
-2.	Targeted Marketing: Increase marketing efforts in high-performing regions (Africa, Asia/Pacific, North America).
-3.	Product-Specific Strategies: Since electronics sales were unaffected by the discount, analyze December’s growth drivers and replicate successful strategies.
-4.	Delivery System Optimization: Improve logistics to enhance delivery speed and reduce pending orders.
-5.	Mobile Experience Enhancement: Optimize the mobile app to encourage more transactions via smartphones.
+
+
+## Business Problem:
+In January, a retail company launched a 15% discount campaign that led to a noticeable increase in sales volume. However, the CEO was uncertain about its true financial impact and sought deeper insights. Specifically, the company wanted to determine:
+
+- Did the campaign actually improve overall profitability?
+- To what extent did it cannibalize full-price sales?
+- Did it attract the intended customer segments (new customers)?
+
+## Methodology
+
+To systematically evaluate the campaign’s impact on profitability and customer behavior, I structured the project into four key phases:
+
+#### 1. Data Cleaning & Exploratory Data Analysis (EDA)
+
+* Processed and refined customer transaction and product datasets using **Microsoft Excel Power Query**.
+* Removed duplicates, standardized data formats, validated value ranges, and handled missing entries.
+* Adjusted negative transaction values for consistency and accurate computation.
+
+#### 2. Database Design & Data Pipeline Automation
+
+* Built a **MySQL** database to store structured data on transactions, customers, and products.
+* Automated data uploads and updates using a **Python** script to ensure a seamless, reproducible workflow.
+
+#### 3. Analytical Processing Using SQL
+
+* Developed SQL queries and analytical views to evaluate key business metrics, including:
+
+  * **Profitability:** Month-over-month changes in revenue and margins.
+  * **Sales Cannibalization:** Effect of the discount on full-price sales and repeat purchase patterns.
+  * **Customer Segmentation:** Comparison of new versus returning customer behavior.
+
+#### 4. Visualization & Reporting
+
+* Designed an interactive **Power BI** dashboard to communicate insights effectively through visuals such as profit trends, customer mix, and sales performance.
+
+---
+
+### Skills & Tech Stack
+
+| Tool / Language         | Skills Demonstrated                                                                            |
+| ----------------------- | ---------------------------------------------------------------------------------------------- |
+| **Excel (Power Query)** | Data cleaning, validation, transformation, and initial exploratory analysis.                   |
+| **Python**              | Data automation, scripting, and database integration for pipeline efficiency.                  |
+| **MySQL**               | Database design, data storage optimization, and analytical views.                              |
+| **SQL**                 | Data manipulation, business metric computation, and impact analysis.                           |
+| **Power BI**            | Data modeling, DAX, visualization design, and storytelling with data.                          |
+
+
+## Key Findings
+
+![](discount_campaign_report_img.png)
+
+
+1. **Profitability**
+
+   * The campaign led to a **7.3% increase in marginal profit** in January compared to December, with **electronics** emerging as the best-performing product category.
+
+2. **Sales Cannibalization**
+
+   * A noticeable **decline in transactions from returning customers** indicates partial cannibalization of full-price sales, with approximately **72% of previous customers** not making repeat purchases during the campaign period.
+
+3. **Customer Acquisition**
+
+   * The campaign effectively **attracted new customers**, achieving **three times more new buyers** in January than in November and December combined.
+   * However, **returning customer engagement declined**, highlighting the need for retention-focused post-campaign strategies.
+
+
+## Recommendations and Next Steps:
+The analysis suggests that while the discount campaign succeeded in boosting short-term profitability and expanding the customer base, it came at the cost of reduced loyalty among existing customers. This trade-off highlights the importance of balancing acquisition and retention efforts. Future campaigns should consider targeted discounts or loyalty incentives to sustain profitability while minimizing cannibalization of full-price sales and encouraging long-term customer engagement.
+
+### Next Steps:
+   * Implement tiered or targeted discounts for specific customer segments (e.g., new customers or low-engagement segments) to reduce cannibalization of full-price sales.
+
+   * Launch post-campaign loyalty initiatives such as reward points, personalized offers, or exclusive product access to re-engage returning customers.
+
+   * Maintain the Power BI dashboard for continuous tracking of campaign performance, profit margins, and customer behavior trends.
+
+   * Use historical transaction data to build customer segments and design campaigns tailored to each group’s purchase patterns and profitability potential.
+
+   * Before full rollout, carry out A/B testing for future campaigns by testing smaller campaign variants (different discount rates or durations) to identify the optimal balance between profitability and customer acquisition.
+
 
 ## Conclusion:
 This analysis highlights the importance of data-driven decision-making in promotional campaigns. While the discount strategy increased profitability and customer acquisition, refining approaches for customer retention and operational efficiency will ensure long-term sustainable growth.
