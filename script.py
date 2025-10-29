@@ -6,7 +6,7 @@ from sqlalchemy import create_engine
 logging.basicConfig(filename = 'errors.log', level=logging.ERROR, format="%(asctime)s -%(message)s")
 
 db_user = 'root'
-db_password = 'Mysql123#' #(use your MySQL password instead)
+db_password = '' #(use your MySQL password instead)
 db_host = 'localhost'
 db_name = 'e-commerce'
 
@@ -60,4 +60,5 @@ def main():
 
 
 if __name__ =='__main__':
+
     main()
